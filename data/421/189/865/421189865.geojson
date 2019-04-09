@@ -1,0 +1,78 @@
+{
+  "id": 421189865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.053098,-22.612505,17.053098,-22.612505",
+    "geom:latitude":-22.612505,
+    "geom:longitude":17.053098,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Pionierspark"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pionierspark",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Khomas",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117267,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1466367,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1466367,
+        "qs:id":1117267,
+        "wd:id":"Q1678355"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009639,
+    "wof:geomhash":"ba6c9c56ca535cde585846eb26ff11c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421189865,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":421189865,
+    "wof:lastmodified":1527716271,
+    "wof:name":"Pionierspark",
+    "wof:parent_id":85675205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.053098,
+    -22.612505,
+    17.053098,
+    -22.612505
+],
+  "geometry": {"coordinates":[17.053098,-22.612505],"type":"Point"}
+}

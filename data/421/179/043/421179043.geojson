@@ -1,0 +1,116 @@
+{
+  "id": 421179043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96667,-22.41667,14.96667,-22.41667",
+    "geom:latitude":-22.41667,
+    "geom:longitude":14.96667,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Arandis"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0434\u0438\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Arandis"
+    ],
+    "name:dut_x_preferred":[
+        "Arandis"
+    ],
+    "name:eng_x_preferred":[
+        "Arandis"
+    ],
+    "name:fra_x_preferred":[
+        "Arandis"
+    ],
+    "name:fre_x_preferred":[
+        "Arandis"
+    ],
+    "name:ger_x_preferred":[
+        "Arandis"
+    ],
+    "name:ita_x_preferred":[
+        "Arandis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30f3\u30c7\u30a3\u30b9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0434\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Arandis"
+    ],
+    "qs:gn_country":"NA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3358670,
+    "qs:gn_pop":4507,
+    "qs:name":"Arandis",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Erongo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":147495,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1464662,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":428,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358670,
+        "gp:id":1464662,
+        "qs:id":147495,
+        "wd:id":"Q438851",
+        "wk:page":"Arandis, Namibia"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009202,
+    "wof:geomhash":"c00dc56d7a341926d55dce41ba132847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421179043,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":421179043,
+    "wof:lastmodified":1527717712,
+    "wof:name":"Arandis",
+    "wof:parent_id":85675213,
+    "wof:placetype":"locality",
+    "wof:population":4507,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96667,
+    -22.41667,
+    14.96667,
+    -22.41667
+],
+  "geometry": {"coordinates":[14.96667,-22.41667],"type":"Point"}
+}

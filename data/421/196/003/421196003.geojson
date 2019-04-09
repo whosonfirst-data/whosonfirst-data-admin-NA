@@ -1,0 +1,116 @@
+{
+  "id": 421196003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,-19.63333,14.83333,-19.63333",
+    "geom:latitude":-19.63333,
+    "geom:longitude":14.83333,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u043d\u0436\u0430\u0431"
+    ],
+    "name:deu_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:dut_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:eng_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:fre_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:ger_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:ita_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30de\u30f3\u30b8\u30e3\u30d6"
+    ],
+    "name:pol_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:ron_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:rum_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u043d\u044c\u044f\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Kamanjab"
+    ],
+    "qs:gn_country":"NA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3356469,
+    "qs:gn_pop":0,
+    "qs:name":"Kamanjab",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Kunene",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1044156,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1465107,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356469,
+        "gp:id":1465107,
+        "qs:id":1044156,
+        "wd:id":"Q1699191",
+        "wk:page":"Kamanjab"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009866,
+    "wof:geomhash":"5f7152041edd904084dac7612ef3a4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421196003,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":421196003,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Kamanjab",
+    "wof:parent_id":85675209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    -19.63333,
+    14.83333,
+    -19.63333
+],
+  "geometry": {"coordinates":[14.83333,-19.63333],"type":"Point"}
+}

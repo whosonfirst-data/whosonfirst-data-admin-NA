@@ -1,0 +1,81 @@
+{
+  "id": 1125868025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06667,-17.88333,15.06667,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":15.06667,
+    "gn:gn_country":"NA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2719,
+    "gn:population":2719,
+    "iso:country":"NA",
+    "lbl:latitude":-17.88333,
+    "lbl:longitude":15.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Rehoboth"
+    ],
+    "qs_pg:aaroncc":"NA",
+    "qs_pg:gn_country":"NA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3354178,
+    "qs_pg:gn_pop":2719,
+    "qs_pg:name":"Ongandjera",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":95398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675223,
+        1108785121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354178,
+        "qs_pg:id":95398
+    },
+    "wof:country":"NA",
+    "wof:created":1497294144,
+    "wof:geomhash":"4cb5f7614ccf51a0c58d8b1e9528261c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785121,
+            "locality_id":1125868025,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":1125868025,
+    "wof:lastmodified":1509397125,
+    "wof:name":"Ongandjera",
+    "wof:parent_id":1108785121,
+    "wof:placetype":"locality",
+    "wof:population":2719,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06667,
+    -17.88333,
+    15.06667,
+    -17.88333
+],
+  "geometry": {"coordinates":[15.06667,-17.88333],"type":"Point"}
+}

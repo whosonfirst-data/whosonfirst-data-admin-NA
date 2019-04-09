@@ -1,0 +1,73 @@
+{
+  "id": 421181633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.098331,-22.555366,17.098331,-22.555366",
+    "geom:latitude":-22.555366,
+    "geom:longitude":17.098331,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Erospark",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Khomas",
+    "qs:photos":146,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":568627,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1464888,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1464888,
+        "qs:id":568627
+    },
+    "wof:country":"NA",
+    "wof:created":1459009302,
+    "wof:geomhash":"179918b34ee3019b66e7b0fe496ed889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421181633,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":421181633,
+    "wof:lastmodified":1500017394,
+    "wof:name":"Erospark",
+    "wof:parent_id":85675205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.098331,
+    -22.555366,
+    17.098331,
+    -22.555366
+],
+  "geometry": {"coordinates":[17.098331,-22.555366],"type":"Point"}
+}

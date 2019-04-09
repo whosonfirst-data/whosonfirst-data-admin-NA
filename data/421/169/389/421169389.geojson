@@ -1,0 +1,73 @@
+{
+  "id": 421169389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.243418,-26.480023,18.243418,-26.480023",
+    "geom:latitude":-26.480023,
+    "geom:longitude":18.243418,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gariganus",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Karas",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":902013,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1464932,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1464932,
+        "qs:id":902013
+    },
+    "wof:country":"NA",
+    "wof:created":1459008807,
+    "wof:geomhash":"f8be38e71575902cc83d091bc9f6c560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421169389,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":421169389,
+    "wof:lastmodified":1500017072,
+    "wof:name":"Gariganus",
+    "wof:parent_id":85675195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.243418,
+    -26.480023,
+    18.243418,
+    -26.480023
+],
+  "geometry": {"coordinates":[18.243418,-26.480023],"type":"Point"}
+}

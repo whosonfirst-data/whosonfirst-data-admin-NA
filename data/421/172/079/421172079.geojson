@@ -1,0 +1,279 @@
+{
+  "id": 421172079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.500107,-22.946833,14.500107,-22.946833",
+    "geom:latitude":-22.946833,
+    "geom:longitude":14.500107,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Walvisbaai"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0641\u0633 \u0628\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0423\u043e\u043b\u0432\u0456\u0441-\u0411\u044d\u0439"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09be\u09b2\u09cd\u09ad\u09bf\u09b8 \u09ac\u09c7"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u043e\u043b\u0444\u0438\u0448 \u0411\u0435\u0439"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0423\u043e\u043b\u0444\u0438\u0448-\u0411\u0435\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:chi_x_preferred":[
+        "\u9cb8\u6e7e\u6e2f"
+    ],
+    "name:cze_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:dan_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:dut_x_preferred":[
+        "Walvisbaai"
+    ],
+    "name:eng_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:epo_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:est_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:eus_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:fin_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:frr_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e3\u10dd\u10da\u10e4\u10d8\u10e8-\u10d1\u10d4\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ac\u03bb\u03b2\u03b9\u03c2 \u039c\u03c0\u03ad\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0ab2\u0acd\u0ab5\u0abf\u0ab8 \u0aac\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d5\u05d5\u05d9\u05e1 \u05d1\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0932\u094d\u0935\u093f\u0938 \u092c\u0947"
+    ],
+    "name:hrv_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:hun_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:ice_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:ind_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:isl_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30eb\u30d3\u30b9\u30d9\u30a4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0cb2\u0ccd\u0cb5\u0cbf\u0cb8\u0ccd \u0cac\u0cc7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10dd\u10da\u10e4\u10d8\u10e8-\u10d1\u10d4\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6d4\ube44\uc2a4\ubca0\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Volfi\u0161beja"
+    ],
+    "name:lit_x_preferred":[
+        "Volvis B\u0117jus"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u043e\u043b\u0432\u0438\u0441 \u0411\u0435\u0458"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u0932\u094d\u0935\u093f\u0938 \u092c\u0947"
+    ],
+    "name:may_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:nld_x_preferred":[
+        "Walvisbaai"
+    ],
+    "name:nob_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:nor_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:por_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:ron_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:rum_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u043b\u0444\u0438\u0448-\u0411\u0435\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0ddc\u0dbd\u0dca\u0dc0\u0dd2\u0dc3\u0dca \u0db6\u0dda"
+    ],
+    "name:slv_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:sna_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:spa_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u0432\u0438\u0441 \u0411\u0435\u0458"
+    ],
+    "name:swa_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0bb2\u0bcd\u0bb5\u0bbf\u0bb8\u0bcd \u0baa\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c32\u0c4d\u0c35\u0c3f\u0c37\u0c4d \u0c2c\u0c47"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e31\u0e25\u0e27\u0e34\u0e2a \u0e40\u0e1a\u0e22\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u0444\u0456\u0448-\u0411\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0644\u0648\u06cc\u0633 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u9cb8\u6e7e\u6e2f"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Walvis Bay",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Erongo",
+    "qs:photos":779,
+    "qs:photos_1k":158,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":779,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1295774,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1466697,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:latitude":-22.949444,
+    "wd:longitude":14.506944,
+    "wd:population":85000,
+    "wd:wordcount":2050,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1466697,
+        "qs:id":1295774,
+        "wd:id":"Q220843"
+    },
+    "wof:country":"NA",
+    "wof:created":1459008919,
+    "wof:geomhash":"bbd924a4fff6760c53f86df857a1cd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421172079,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":421172079,
+    "wof:lastmodified":1527716300,
+    "wof:name":"Walvis Bay",
+    "wof:parent_id":85675213,
+    "wof:placetype":"locality",
+    "wof:population":85000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.500107,
+    -22.946833,
+    14.500107,
+    -22.946833
+],
+  "geometry": {"coordinates":[14.500107,-22.946833],"type":"Point"}
+}

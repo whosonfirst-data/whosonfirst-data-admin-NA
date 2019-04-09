@@ -1,0 +1,104 @@
+{
+  "id": 421174951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78333,-26.81667,17.78333,-26.81667",
+    "geom:latitude":-26.81667,
+    "geom:longitude":17.78333,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Seeheim"
+    ],
+    "name:deu_x_preferred":[
+        "Seeheim"
+    ],
+    "name:dut_x_preferred":[
+        "Seeheim"
+    ],
+    "name:eng_x_preferred":[
+        "Seeheim"
+    ],
+    "name:fre_x_preferred":[
+        "Seeheim"
+    ],
+    "name:ger_x_preferred":[
+        "Seeheim"
+    ],
+    "name:pol_x_preferred":[
+        "Seeheim"
+    ],
+    "name:ron_x_preferred":[
+        "Seeheim"
+    ],
+    "name:rum_x_preferred":[
+        "Seeheim"
+    ],
+    "qs:gn_country":"NA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3353191,
+    "qs:gn_pop":0,
+    "qs:name":"Seeheim",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Karas",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":910970,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1466443,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":377,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353191,
+        "gp:id":1466443,
+        "qs:id":910970,
+        "wd:id":"Q493493",
+        "wk:page":"Seeheim"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009049,
+    "wof:geomhash":"5258721240bfcf886e5bec15963e5d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421174951,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":421174951,
+    "wof:lastmodified":1527716228,
+    "wof:name":"Seeheim",
+    "wof:parent_id":85675195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78333,
+    -26.81667,
+    17.78333,
+    -26.81667
+],
+  "geometry": {"coordinates":[17.78333,-26.81667],"type":"Point"}
+}

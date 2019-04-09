@@ -1,0 +1,100 @@
+{
+  "id": 1125867999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73333,-28.45,18.73333,-28.45",
+    "geom:latitude":-28.45,
+    "geom:longitude":18.73333,
+    "gn:gn_country":"NA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6700,
+    "gn:population":6700,
+    "iso:country":"NA",
+    "lbl:latitude":-28.45,
+    "lbl:longitude":18.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Warmbad"
+    ],
+    "name:dut_x_preferred":[
+        "Warmbad"
+    ],
+    "name:eng_x_preferred":[
+        "Warmbad"
+    ],
+    "name:fre_x_preferred":[
+        "Warmbad"
+    ],
+    "name:ger_x_preferred":[
+        "Warmbad"
+    ],
+    "name:rum_x_preferred":[
+        "Warmbad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043c\u0431\u0430\u0434"
+    ],
+    "qs_pg:aaroncc":"NA",
+    "qs_pg:gn_country":"NA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3352263,
+    "qs_pg:gn_pop":6700,
+    "qs_pg:name":"Warmbad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":95396,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352263,
+        "qs_pg:id":95396,
+        "wd:id":"Q479312"
+    },
+    "wof:country":"NA",
+    "wof:created":1497294143,
+    "wof:geomhash":"e55f60f50d854ab3534feed9e301e7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":1125867999,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1125867999,
+    "wof:lastmodified":1514491409,
+    "wof:name":"Warmbad",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:population":6700,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73333,
+    -28.45,
+    18.73333,
+    -28.45
+],
+  "geometry": {"coordinates":[18.73333,-28.45],"type":"Point"}
+}

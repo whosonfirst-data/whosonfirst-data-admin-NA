@@ -1,0 +1,115 @@
+{
+  "id": 421180423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43333,-20.58333,17.43333,-20.58333",
+    "geom:latitude":-20.58333,
+    "geom:longitude":17.43333,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041e\u043a\u0430\u043a\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5967\u5361\u5361\u62c9\u62c9"
+    ],
+    "name:deu_x_preferred":[
+        "Okakarara"
+    ],
+    "name:dut_x_preferred":[
+        "Okakarara"
+    ],
+    "name:eng_x_preferred":[
+        "Okakarara"
+    ],
+    "name:fre_x_preferred":[
+        "Okakarara"
+    ],
+    "name:ger_x_preferred":[
+        "Okakarara"
+    ],
+    "name:ita_x_preferred":[
+        "Okakarara"
+    ],
+    "name:pol_x_preferred":[
+        "Okakarara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0430\u043a\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5361\u5361\u62c9\u62c9"
+    ],
+    "qs:gn_country":"NA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3354876,
+    "qs:gn_pop":5255,
+    "qs:name":"Okakarara",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Otjozondjupa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":431234,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1465642,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-20.585556,
+    "wd:longitude":17.456944,
+    "wd:wordcount":482,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354876,
+        "gp:id":1465642,
+        "qs:id":431234,
+        "wd:id":"Q992077",
+        "wk:page":"Okakarara"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009258,
+    "wof:geomhash":"0618d25f56ffe4c2c59baaca906e0c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421180423,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":421180423,
+    "wof:lastmodified":1527716235,
+    "wof:name":"Okakarara",
+    "wof:parent_id":85675217,
+    "wof:placetype":"locality",
+    "wof:population":5255,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43333,
+    -20.58333,
+    17.43333,
+    -20.58333
+],
+  "geometry": {"coordinates":[17.43333,-20.58333],"type":"Point"}
+}

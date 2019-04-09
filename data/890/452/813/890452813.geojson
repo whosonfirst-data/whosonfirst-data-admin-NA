@@ -1,0 +1,85 @@
+{
+  "id": 890452813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11667,-24.13333,19.11667,-24.13333",
+    "geom:latitude":-24.13333,
+    "geom:longitude":19.11667,
+    "gn:country":"NA",
+    "gn:fcode":"PPL",
+    "gn:pop":3430,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Aranos"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Aranos"
+    ],
+    "name:eng_x_preferred":[
+        "Aranos"
+    ],
+    "name:ger_x_preferred":[
+        "Aranos"
+    ],
+    "name:ita_x_preferred":[
+        "Aranos"
+    ],
+    "qs:name":"Aranos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358666,
+        "gp:id":1464663,
+        "qs:id":582990,
+        "wd:id":"Q626040",
+        "wk:page":"Aranos"
+    },
+    "wof:country":"NA",
+    "wof:created":1469052831,
+    "wof:geomhash":"d17dd2ece35939c7df3fe196c0719247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":890452813,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":890452813,
+    "wof:lastmodified":1527734187,
+    "wof:name":"Aranos",
+    "wof:parent_id":85675199,
+    "wof:placetype":"locality",
+    "wof:population":3430,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11667,
+    -24.13333,
+    19.11667,
+    -24.13333
+],
+  "geometry": {"coordinates":[19.11667,-24.13333],"type":"Point"}
+}

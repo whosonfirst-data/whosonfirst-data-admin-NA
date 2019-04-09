@@ -1,0 +1,128 @@
+{
+  "id": 421185747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28333,-22.11667,14.28333,-22.11667",
+    "geom:latitude":-22.11667,
+    "geom:longitude":14.28333,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Hentiesbaai"
+    ],
+    "name:chi_x_preferred":[
+        "\u4ea8\u8482\u65af\u7063"
+    ],
+    "name:deu_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:dut_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Hentie's Bay"
+    ],
+    "name:ron_x_preferred":[
+        "Hentie's Bay"
+    ],
+    "name:rum_x_preferred":[
+        "Hentie's Bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043d\u0442\u0438\u0441-\u0411\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:unk_x_variant":[
+        "Hentiesbaai"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ea8\u8482\u65af\u7063"
+    ],
+    "qs:gn_country":"NA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3356832,
+    "qs:gn_pop":3837,
+    "qs:name":"Henties Bay",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Erongo",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1044158,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1465018,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:latitude":-22.120278,
+    "wd:longitude":14.281111,
+    "wd:population":4725,
+    "wd:wordcount":900,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356832,
+        "gp:id":1465018,
+        "qs:id":1044158,
+        "wd:id":"Q1013389",
+        "wk:page":"Henties Bay"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009453,
+    "wof:geomhash":"a735368749eb114400c320d4f7a53798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421185747,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":421185747,
+    "wof:lastmodified":1527726506,
+    "wof:name":"Henties Bay",
+    "wof:parent_id":85675213,
+    "wof:placetype":"locality",
+    "wof:population":4725,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28333,
+    -22.11667,
+    14.28333,
+    -22.11667
+],
+  "geometry": {"coordinates":[14.28333,-22.11667],"type":"Point"}
+}

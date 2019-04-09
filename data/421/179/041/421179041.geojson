@@ -1,0 +1,110 @@
+{
+  "id": 421179041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,-22.35,16.13333,-22.35",
+    "geom:latitude":-22.35,
+    "geom:longitude":16.13333,
+    "iso:country":"NA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:deu_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:dut_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:eng_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:fra_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:fre_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:ger_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:nld_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0447\u0438\u043c\u0431\u0438\u043d\u0433\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Otjimbingue"
+    ],
+    "qs:gn_country":"NA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3353871,
+    "qs:gn_pop":7677,
+    "qs:name":"Otjimbingwe",
+    "qs:name_adm0":"Namibia",
+    "qs:name_adm1":"Erongo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":147489,
+    "qs:woe_adm0":23424987,
+    "qs:woe_id":1466260,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":597,
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353871,
+        "gp:id":1466260,
+        "qs:id":147489,
+        "wd:id":"Q464050",
+        "wk:page":"Otjimbingwe"
+    },
+    "wof:country":"NA",
+    "wof:created":1459009202,
+    "wof:geomhash":"4d26e1ebea54045346cc73dbb0c53c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "locality_id":421179041,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":421179041,
+    "wof:lastmodified":1527717703,
+    "wof:name":"Otjimbingwe",
+    "wof:parent_id":85675213,
+    "wof:placetype":"locality",
+    "wof:population":7677,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13333,
+    -22.35,
+    16.13333,
+    -22.35
+],
+  "geometry": {"coordinates":[16.13333,-22.35],"type":"Point"}
+}
