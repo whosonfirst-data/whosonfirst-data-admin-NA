@@ -10,6 +10,12 @@
     "geom:latitude":-18.011551,
     "geom:longitude":15.659466,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Ompundja Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.010296,
     "lbl:longitude":15.662279,
     "meso:adm1_en":"Oshana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785143,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Ompundja",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

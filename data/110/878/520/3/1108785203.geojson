@@ -10,6 +10,12 @@
     "geom:latitude":-19.724312,
     "geom:longitude":19.950408,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Tsumkwe Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-19.729664,
     "lbl:longitude":19.95013,
     "meso:adm1_en":"Otjozondjupa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785203,
-    "wof:lastmodified":1536615791,
+    "wof:lastmodified":1553718785,
     "wof:name":"Tsumkwe",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

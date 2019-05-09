@@ -10,6 +10,12 @@
     "geom:latitude":-18.898974,
     "geom:longitude":16.510297,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Omuthiyagwipundi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.952082,
     "lbl:longitude":16.522828,
     "meso:adm1_en":"Oshikoto",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421186335,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1553717449,
     "wof:name":"Omuthiyagwipundi",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

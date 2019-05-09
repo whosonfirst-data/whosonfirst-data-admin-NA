@@ -10,6 +10,12 @@
     "geom:latitude":-22.523984,
     "geom:longitude":17.052808,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Katutura Central Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.526027,
     "lbl:longitude":17.052936,
     "meso:adm1_en":"Khomas",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785101,
-    "wof:lastmodified":1536615788,
+    "wof:lastmodified":1553718781,
     "wof:name":"Katutura Central",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

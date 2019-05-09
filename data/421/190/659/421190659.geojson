@@ -10,6 +10,12 @@
     "geom:latitude":-23.307169,
     "geom:longitude":15.042577,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Walvisbay Rural Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-23.343243,
     "lbl:longitude":15.031636,
     "meso:adm1_en":"Erongo",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421190659,
-    "wof:lastmodified":1536616081,
+    "wof:lastmodified":1553717491,
     "wof:name":"Walvisbay Rural",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

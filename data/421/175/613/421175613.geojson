@@ -10,6 +10,12 @@
     "geom:latitude":-19.825193,
     "geom:longitude":16.273927,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Outjo Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-19.768971,
     "lbl:longitude":16.307366,
     "meso:adm1_en":"Kunene",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421175613,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717362,
     "wof:name":"Outjo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

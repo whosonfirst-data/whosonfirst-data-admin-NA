@@ -10,6 +10,12 @@
     "geom:latitude":-17.521018,
     "geom:longitude":15.883359,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Ohangwena Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.512821,
     "lbl:longitude":15.883364,
     "meso:adm1_en":"Ohangwena",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785119,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718782,
     "wof:name":"Ohangwena",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

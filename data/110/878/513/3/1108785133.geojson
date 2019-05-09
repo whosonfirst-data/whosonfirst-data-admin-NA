@@ -10,6 +10,12 @@
     "geom:latitude":-17.821303,
     "geom:longitude":15.573728,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okatana Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.910378,
     "lbl:longitude":15.485392,
     "meso:adm1_en":"Oshana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785133,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Okatana",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

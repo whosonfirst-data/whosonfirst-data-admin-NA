@@ -10,6 +10,12 @@
     "geom:latitude":-17.654084,
     "geom:longitude":16.09394,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Omulonga Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.654455,
     "lbl:longitude":16.091372,
     "meso:adm1_en":"Ohangwena",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785145,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Omulonga",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

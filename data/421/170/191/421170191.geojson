@@ -10,6 +10,12 @@
     "geom:latitude":-24.728955,
     "geom:longitude":16.206895,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Gibeon Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-24.92973,
     "lbl:longitude":16.374391,
     "meso:adm1_en":"Hardap",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421170191,
-    "wof:lastmodified":1536615907,
+    "wof:lastmodified":1553717312,
     "wof:name":"Gibeon",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

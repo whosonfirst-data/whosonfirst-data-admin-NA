@@ -10,6 +10,12 @@
     "geom:latitude":-17.509072,
     "geom:longitude":24.278949,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Katima Muliro Urban Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.513193,
     "lbl:longitude":24.275564,
     "meso:adm1_en":"Zambezi",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785099,
-    "wof:lastmodified":1536615788,
+    "wof:lastmodified":1553718781,
     "wof:name":"Katima Muliro Urban",
     "wof:parent_id":85675247,
     "wof:placetype":"county",

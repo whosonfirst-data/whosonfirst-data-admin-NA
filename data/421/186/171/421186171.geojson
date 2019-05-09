@@ -10,6 +10,12 @@
     "geom:latitude":-19.307659,
     "geom:longitude":18.43566,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Grootfontein Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-19.229995,
     "lbl:longitude":18.424303,
     "meso:adm1_en":"Otjozondjupa",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421186171,
-    "wof:lastmodified":1536616033,
+    "wof:lastmodified":1553717446,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

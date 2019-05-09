@@ -10,6 +10,12 @@
     "geom:latitude":-17.862176,
     "geom:longitude":15.735896,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Oshakati East Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.874955,
     "lbl:longitude":15.740831,
     "meso:adm1_en":"Oshana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785169,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718784,
     "wof:name":"Oshakati East",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

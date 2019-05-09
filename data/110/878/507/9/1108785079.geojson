@@ -10,6 +10,12 @@
     "geom:latitude":-18.193345,
     "geom:longitude":17.332165,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Engodi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.15644,
     "lbl:longitude":17.332186,
     "meso:adm1_en":"Oshikoto",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785079,
-    "wof:lastmodified":1536615787,
+    "wof:lastmodified":1553718780,
     "wof:name":"Engodi",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

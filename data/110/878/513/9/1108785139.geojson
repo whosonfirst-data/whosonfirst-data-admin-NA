@@ -10,6 +10,12 @@
     "geom:latitude":-18.038786,
     "geom:longitude":16.068616,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Olukonda Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.028008,
     "lbl:longitude":16.07686,
     "meso:adm1_en":"Oshikoto",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785139,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Olukonda",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

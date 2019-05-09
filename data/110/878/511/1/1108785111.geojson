@@ -10,6 +10,12 @@
     "geom:latitude":-22.468536,
     "geom:longitude":17.045084,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Moses Garoeb Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.455092,
     "lbl:longitude":17.045721,
     "meso:adm1_en":"Khomas",
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Moses Garoeb"
+    ],
+    "name:eng_x_variant":[
         "Moses ?Garoeb"
     ],
     "src:geom":"meso",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1108785111,
-    "wof:lastmodified":1536615788,
+    "wof:lastmodified":1555047484,
     "wof:name":"Moses Garoeb",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

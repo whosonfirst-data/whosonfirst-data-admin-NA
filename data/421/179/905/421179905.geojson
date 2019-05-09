@@ -10,6 +10,12 @@
     "geom:latitude":-19.233254,
     "geom:longitude":17.718434,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Tsumeb Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-19.229956,
     "lbl:longitude":17.706999,
     "meso:adm1_en":"Oshikoto",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421179905,
-    "wof:lastmodified":1536615965,
+    "wof:lastmodified":1553717374,
     "wof:name":"Tsumeb",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

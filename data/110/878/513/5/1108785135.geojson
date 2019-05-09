@@ -10,6 +10,12 @@
     "geom:latitude":-18.154271,
     "geom:longitude":15.924923,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okatyali Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.131347,
     "lbl:longitude":15.950371,
     "meso:adm1_en":"Oshana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785135,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Okatyali",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

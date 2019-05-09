@@ -10,6 +10,12 @@
     "geom:latitude":-17.625806,
     "geom:longitude":15.820994,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Endola Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.620443,
     "lbl:longitude":15.820997,
     "meso:adm1_en":"Ohangwena",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785075,
-    "wof:lastmodified":1536615787,
+    "wof:lastmodified":1553718780,
     "wof:name":"Endola",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

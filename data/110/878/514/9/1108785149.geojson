@@ -10,6 +10,12 @@
     "geom:latitude":-18.317922,
     "geom:longitude":16.18043,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Omuntele Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.319521,
     "lbl:longitude":16.180425,
     "meso:adm1_en":"Oshikoto",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785149,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718783,
     "wof:name":"Omuntele",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

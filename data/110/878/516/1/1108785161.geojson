@@ -10,6 +10,12 @@
     "geom:latitude":-17.4476,
     "geom:longitude":15.667896,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Ongenga Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.459991,
     "lbl:longitude":15.633501,
     "meso:adm1_en":"Ohangwena",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785161,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718783,
     "wof:name":"Ongenga",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

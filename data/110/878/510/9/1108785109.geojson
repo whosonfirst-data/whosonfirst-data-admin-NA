@@ -10,6 +10,12 @@
     "geom:latitude":-18.627647,
     "geom:longitude":20.089058,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Mashare Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.672565,
     "lbl:longitude":20.07996,
     "meso:adm1_en":"Kavango",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785109,
-    "wof:lastmodified":1536615788,
+    "wof:lastmodified":1553718782,
     "wof:name":"Mashare",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

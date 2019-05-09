@@ -10,6 +10,12 @@
     "geom:latitude":-22.546575,
     "geom:longitude":17.023244,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Khomasdal North Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.549992,
     "lbl:longitude":17.020171,
     "meso:adm1_en":"Khomas",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421171383,
-    "wof:lastmodified":1536615928,
+    "wof:lastmodified":1553717325,
     "wof:name":"Khomasdal North",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

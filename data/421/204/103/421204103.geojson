@@ -10,6 +10,12 @@
     "geom:latitude":-26.591841,
     "geom:longitude":18.963024,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Keetmanshoop Rural Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.534546,
     "lbl:longitude":19.203301,
     "meso:adm1_en":"Karas",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421204103,
-    "wof:lastmodified":1536616163,
+    "wof:lastmodified":1553717580,
     "wof:name":"Keetmanshoop Rural",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

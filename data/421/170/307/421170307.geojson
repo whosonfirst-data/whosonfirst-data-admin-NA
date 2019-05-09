@@ -10,6 +10,12 @@
     "geom:latitude":-17.577569,
     "geom:longitude":12.951056,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Epupa Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.488055,
     "lbl:longitude":13.10259,
     "meso:adm1_en":"Kunene",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421170307,
-    "wof:lastmodified":1536615909,
+    "wof:lastmodified":1553717315,
     "wof:name":"Epupa",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

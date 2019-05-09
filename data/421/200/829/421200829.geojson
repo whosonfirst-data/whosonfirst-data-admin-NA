@@ -10,6 +10,12 @@
     "geom:latitude":-26.657439,
     "geom:longitude":15.870281,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Luderitz Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.621473,
     "lbl:longitude":15.89118,
     "meso:adm1_en":"Karas",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421200829,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1553717553,
     "wof:name":"Luderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-24.557923,
     "geom:longitude":18.932387,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Mariental Rural Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-24.641718,
     "lbl:longitude":19.035107,
     "meso:adm1_en":"Hardap",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421186223,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1553717446,
     "wof:name":"Mariental Rural",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

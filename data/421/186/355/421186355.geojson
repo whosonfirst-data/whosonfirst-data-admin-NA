@@ -10,6 +10,12 @@
     "geom:latitude":-19.819559,
     "geom:longitude":17.363348,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Otavi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-19.812381,
     "lbl:longitude":17.349395,
     "meso:adm1_en":"Otjozondjupa",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421186355,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1553717450,
     "wof:name":"Otavi",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

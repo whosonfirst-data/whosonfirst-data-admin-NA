@@ -10,6 +10,12 @@
     "geom:latitude":-23.304579,
     "geom:longitude":17.141795,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Rehoboth East Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-23.276729,
     "lbl:longitude":17.1346,
     "meso:adm1_en":"Hardap",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421183083,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1553717403,
     "wof:name":"Rehoboth East",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

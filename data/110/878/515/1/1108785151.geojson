@@ -10,6 +10,12 @@
     "geom:latitude":-17.949527,
     "geom:longitude":16.208652,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Onayena Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.94074,
     "lbl:longitude":16.218592,
     "meso:adm1_en":"Oshikoto",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785151,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718783,
     "wof:name":"Onayena",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-19.802738,
     "geom:longitude":15.324484,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Kamanjab Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-19.734529,
     "lbl:longitude":15.38637,
     "meso:adm1_en":"Kunene",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785093,
-    "wof:lastmodified":1536615787,
+    "wof:lastmodified":1553718782,
     "wof:name":"Kamanjab",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

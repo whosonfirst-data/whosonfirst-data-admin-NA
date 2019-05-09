@@ -10,6 +10,12 @@
     "geom:latitude":-18.694283,
     "geom:longitude":14.876286,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okahao Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.611289,
     "lbl:longitude":14.913328,
     "meso:adm1_en":"Omusati",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785121,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Okahao",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

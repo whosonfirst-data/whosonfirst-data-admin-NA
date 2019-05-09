@@ -10,6 +10,12 @@
     "geom:latitude":-22.304922,
     "geom:longitude":15.786858,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Karibib Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.24347,
     "lbl:longitude":15.775137,
     "meso:adm1_en":"Erongo",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421186173,
-    "wof:lastmodified":1536616033,
+    "wof:lastmodified":1553717446,
     "wof:name":"Karibib",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

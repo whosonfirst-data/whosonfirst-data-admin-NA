@@ -10,6 +10,12 @@
     "geom:latitude":-22.920669,
     "geom:longitude":17.154163,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Windhoek Rural Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.848488,
     "lbl:longitude":17.749693,
     "meso:adm1_en":"Khomas",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421186215,
-    "wof:lastmodified":1536616033,
+    "wof:lastmodified":1553717446,
     "wof:name":"Windhoek Rural",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

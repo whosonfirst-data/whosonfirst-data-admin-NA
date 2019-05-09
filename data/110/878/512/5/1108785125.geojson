@@ -10,6 +10,12 @@
     "geom:latitude":-20.387493,
     "geom:longitude":18.335943,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okakarara Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-20.430845,
     "lbl:longitude":18.348498,
     "meso:adm1_en":"Otjozondjupa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785125,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718782,
     "wof:name":"Okakarara",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

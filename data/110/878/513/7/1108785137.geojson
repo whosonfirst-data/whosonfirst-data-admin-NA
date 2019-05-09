@@ -10,6 +10,12 @@
     "geom:latitude":-17.571105,
     "geom:longitude":17.455832,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okongo Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.57547,
     "lbl:longitude":17.455849,
     "meso:adm1_en":"Ohangwena",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785137,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Okongo",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

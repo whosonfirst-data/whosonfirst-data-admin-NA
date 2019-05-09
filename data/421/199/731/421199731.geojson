@@ -10,6 +10,12 @@
     "geom:latitude":-17.858193,
     "geom:longitude":24.108096,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Sibinda Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.864175,
     "lbl:longitude":24.11208,
     "meso:adm1_en":"Zambezi",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421199731,
-    "wof:lastmodified":1536616131,
+    "wof:lastmodified":1553717545,
     "wof:name":"Sibinda",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

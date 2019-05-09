@@ -10,6 +10,12 @@
     "geom:latitude":-26.523618,
     "geom:longitude":18.138532,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Keetmanshoop Urban Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-26.531289,
     "lbl:longitude":18.104627,
     "meso:adm1_en":"Karas",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421203277,
-    "wof:lastmodified":1536616152,
+    "wof:lastmodified":1553717567,
     "wof:name":"Keetmanshoop Urban",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

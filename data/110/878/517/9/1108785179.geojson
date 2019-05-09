@@ -10,6 +10,12 @@
     "geom:latitude":-18.525954,
     "geom:longitude":15.359196,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Otamanzi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.463,
     "lbl:longitude":15.383089,
     "meso:adm1_en":"Omusati",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785179,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718784,
     "wof:name":"Otamanzi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

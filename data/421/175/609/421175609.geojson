@@ -10,6 +10,12 @@
     "geom:latitude":-17.802164,
     "geom:longitude":23.262902,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Kongola Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.84896,
     "lbl:longitude":23.132364,
     "meso:adm1_en":"Zambezi",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421175609,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717362,
     "wof:name":"Kongola",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

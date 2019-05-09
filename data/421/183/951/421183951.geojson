@@ -10,6 +10,12 @@
     "geom:latitude":-18.893097,
     "geom:longitude":17.593723,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Guinas Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.812854,
     "lbl:longitude":17.508305,
     "meso:adm1_en":"Oshikoto",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421183951,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717421,
     "wof:name":"Guinas",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

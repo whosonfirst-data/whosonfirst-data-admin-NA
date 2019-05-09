@@ -10,6 +10,12 @@
     "geom:latitude":-22.263169,
     "geom:longitude":14.689479,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Arandis Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.318035,
     "lbl:longitude":14.689188,
     "meso:adm1_en":"Erongo",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421175615,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717363,
     "wof:name":"Arandis",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

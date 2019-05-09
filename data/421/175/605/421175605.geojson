@@ -10,6 +10,12 @@
     "geom:latitude":-22.619703,
     "geom:longitude":14.599047,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Swakopmund Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.625323,
     "lbl:longitude":14.577434,
     "meso:adm1_en":"Erongo",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421175605,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717362,
     "wof:name":"Swakopmund",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

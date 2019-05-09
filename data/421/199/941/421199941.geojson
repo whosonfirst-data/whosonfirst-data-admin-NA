@@ -10,6 +10,12 @@
     "geom:latitude":-17.782715,
     "geom:longitude":24.454178,
     "iso:country":"ZM",
+    "label:eng_x_preferred_longname":[
+        "Katima Muliro Rural Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.79549,
     "lbl:longitude":24.44966,
     "meso:adm1_en":"Zambezi",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421199941,
-    "wof:lastmodified":1536616132,
+    "wof:lastmodified":1553717548,
     "wof:name":"Katima Muliro Rural",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

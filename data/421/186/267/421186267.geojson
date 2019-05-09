@@ -10,6 +10,12 @@
     "geom:latitude":-21.317598,
     "geom:longitude":15.95859,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Omaruru Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-21.348357,
     "lbl:longitude":15.947784,
     "meso:adm1_en":"Erongo",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421186267,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1553717447,
     "wof:name":"Omaruru",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

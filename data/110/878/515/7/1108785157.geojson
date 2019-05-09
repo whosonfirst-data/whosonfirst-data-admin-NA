@@ -10,6 +10,12 @@
     "geom:latitude":-17.577561,
     "geom:longitude":14.627403,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Onesi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.594731,
     "lbl:longitude":14.629707,
     "meso:adm1_en":"Omusati",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785157,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718783,
     "wof:name":"Onesi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

@@ -12,6 +12,12 @@
     "gn:country":"NA",
     "gp:adm0":23424987,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Walvisbay Urban Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.954793,
     "lbl:longitude":14.510798,
     "meso:adm1_en":"Erongo",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890443131,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1553717603,
     "wof:name":"Walvisbay Urban",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

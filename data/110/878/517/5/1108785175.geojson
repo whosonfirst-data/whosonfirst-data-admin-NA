@@ -10,6 +10,12 @@
     "geom:latitude":-17.690719,
     "geom:longitude":15.392467,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Oshikuku Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.695819,
     "lbl:longitude":15.392472,
     "meso:adm1_en":"Omusati",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785175,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718784,
     "wof:name":"Oshikuku",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

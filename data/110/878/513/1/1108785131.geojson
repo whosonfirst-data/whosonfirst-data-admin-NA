@@ -10,6 +10,12 @@
     "geom:latitude":-17.878214,
     "geom:longitude":17.179743,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okankolo Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.881091,
     "lbl:longitude":16.926614,
     "meso:adm1_en":"Oshikoto",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785131,
-    "wof:lastmodified":1536615789,
+    "wof:lastmodified":1553718783,
     "wof:name":"Okankolo",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

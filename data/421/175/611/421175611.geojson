@@ -10,6 +10,12 @@
     "geom:latitude":-21.375046,
     "geom:longitude":14.93772,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Daures Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-21.517657,
     "lbl:longitude":14.924352,
     "meso:adm1_en":"Erongo",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421175611,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717363,
     "wof:name":"Daures",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

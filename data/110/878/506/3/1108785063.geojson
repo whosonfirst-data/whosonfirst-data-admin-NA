@@ -10,6 +10,12 @@
     "geom:latitude":-23.418518,
     "geom:longitude":19.296405,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Aminius Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-23.387111,
     "lbl:longitude":19.529017,
     "meso:adm1_en":"Omaheke",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785063,
-    "wof:lastmodified":1536615787,
+    "wof:lastmodified":1553718779,
     "wof:name":"Aminius",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

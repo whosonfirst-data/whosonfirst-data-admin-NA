@@ -10,6 +10,12 @@
     "geom:latitude":-18.047713,
     "geom:longitude":18.258845,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Mpungu Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.050624,
     "lbl:longitude":18.252615,
     "meso:adm1_en":"Kavango",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785113,
-    "wof:lastmodified":1536615788,
+    "wof:lastmodified":1553718782,
     "wof:name":"Mpungu",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

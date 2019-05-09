@@ -10,6 +10,12 @@
     "geom:latitude":-21.157351,
     "geom:longitude":17.268517,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Omatako Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-21.336457,
     "lbl:longitude":17.380616,
     "meso:adm1_en":"Otjozondjupa",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421166795,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1553717299,
     "wof:name":"Omatako",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

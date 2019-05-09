@@ -10,6 +10,12 @@
     "geom:latitude":-17.476575,
     "geom:longitude":16.184193,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Ondobe Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.480564,
     "lbl:longitude":16.172185,
     "meso:adm1_en":"Ohangwena",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785155,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718783,
     "wof:name":"Ondobe",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

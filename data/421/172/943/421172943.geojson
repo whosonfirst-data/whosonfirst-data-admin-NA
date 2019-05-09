@@ -10,6 +10,12 @@
     "geom:latitude":-18.099304,
     "geom:longitude":14.407417,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Ruacana Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.736746,
     "lbl:longitude":14.36017,
     "meso:adm1_en":"Omusati",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421172943,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1553717347,
     "wof:name":"Ruacana",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

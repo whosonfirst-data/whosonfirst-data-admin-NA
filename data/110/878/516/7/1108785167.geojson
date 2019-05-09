@@ -10,6 +10,12 @@
     "geom:latitude":-18.072474,
     "geom:longitude":16.37866,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Onyaanya Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.071197,
     "lbl:longitude":16.376303,
     "meso:adm1_en":"Oshikoto",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785167,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718784,
     "wof:name":"Onyaanya",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

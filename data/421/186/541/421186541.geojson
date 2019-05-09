@@ -10,6 +10,12 @@
     "geom:latitude":-18.093695,
     "geom:longitude":21.71938,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Mukwe Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.118875,
     "lbl:longitude":21.719391,
     "meso:adm1_en":"Kavango",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421186541,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1553717451,
     "wof:name":"Mukwe",
     "wof:parent_id":1108804899,
     "wof:placetype":"county",

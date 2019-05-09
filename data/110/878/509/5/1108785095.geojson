@@ -10,6 +10,12 @@
     "geom:latitude":-18.559348,
     "geom:longitude":19.435452,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Kapako Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-18.599066,
     "lbl:longitude":19.457304,
     "meso:adm1_en":"Kavango",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785095,
-    "wof:lastmodified":1536615788,
+    "wof:lastmodified":1553718782,
     "wof:name":"Kapako",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

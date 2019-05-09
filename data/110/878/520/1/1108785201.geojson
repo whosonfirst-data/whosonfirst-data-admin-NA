@@ -10,6 +10,12 @@
     "geom:latitude":-17.887027,
     "geom:longitude":14.785939,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Tsandi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.885571,
     "lbl:longitude":14.785938,
     "meso:adm1_en":"Omusati",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785201,
-    "wof:lastmodified":1536615791,
+    "wof:lastmodified":1553718784,
     "wof:name":"Tsandi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

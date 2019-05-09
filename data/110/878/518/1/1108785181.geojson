@@ -10,6 +10,12 @@
     "geom:latitude":-20.875021,
     "geom:longitude":18.982258,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Otjinene Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-20.878933,
     "lbl:longitude":18.951122,
     "meso:adm1_en":"Omaheke",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785181,
-    "wof:lastmodified":1536615790,
+    "wof:lastmodified":1553718784,
     "wof:name":"Otjinene",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

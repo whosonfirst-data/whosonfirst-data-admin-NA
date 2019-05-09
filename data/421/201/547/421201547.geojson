@@ -10,6 +10,12 @@
     "geom:latitude":-17.906928,
     "geom:longitude":19.770353,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Rundu Urban Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.909686,
     "lbl:longitude":19.779865,
     "meso:adm1_en":"Kavango",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421201547,
-    "wof:lastmodified":1536616139,
+    "wof:lastmodified":1553717555,
     "wof:name":"Rundu Urban",
     "wof:parent_id":1108804903,
     "wof:placetype":"county",

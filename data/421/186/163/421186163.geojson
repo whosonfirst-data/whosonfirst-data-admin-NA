@@ -10,6 +10,12 @@
     "geom:latitude":-20.504065,
     "geom:longitude":16.25362,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Otjiwarongo Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-20.652717,
     "lbl:longitude":16.087187,
     "meso:adm1_en":"Otjozondjupa",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421186163,
-    "wof:lastmodified":1536616033,
+    "wof:lastmodified":1553717445,
     "wof:name":"Otjiwarongo",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

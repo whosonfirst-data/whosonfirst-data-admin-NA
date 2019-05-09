@@ -10,6 +10,12 @@
     "geom:latitude":-22.613829,
     "geom:longitude":16.99736,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Windhoek West Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.612557,
     "lbl:longitude":17.004712,
     "meso:adm1_en":"Khomas",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421186345,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1553717449,
     "wof:name":"Windhoek West",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

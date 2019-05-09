@@ -10,6 +10,12 @@
     "geom:latitude":-22.503344,
     "geom:longitude":19.483245,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Kalahari Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.512962,
     "lbl:longitude":19.531865,
     "meso:adm1_en":"Omaheke",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421175607,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717362,
     "wof:name":"Kalahari",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

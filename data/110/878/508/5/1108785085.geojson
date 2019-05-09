@@ -10,6 +10,12 @@
     "geom:latitude":-17.546494,
     "geom:longitude":15.519587,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Etayi Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.546174,
     "lbl:longitude":15.517406,
     "meso:adm1_en":"Omusati",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785085,
-    "wof:lastmodified":1536615787,
+    "wof:lastmodified":1553718780,
     "wof:name":"Etayi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

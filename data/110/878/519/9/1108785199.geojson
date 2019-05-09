@@ -10,6 +10,12 @@
     "geom:latitude":-22.491409,
     "geom:longitude":17.066776,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Tobias Hainyeko Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-22.491294,
     "lbl:longitude":17.066776,
     "meso:adm1_en":"Khomas",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108785199,
-    "wof:lastmodified":1536615791,
+    "wof:lastmodified":1553718784,
     "wof:name":"Tobias Hainyeko",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

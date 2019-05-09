@@ -10,6 +10,12 @@
     "geom:latitude":-17.9962,
     "geom:longitude":15.884172,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Uukwiyu Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-17.994026,
     "lbl:longitude":15.881901,
     "meso:adm1_en":"Oshana",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421183085,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1553717402,
     "wof:name":"Uukwiyu",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

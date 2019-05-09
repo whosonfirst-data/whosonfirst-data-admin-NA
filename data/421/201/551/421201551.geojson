@@ -10,6 +10,12 @@
     "geom:latitude":-21.836316,
     "geom:longitude":16.669448,
     "iso:country":"NA",
+    "label:eng_x_preferred_longname":[
+        "Okahandja Constituency"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "constituency"
+    ],
     "lbl:latitude":-21.832736,
     "lbl:longitude":16.66285,
     "meso:adm1_en":"Otjozondjupa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421201551,
-    "wof:lastmodified":1536616139,
+    "wof:lastmodified":1553717555,
     "wof:name":"Okahandja",
     "wof:parent_id":85675217,
     "wof:placetype":"county",
