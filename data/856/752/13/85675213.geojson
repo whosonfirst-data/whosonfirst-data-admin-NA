@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.570442,
-    "geom:area_square_m":63833537614.370117,
+    "geom:area_square_m":63833537614.37056,
     "geom:bbox":"13.6311849931,-23.8099943634,16.5539239835,-20.4900809926",
     "geom:latitude":-22.054409,
     "geom:longitude":15.227561,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Erongo"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u9f8d\u6208\u5340"
-    ],
     "name:dan_x_preferred":[
         "Erongo Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Erongo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03cc\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Erongo"
@@ -64,17 +64,8 @@
     "name:fin_x_preferred":[
         "Erongo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Erongo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e0\u10dd\u10dc\u10d2\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Erongo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03cc\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab0\u0acb\u0aa8\u0acd\u0a97\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb0\u0c82\u0c97\u0ccb \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10dd\u10dc\u10d2\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\ub871\uace0 \uc8fc"
     ],
@@ -112,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0930\u094b\u0928\u094d\u0917\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Erongo Region"
+    ],
+    "name:nld_x_preferred":[
+        "Erongo"
     ],
     "name:nob_x_preferred":[
         "Erongo"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Erongo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Erongo"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Erongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u9f8d\u6208\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NAM",
@@ -295,7 +295,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1553814809,
+    "wof:lastmodified":1561759946,
     "wof:name":"Erongo",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

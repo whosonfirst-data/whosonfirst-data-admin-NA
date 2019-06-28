@@ -19,13 +19,7 @@
     "name:bul_x_preferred":[
         "\u041e\u043d\u0434\u0430\u043d\u0433\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u7fc1\u4e39\u74dc"
-    ],
     "name:deu_x_preferred":[
-        "Ondangwa"
-    ],
-    "name:dut_x_preferred":[
         "Ondangwa"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +31,7 @@
     "name:fra_x_preferred":[
         "Ondangua"
     ],
-    "name:fre_x_preferred":[
-        "Ondangua"
-    ],
     "name:frr_x_preferred":[
-        "Ondangwa"
-    ],
-    "name:ger_x_preferred":[
         "Ondangwa"
     ],
     "name:ita_x_preferred":[
@@ -52,13 +40,13 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30f3\u30c0\u30f3\u30b0\u30ef"
     ],
+    "name:nld_x_preferred":[
+        "Ondangwa"
+    ],
     "name:pol_x_preferred":[
         "Ondangwa"
     ],
     "name:ron_x_preferred":[
-        "Ondangwa"
-    ],
-    "name:rum_x_preferred":[
         "Ondangwa"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421194255,
-    "wof:lastmodified":1527716136,
+    "wof:lastmodified":1561759950,
     "wof:name":"Ondangwa",
     "wof:parent_id":85675227,
     "wof:placetype":"locality",

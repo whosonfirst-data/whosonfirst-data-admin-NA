@@ -139,9 +139,6 @@
     "name:cym_x_preferred":[
         "Namibia"
     ],
-    "name:cze_x_preferred":[
-        "Namibie"
-    ],
     "name:dan_x_preferred":[
         "Namibia"
     ],
@@ -739,7 +736,6 @@
         "\u7eb3\u7c73\u6bd4\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u7eb3\u7c73\u6bd4\u4e9a",
         "\u7d0d\u7c73\u6bd4\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -897,7 +893,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1544059285,
+    "wof:lastmodified":1561759946,
     "wof:name":"Namibia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

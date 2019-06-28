@@ -26,16 +26,10 @@
     "name:cat_x_preferred":[
         "Keetmanshoop"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7279\u66fc\u65af\u80e1\u666e"
-    ],
     "name:dan_x_preferred":[
         "Keetmanshoop"
     ],
     "name:deu_x_preferred":[
-        "Keetmanshoop"
-    ],
-    "name:dut_x_preferred":[
         "Keetmanshoop"
     ],
     "name:eng_x_preferred":[
@@ -53,13 +47,7 @@
     "name:fra_x_preferred":[
         "Keetmanshoop"
     ],
-    "name:fre_x_preferred":[
-        "Keetmanshoop"
-    ],
     "name:frr_x_preferred":[
-        "Keetmanshoop"
-    ],
-    "name:ger_x_preferred":[
         "Keetmanshoop"
     ],
     "name:heb_x_preferred":[
@@ -87,9 +75,6 @@
         "Keetmanshoop"
     ],
     "name:ron_x_preferred":[
-        "Keetmanshoop"
-    ],
-    "name:rum_x_preferred":[
         "Keetmanshoop"
     ],
     "name:rus_x_preferred":[
@@ -263,7 +248,7 @@
         }
     ],
     "wof:id":421189849,
-    "wof:lastmodified":1527716270,
+    "wof:lastmodified":1561759951,
     "wof:name":"Keetmanshoop",
     "wof:parent_id":421203277,
     "wof:placetype":"locality",

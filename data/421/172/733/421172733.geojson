@@ -29,17 +29,14 @@
     "name:bxr_x_preferred":[
         "\u041a\u0430\u0442\u0438\u043c\u0430 \u041c\u0443\u043b\u0438\u043b\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u8482\u9a6c\u7a46\u5229\u6d1b"
-    ],
     "name:dan_x_preferred":[
         "Katima Mulilo"
     ],
     "name:deu_x_preferred":[
         "Katima Mulilo"
     ],
-    "name:dut_x_preferred":[
-        "Katima Mulilo"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03af\u03bc\u03b1 \u039c\u03bf\u03c5\u03bb\u03af\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Katima Mulilo"
@@ -53,17 +50,8 @@
     "name:fra_x_preferred":[
         "Katima Mulilo"
     ],
-    "name:fre_x_preferred":[
-        "Katima Mulilo"
-    ],
     "name:frr_x_preferred":[
         "Katima Mulilo"
-    ],
-    "name:ger_x_preferred":[
-        "Katima Mulilo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c4\u03af\u03bc\u03b1 \u039c\u03bf\u03c5\u03bb\u03af\u03bb\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0a9f\u0abf\u0aae\u0abe \u0aae\u0ac1\u0ab2\u0abf\u0ab2\u0acb"
@@ -98,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u091f\u0940\u092e\u093e \u092e\u0941\u0932\u093f\u0932\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Katima Mulilo"
     ],
     "name:nld_x_preferred":[
@@ -117,9 +105,6 @@
         "Katima Mulilo"
     ],
     "name:ron_x_preferred":[
-        "Katima Mulilo"
-    ],
-    "name:rum_x_preferred":[
         "Katima Mulilo"
     ],
     "name:rus_x_preferred":[
@@ -304,7 +289,7 @@
         }
     ],
     "wof:id":421172733,
-    "wof:lastmodified":1527716304,
+    "wof:lastmodified":1561759951,
     "wof:name":"Katima Mulilo",
     "wof:parent_id":1108804901,
     "wof:placetype":"locality",

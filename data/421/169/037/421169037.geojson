@@ -20,22 +20,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u062c\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u55ac"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Outjo"
     ],
     "name:eng_x_preferred":[
         "Outjo"
     ],
-    "name:fre_x_preferred":[
-        "Outjo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e3\u10e9\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Outjo"
     ],
     "name:ita_x_preferred":[
@@ -44,8 +35,14 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30a6\u30c1\u30e7"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e3\u10e9\u10dd"
+    ],
     "name:lit_x_preferred":[
         "Ou\u010das"
+    ],
+    "name:nld_x_preferred":[
+        "Outjo"
     ],
     "name:pol_x_preferred":[
         "Outjo"
@@ -53,7 +50,7 @@
     "name:por_x_preferred":[
         "Outjo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Outjo"
     ],
     "name:rus_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0443\u0447\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u55ac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":421169037,
-    "wof:lastmodified":1527716168,
+    "wof:lastmodified":1561759950,
     "wof:name":"Outjo",
     "wof:parent_id":85675209,
     "wof:placetype":"locality",

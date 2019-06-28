@@ -14,13 +14,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7fc1\u572d\u8fea\u74e6"
-    ],
     "name:deu_x_preferred":[
-        "Ongwediva"
-    ],
-    "name:dut_x_preferred":[
         "Ongwediva"
     ],
     "name:eng_x_preferred":[
@@ -29,13 +23,10 @@
     "name:fra_x_preferred":[
         "Ongwediva"
     ],
-    "name:fre_x_preferred":[
-        "Ongwediva"
-    ],
-    "name:ger_x_preferred":[
-        "Ongwediva"
-    ],
     "name:ita_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:nld_x_preferred":[
         "Ongwediva"
     ],
     "name:rus_x_preferred":[
@@ -193,7 +184,7 @@
         }
     ],
     "wof:id":421176113,
-    "wof:lastmodified":1527726480,
+    "wof:lastmodified":1561759953,
     "wof:name":"Ongwediva",
     "wof:parent_id":85675227,
     "wof:placetype":"locality",

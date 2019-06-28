@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.232347,
-    "geom:area_square_m":14503645133.135048,
+    "geom:area_square_m":14503645133.135628,
     "geom:bbox":"22.4950562373,-18.5022852,25.261752,-17.469636",
     "geom:latitude":-17.861569,
     "geom:longitude":23.846684,
@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Caprivi"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u666e\u91cc\u7ef4\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Caprivi"
     ],
     "name:dan_x_preferred":[
         "Zambezi Region"
     ],
-    "name:dut_x_preferred":[
-        "Caprivi"
+    "name:deu_x_preferred":[
+        "Sambesi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c0\u03c1\u03b9\u03b2\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zambezi"
@@ -67,17 +67,8 @@
     "name:fin_x_preferred":[
         "Caprivi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zambezi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10db\u10d1\u10d4\u10d6\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sambesi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c0\u03c1\u03b9\u03b2\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0ac7\u0a9d\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cbe\u0c82\u0cac\u0cc6\u0c9c\u0cbf \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10db\u10d1\u10d4\u10d6\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ud504\ub9ac\ube44 \uc8fc"
     ],
@@ -112,7 +106,10 @@
     "name:mar_x_preferred":[
         "\u091c\u093e\u0902\u092c\u0947\u091d\u093f \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Caprivi"
+    ],
+    "name:nld_x_preferred":[
         "Caprivi"
     ],
     "name:nob_x_preferred":[
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Caprivi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Caprivi"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Zambezi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u666e\u91cc\u7ef4\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -215,7 +215,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1553816514,
+    "wof:lastmodified":1561759948,
     "wof:name":"Zambezi",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

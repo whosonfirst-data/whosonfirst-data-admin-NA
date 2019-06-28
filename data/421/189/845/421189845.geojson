@@ -19,8 +19,8 @@
     "name:deu_x_preferred":[
         "Vineta"
     ],
-    "name:dut_x_preferred":[
-        "Vineta"
+    "name:deu_x_variant":[
+        "Swakopmund-Vineta"
     ],
     "name:eng_x_preferred":[
         "Vineta"
@@ -30,9 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Vineta"
-    ],
-    "name:ger_x_preferred":[
-        "Swakopmund-Vineta"
     ],
     "name:ita_x_preferred":[
         "Vineta"
@@ -98,7 +95,7 @@
         }
     ],
     "wof:id":421189845,
-    "wof:lastmodified":1527716264,
+    "wof:lastmodified":1561759951,
     "wof:name":"Vineta",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

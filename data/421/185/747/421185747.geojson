@@ -16,13 +16,7 @@
     "name:afr_x_preferred":[
         "Hentiesbaai"
     ],
-    "name:chi_x_preferred":[
-        "\u4ea8\u8482\u65af\u7063"
-    ],
     "name:deu_x_preferred":[
-        "Henties Bay"
-    ],
-    "name:dut_x_preferred":[
         "Henties Bay"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +25,13 @@
     "name:fra_x_preferred":[
         "Henties Bay"
     ],
-    "name:fre_x_preferred":[
-        "Henties Bay"
-    ],
-    "name:ger_x_preferred":[
-        "Henties Bay"
-    ],
     "name:ita_x_preferred":[
         "Hentie's Bay"
     ],
-    "name:ron_x_preferred":[
-        "Hentie's Bay"
+    "name:nld_x_preferred":[
+        "Henties Bay"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hentie's Bay"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +95,7 @@
         }
     ],
     "wof:id":421185747,
-    "wof:lastmodified":1527726506,
+    "wof:lastmodified":1561759953,
     "wof:name":"Henties Bay",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",
