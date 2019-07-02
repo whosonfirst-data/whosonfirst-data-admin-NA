@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Katutura"
     ],
-    "name:dut_x_preferred":[
-        "Katutura"
-    ],
     "name:eng_x_preferred":[
         "Katutura"
     ],
     "name:fra_x_preferred":[
-        "Katutura"
-    ],
-    "name:fre_x_preferred":[
-        "Katutura"
-    ],
-    "name:ger_x_preferred":[
         "Katutura"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +77,7 @@
         }
     ],
     "wof:id":421189859,
-    "wof:lastmodified":1527716265,
+    "wof:lastmodified":1561759951,
     "wof:name":"Katutura",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",

@@ -22,13 +22,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0435\u043d\u0442\u0430\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u6797\u5854\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Mariental"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mariental"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +34,10 @@
     "name:fao_x_preferred":[
         "Mariental"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mariental"
     ],
     "name:frr_x_preferred":[
-        "Mariental"
-    ],
-    "name:ger_x_preferred":[
         "Mariental"
     ],
     "name:hrv_x_preferred":[
@@ -64,10 +58,13 @@
     "name:lit_x_preferred":[
         "Marientalis"
     ],
+    "name:nld_x_preferred":[
+        "Mariental"
+    ],
     "name:pol_x_preferred":[
         "Mariental"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mariental"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u0626\u0646\u062a\u0627\u0644\u060c \u0646\u0645\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6797\u5854\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1141907479,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561759954,
     "wof:name":"Mariental",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

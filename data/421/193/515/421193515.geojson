@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Tsumeb"
     ],
-    "name:chi_x_preferred":[
-        "\u695a\u6885\u5e03"
-    ],
     "name:dan_x_preferred":[
         "Tsumeb"
     ],
     "name:deu_x_preferred":[
-        "Tsumeb"
-    ],
-    "name:dut_x_preferred":[
         "Tsumeb"
     ],
     "name:ell_x_preferred":[
@@ -49,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Tsumeb"
-    ],
-    "name:fre_x_preferred":[
-        "Tsumeb"
-    ],
-    "name:ger_x_preferred":[
-        "Tsumeb"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03c5\u03bc\u03ad\u03bc\u03c0"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05d0\u05de\u05d1"
@@ -78,9 +63,6 @@
         "Tsumeb"
     ],
     "name:ron_x_preferred":[
-        "Tsumeb"
-    ],
-    "name:rum_x_preferred":[
         "Tsumeb"
     ],
     "name:rus_x_preferred":[
@@ -241,7 +223,7 @@
         }
     ],
     "wof:id":421193515,
-    "wof:lastmodified":1514491407,
+    "wof:lastmodified":1561759950,
     "wof:name":"Tsumeb",
     "wof:parent_id":85675243,
     "wof:placetype":"locality",

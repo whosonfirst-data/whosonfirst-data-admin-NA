@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.665682,
-    "geom:area_square_m":161595284072.397217,
+    "geom:area_square_m":161595284072.398834,
     "geom:bbox":"14.798722267,-28.970639,19.999345,-25.0094427459",
     "geom:latitude":-26.973659,
     "geom:longitude":17.615317,
@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Karas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u65af\u5340"
-    ],
     "name:dan_x_preferred":[
         "Karas Region"
     ],
     "name:deu_x_preferred":[
         "\u01c1Karas"
     ],
-    "name:dut_x_preferred":[
-        "Karas"
+    "name:deu_x_variant":[
+        "\u01c0\u01c0Karas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Karas"
@@ -67,17 +67,8 @@
     "name:fin_x_preferred":[
         "Karas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Karas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "\u01c0\u01c0Karas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03ac\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0abe\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cb0\u0cbe\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ub77c\uc2a4 \uc8fc"
     ],
@@ -112,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u0915\u0930\u0938 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Karas Region"
+    ],
+    "name:nld_x_preferred":[
+        "Karas"
     ],
     "name:nob_x_preferred":[
         "Karas"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Karas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Karas"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Karas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u65af\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NAM",
@@ -295,7 +295,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1553814809,
+    "wof:lastmodified":1561759948,
     "wof:name":"Karas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

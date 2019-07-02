@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.910531,
-    "geom:area_square_m":10732802789.02634,
+    "geom:area_square_m":10732802789.026371,
     "geom:bbox":"15.5506847222,-17.9289921646,18.0023511592,-17.3895284346",
     "geom:latitude":-17.584063,
     "geom:longitude":16.813477,
@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u041e\u0445\u0430\u043d\u0433\u0432\u0435\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u6f22\u572d\u7d0d\u5340"
-    ],
     "name:dan_x_preferred":[
         "Ohangwena Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ohangwena"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c7\u03b1\u03bd\u03b3\u03ba\u03b2\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ohangwena"
@@ -58,17 +58,8 @@
     "name:fin_x_preferred":[
         "Ohangwena"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ohangwena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10f0\u10d0\u10dc\u10d2\u10d5\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ohangwena"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c7\u03b1\u03bd\u03b3\u03ba\u03b2\u03ad\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab9\u0a82\u0a97\u0ab5\u0ac7\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -91,6 +82,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0caf\u0cbe\u0c82\u0c97\u0ccd\u0cb5\u0cc6\u0ca8\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10f0\u10d0\u10dc\u10d2\u10d5\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ud56d\uada4\ub098 \uc8fc"
     ],
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0913\u0939\u0902\u0917\u0935\u0947\u0928\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ohangwena Region"
+    ],
+    "name:nld_x_preferred":[
+        "Ohangwena"
     ],
     "name:nob_x_preferred":[
         "Ohangwena"
@@ -119,9 +116,6 @@
         "Ohangwena"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Ohangwena"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Ohangwena"
     ],
     "name:rus_x_preferred":[
@@ -292,7 +286,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561759946,
     "wof:name":"Ohangwena",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

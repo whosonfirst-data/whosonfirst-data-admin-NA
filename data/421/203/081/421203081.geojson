@@ -19,28 +19,19 @@
     "name:deu_x_preferred":[
         "Aus"
     ],
-    "name:dut_x_preferred":[
-        "Aus"
-    ],
     "name:eng_x_preferred":[
         "Aus"
     ],
     "name:fra_x_preferred":[
         "Aus"
     ],
-    "name:fre_x_preferred":[
-        "Aus"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Aus"
     ],
     "name:pol_x_preferred":[
         "Aus"
     ],
     "name:ron_x_preferred":[
-        "Aus"
-    ],
-    "name:rum_x_preferred":[
         "Aus"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +85,7 @@
         }
     ],
     "wof:id":421203081,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1561759951,
     "wof:name":"Aus",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

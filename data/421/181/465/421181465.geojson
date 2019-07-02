@@ -23,9 +23,6 @@
     "name:aka_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:alb_x_preferred":[
-        "L\u00fcderitz"
-    ],
     "name:aln_x_preferred":[
         "L\u00fcderitz"
     ],
@@ -51,9 +48,6 @@
         "L\u00fcderitz"
     ],
     "name:bam_x_preferred":[
-        "L\u00fcderitz"
-    ],
-    "name:baq_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:bar_x_preferred":[
@@ -86,11 +80,11 @@
     "name:cdo_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:cha_x_preferred":[
+    "name:ces_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:chi_x_preferred":[
-        "\u5415\u5fb7\u91cc\u8328"
+    "name:cha_x_preferred":[
+        "L\u00fcderitz"
     ],
     "name:cho_x_preferred":[
         "L\u00fcderitz"
@@ -110,7 +104,7 @@
     "name:csb_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:dan_x_preferred":[
@@ -128,8 +122,8 @@
     "name:dtp_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:dut_x_preferred":[
-        "L\u00fcderitz"
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03bd\u03c4\u03b5\u03c1\u03b9\u03c4\u03b6"
     ],
     "name:eml_x_preferred":[
         "L\u00fcderitz"
@@ -167,9 +161,6 @@
     "name:fra_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:fre_x_preferred":[
-        "L\u00fcderitz"
-    ],
     "name:frp_x_preferred":[
         "L\u00fcderitz"
     ],
@@ -188,12 +179,6 @@
     "name:gag_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10d3\u10d4\u10e0\u10d8\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "L\u00fcderitz"
-    ],
     "name:gla_x_preferred":[
         "L\u00fcderitz"
     ],
@@ -205,9 +190,6 @@
     ],
     "name:got_x_preferred":[
         "L\u00fcderitz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03cd\u03bd\u03c4\u03b5\u03c1\u03b9\u03c4\u03b6"
     ],
     "name:grn_x_preferred":[
         "L\u00fcderitz"
@@ -248,9 +230,6 @@
     "name:ibo_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:ice_x_preferred":[
-        "L\u00fcderitz"
-    ],
     "name:ido_x_preferred":[
         "L\u00fcderitz"
     ],
@@ -270,6 +249,9 @@
         "L\u00fcderitz"
     ],
     "name:ipk_x_preferred":[
+        "L\u00fcderitz"
+    ],
+    "name:isl_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:ita_x_preferred":[
@@ -295,6 +277,9 @@
     ],
     "name:kal_x_preferred":[
         "L\u00fcderitz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10d3\u10d4\u10e0\u10d8\u10ea\u10d8"
     ],
     "name:kau_x_preferred":[
         "L\u00fcderitz"
@@ -365,16 +350,16 @@
     "name:lzz_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:mao_x_preferred":[
-        "L\u00fcderitz"
-    ],
-    "name:may_x_preferred":[
-        "L\u00fcderitz"
-    ],
     "name:min_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:mlt_x_preferred":[
+        "L\u00fcderitz"
+    ],
+    "name:mri_x_preferred":[
+        "L\u00fcderitz"
+    ],
+    "name:msa_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:mus_x_preferred":[
@@ -473,7 +458,7 @@
     "name:roh_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:run_x_preferred":[
@@ -509,7 +494,7 @@
     "name:sli_x_preferred":[
         "L\u00fcderitz"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:slv_x_preferred":[
@@ -534,6 +519,9 @@
         "L\u00fcderitz"
     ],
     "name:spa_x_preferred":[
+        "L\u00fcderitz"
+    ],
+    "name:sqi_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:srd_x_preferred":[
@@ -621,9 +609,6 @@
         "L\u00fcderitz"
     ],
     "name:war_x_preferred":[
-        "L\u00fcderitz"
-    ],
-    "name:wel_x_preferred":[
         "L\u00fcderitz"
     ],
     "name:wln_x_preferred":[
@@ -791,7 +776,7 @@
         }
     ],
     "wof:id":421181465,
-    "wof:lastmodified":1527716324,
+    "wof:lastmodified":1561759952,
     "wof:name":"L\u00fcderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

@@ -25,13 +25,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0435\u043d\u0442\u0430\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u6797\u5854\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Mariental"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mariental"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +37,10 @@
     "name:fao_x_preferred":[
         "Mariental"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mariental"
     ],
     "name:frr_x_preferred":[
-        "Mariental"
-    ],
-    "name:ger_x_preferred":[
         "Mariental"
     ],
     "name:hrv_x_preferred":[
@@ -67,10 +61,13 @@
     "name:lit_x_preferred":[
         "Marientalis"
     ],
+    "name:nld_x_preferred":[
+        "Mariental"
+    ],
     "name:pol_x_preferred":[
         "Mariental"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mariental"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +133,7 @@
         }
     ],
     "wof:id":1125784725,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561759954,
     "wof:name":"Mariental",
     "wof:parent_id":1108785107,
     "wof:placetype":"locality",

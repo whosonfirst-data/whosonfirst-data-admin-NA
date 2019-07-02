@@ -23,14 +23,11 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0443\u0442\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u9b6f\u7279\u65b9\u4e39"
-    ],
     "name:deu_x_preferred":[
         "Grootfontein"
     ],
-    "name:dut_x_preferred":[
-        "Grootfontein"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03bf\u03c5\u03c4\u03c6\u03bf\u03bd\u03c4\u03ad\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Grootfontein"
@@ -41,15 +38,6 @@
     "name:fra_x_preferred":[
         "Grootfontein"
     ],
-    "name:fre_x_preferred":[
-        "Grootfontein"
-    ],
-    "name:ger_x_preferred":[
-        "Grootfontein"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03bf\u03c5\u03c4\u03c6\u03bf\u03bd\u03c4\u03ad\u03b9\u03bd"
-    ],
     "name:ita_x_preferred":[
         "Grootfontein"
     ],
@@ -59,13 +47,16 @@
     "name:kor_x_preferred":[
         "\uadf8\ub8e8\ud2b8\ud3f0\ud14c\uc778"
     ],
+    "name:nld_x_preferred":[
+        "Grootfontein"
+    ],
     "name:pol_x_preferred":[
         "Grootfontein"
     ],
     "name:por_x_preferred":[
         "Grootfontein"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Grootfontein"
     ],
     "name:rus_x_preferred":[
@@ -235,7 +226,7 @@
         }
     ],
     "wof:id":421178311,
-    "wof:lastmodified":1527717728,
+    "wof:lastmodified":1561759953,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

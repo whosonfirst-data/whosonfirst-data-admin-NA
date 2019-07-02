@@ -22,25 +22,19 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u0445\u043e\u0431\u043e\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u970d\u535a\u65af"
-    ],
     "name:dan_x_preferred":[
         "Rehoboth"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rehoboth"
     ],
     "name:eng_x_preferred":[
         "Rehoboth"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rehoboth"
     ],
     "name:frr_x_preferred":[
-        "Rehoboth"
-    ],
-    "name:ger_x_preferred":[
         "Rehoboth"
     ],
     "name:heb_x_preferred":[
@@ -49,10 +43,13 @@
     "name:ita_x_preferred":[
         "Rehoboth"
     ],
+    "name:nld_x_preferred":[
+        "Rehoboth"
+    ],
     "name:pol_x_preferred":[
         "Rehoboth"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rehoboth"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0445\u043e\u0431\u043e\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u970d\u535a\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1141907483,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561759954,
     "wof:name":"Rehoboth",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

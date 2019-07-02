@@ -50,9 +50,6 @@
     "name:fra_x_preferred":[
         "Opuwo"
     ],
-    "name:fre_x_preferred":[
-        "Opuwo"
-    ],
     "name:hbs_x_preferred":[
         "Ohopoho"
     ],
@@ -139,7 +136,7 @@
         }
     ],
     "wof:id":421186343,
-    "wof:lastmodified":1555047484,
+    "wof:lastmodified":1561759952,
     "wof:name":"Opuwo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

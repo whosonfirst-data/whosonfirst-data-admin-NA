@@ -16,19 +16,13 @@
     "name:deu_x_preferred":[
         "Helmeringhausen"
     ],
-    "name:dut_x_preferred":[
-        "Helmeringhausen"
-    ],
     "name:eng_x_preferred":[
         "Helmeringhausen"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Helmeringhausen"
     ],
     "name:ron_x_preferred":[
-        "Helmeringhausen"
-    ],
-    "name:rum_x_preferred":[
         "Helmeringhausen"
     ],
     "qs:gn_country":"NA",
@@ -75,7 +69,7 @@
         }
     ],
     "wof:id":421190931,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1561759952,
     "wof:name":"Helmeringhausen",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

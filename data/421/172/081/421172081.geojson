@@ -22,26 +22,17 @@
     "name:afr_x_preferred":[
         "Windhoek"
     ],
-    "name:alb_x_preferred":[
-        "Uindhuk"
-    ],
     "name:amh_x_preferred":[
         "\u12ca\u1295\u12f5\u1201\u12ad"
     ],
     "name:ara_x_preferred":[
         "\u0648\u064a\u0646\u062f\u0647\u0648\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0576\u0564\u0570\u0578\u0582\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0646\u062f\u0647\u0648\u06a9"
     ],
     "name:aze_x_preferred":[
         "Vindhuk"
-    ],
-    "name:baq_x_preferred":[
-        "Windhoek"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043d\u0434\u0445\u0443\u043a"
@@ -76,16 +67,10 @@
     "name:che_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6e29\u5f97\u548c\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0648\u06cc\u0646\u062f\u06be\u0648\u06a9"
     ],
     "name:cym_x_preferred":[
-        "Windhoek"
-    ],
-    "name:cze_x_preferred":[
         "Windhoek"
     ],
     "name:dan_x_preferred":[
@@ -99,9 +84,6 @@
     ],
     "name:deu_x_variant":[
         "Windhuk"
-    ],
-    "name:dut_x_preferred":[
-        "Windhoek"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03af\u03bd\u03c4\u03c7\u03bf\u03c5\u03ba"
@@ -133,17 +115,8 @@
     "name:fra_x_preferred":[
         "Windhoek"
     ],
-    "name:fre_x_preferred":[
-        "Windhoek"
-    ],
     "name:fry_x_preferred":[
         "Wynhoeke"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10dc\u10d3\u10f0\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Windhoek"
     ],
     "name:gla_x_preferred":[
         "Windhoek"
@@ -153,9 +126,6 @@
     ],
     "name:glg_x_preferred":[
         "Windhoek"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bd\u03c4\u03c7\u03bf\u03c5\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0aa8\u0acd\u0aa1\u0ab9\u0acb\u0a95"
@@ -183,9 +153,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u0576\u0564\u0570\u0578\u0582\u056f"
-    ],
-    "name:ice_x_preferred":[
-        "Windhoek"
     ],
     "name:ido_x_preferred":[
         "Windhoek"
@@ -244,14 +211,8 @@
     "name:ltz_x_preferred":[
         "Windhoek"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u093f\u0902\u0921\u0939\u094b\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Windhoek"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
@@ -264,6 +225,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Windhoek"
     ],
     "name:nah_x_preferred":[
         "Windhoek"
@@ -307,9 +271,6 @@
     "name:pdc_x_preferred":[
         "Windhoek"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646\u062f\u0647\u0648\u06a9"
-    ],
     "name:pms_x_preferred":[
         "Windhoek"
     ],
@@ -328,9 +289,6 @@
     "name:ron_x_preferred":[
         "Windhoek"
     ],
-    "name:rum_x_preferred":[
-        "Windhoek"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0445\u0443\u043a"
     ],
@@ -341,9 +299,6 @@
         "\u0dc0\u0dd2\u0db1\u0dca\u0da9\u0dca\u0dc4\u0ddd\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Windhoek"
-    ],
-    "name:slo_x_preferred":[
         "Windhoek"
     ],
     "name:slv_x_preferred":[
@@ -388,9 +343,6 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e19\u0e14\u0e4c\u0e2e\u0e38\u0e01"
     ],
-    "name:tib_x_preferred":[
-        "\u0f5d\u0f72\u0f53\u0f0b\u0f4c\u0f72\u0f0b\u0f67\u0f7c\u0f61\u0f72\u0f40\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Windhoek"
     ],
@@ -425,9 +377,6 @@
         "Windhoek"
     ],
     "name:war_x_preferred":[
-        "Windhoek"
-    ],
-    "name:wel_x_preferred":[
         "Windhoek"
     ],
     "name:wuu_x_preferred":[
@@ -593,7 +542,7 @@
         }
     ],
     "wof:id":421172081,
-    "wof:lastmodified":1534379385,
+    "wof:lastmodified":1561759951,
     "wof:name":"Windhoek",
     "wof:parent_id":421191505,
     "wof:placetype":"locality",

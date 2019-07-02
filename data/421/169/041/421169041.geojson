@@ -20,22 +20,13 @@
     "name:bul_x_preferred":[
         "\u041e\u0448\u0438\u043a\u0430\u043d\u0433\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5e0c\u574e\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Oshikango"
-    ],
-    "name:dut_x_preferred":[
         "Oshikango"
     ],
     "name:eng_x_preferred":[
         "Oshikango"
     ],
-    "name:fre_x_preferred":[
-        "Oshikango"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oshikango"
     ],
     "name:ita_x_preferred":[
@@ -54,9 +45,6 @@
         "Oshikango"
     ],
     "name:ron_x_preferred":[
-        "Oshikango"
-    ],
-    "name:rum_x_preferred":[
         "Oshikango"
     ],
     "name:spa_x_preferred":[
@@ -205,7 +193,7 @@
         }
     ],
     "wof:id":421169041,
-    "wof:lastmodified":1527716165,
+    "wof:lastmodified":1561759950,
     "wof:name":"Oshikango",
     "wof:parent_id":85675231,
     "wof:placetype":"locality",
