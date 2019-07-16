@@ -35,6 +35,9 @@
     "name:fao_x_preferred":[
         "Grootfontein"
     ],
+    "name:fin_x_preferred":[
+        "Grootfontein"
+    ],
     "name:fra_x_preferred":[
         "Grootfontein"
     ],
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421178311,
-    "wof:lastmodified":1561759953,
+    "wof:lastmodified":1563314430,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

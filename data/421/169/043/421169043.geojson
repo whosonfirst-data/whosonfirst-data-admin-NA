@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0431\u0430\u0431\u0438\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Gobabis"
+    ],
     "name:dan_x_preferred":[
         "Gobabis"
     ],
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421169043,
-    "wof:lastmodified":1561759950,
+    "wof:lastmodified":1563314403,
     "wof:name":"Gobabis",
     "wof:parent_id":85675235,
     "wof:placetype":"locality",

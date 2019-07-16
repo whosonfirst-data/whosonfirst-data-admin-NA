@@ -35,11 +35,26 @@
     "name:afr_x_preferred":[
         "Opuwo"
     ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u0648\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09aa\u0989\u09ad\u09c1"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043f\u0443\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Opuwo"
+    ],
+    "name:dan_x_preferred":[
+        "Opuwo"
+    ],
     "name:deu_x_preferred":[
         "Opuwo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c0\u03bf\u03cd\u03b3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Opuwo"
@@ -47,19 +62,61 @@
     "name:fao_x_preferred":[
         "Opuwo"
     ],
+    "name:fin_x_preferred":[
+        "Opuwo"
+    ],
     "name:fra_x_preferred":[
         "Opuwo"
+    ],
+    "name:frr_x_preferred":[
+        "Opuwo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a93\u0aaa\u0ac1\u0ab5\u0acb"
     ],
     "name:hbs_x_preferred":[
         "Ohopoho"
     ],
+    "name:hin_x_preferred":[
+        "\u0913\u092a\u0941\u0935\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Opuwo"
+    ],
     "name:ita_x_preferred":[
+        "Opuwo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d7\u30a6\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c92\u0caa\u0cc1\u0cb5\u0cca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud478\uc624"
+    ],
+    "name:lav_x_preferred":[
+        "Opuvo"
+    ],
+    "name:lit_x_preferred":[
+        "Opuvas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0913\u092a\u0942\u0935\u094b"
+    ],
+    "name:msa_x_preferred":[
         "Opuwo"
     ],
     "name:nld_x_preferred":[
         "Opuwo"
     ],
+    "name:nob_x_preferred":[
+        "Opuwo"
+    ],
     "name:pol_x_preferred":[
+        "Opuwo"
+    ],
+    "name:por_x_preferred":[
         "Opuwo"
     ],
     "name:ron_x_preferred":[
@@ -67,6 +124,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u043f\u0443\u0432\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d94\u0db4\u0dd4\u0dc0\u0ddd"
     ],
     "name:slv_x_preferred":[
         "Opuwo"
@@ -77,11 +137,29 @@
     "name:swa_x_preferred":[
         "Opuwo"
     ],
+    "name:swe_x_preferred":[
+        "Opuwo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b92\u0baa\u0bcd\u0baa\u0bc1\u0bb5\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c13\u0c2a\u0c41\u0c35\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2d\u0e1b\u0e39\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Opuwo"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u043f\u0443\u0432\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u067e\u0648\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Opuwo"
     ],
     "name:zho_x_preferred":[
         "\u5965\u666e\u6c83"
@@ -136,7 +214,7 @@
         }
     ],
     "wof:id":421186343,
-    "wof:lastmodified":1561759952,
+    "wof:lastmodified":1563314418,
     "wof:name":"Opuwo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

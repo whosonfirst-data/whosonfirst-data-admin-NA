@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Klein Windhoek"
+    ],
     "name:deu_x_preferred":[
         "Klein Windhoek"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421189863,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314411,
     "wof:name":"Klein-Windhoek",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",

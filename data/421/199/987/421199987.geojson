@@ -40,6 +40,9 @@
     "name:slv_x_preferred":[
         "Sesriem"
     ],
+    "name:spa_x_preferred":[
+        "Sesriem"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421199987,
-    "wof:lastmodified":1561759952,
+    "wof:lastmodified":1563314424,
     "wof:name":"Sesriem",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

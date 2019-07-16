@@ -16,6 +16,9 @@
     "name:afr_x_preferred":[
         "Aus"
     ],
+    "name:ceb_x_preferred":[
+        "Aus"
+    ],
     "name:deu_x_preferred":[
         "Aus"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Aus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u0441"
     ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421203081,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314406,
     "wof:name":"Aus",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

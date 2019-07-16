@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Caprivi"
     ],
+    "name:ceb_x_preferred":[
+        "Zambezi Region"
+    ],
     "name:ces_x_preferred":[
         "Caprivi"
     ],
@@ -55,6 +58,9 @@
     "name:eng_x_preferred":[
         "Zambezi"
     ],
+    "name:eng_x_variant":[
+        "Zambezi Region"
+    ],
     "name:epo_x_preferred":[
         "Caprivi-regiono"
     ],
@@ -64,10 +70,16 @@
     "name:fao_x_preferred":[
         "Zambezi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0632\u0627\u0645\u0628\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Caprivi"
     ],
     "name:fra_x_preferred":[
+        "Zambezi"
+    ],
+    "name:frr_x_preferred":[
         "Zambezi"
     ],
     "name:guj_x_preferred":[
@@ -78,6 +90,9 @@
     ],
     "name:hrv_x_preferred":[
         "Caprivi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0574\u0562\u0565\u0566\u056b"
     ],
     "name:ind_x_preferred":[
         "Wilayah Zambezi"
@@ -215,7 +230,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1561759948,
+    "wof:lastmodified":1563314386,
     "wof:name":"Zambezi",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u062c\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Outjo"
+    ],
     "name:deu_x_preferred":[
         "Outjo"
     ],
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421169037,
-    "wof:lastmodified":1561759950,
+    "wof:lastmodified":1563314401,
     "wof:name":"Outjo",
     "wof:parent_id":85675209,
     "wof:placetype":"locality",

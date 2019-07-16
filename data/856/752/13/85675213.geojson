@@ -40,6 +40,12 @@
     "name:cat_x_preferred":[
         "Erongo"
     ],
+    "name:ceb_x_preferred":[
+        "Erongo"
+    ],
+    "name:ces_x_preferred":[
+        "Erongo"
+    ],
     "name:dan_x_preferred":[
         "Erongo Region"
     ],
@@ -52,6 +58,9 @@
     "name:eng_x_preferred":[
         "Erongo"
     ],
+    "name:eng_x_variant":[
+        "Erongo Region"
+    ],
     "name:epo_x_preferred":[
         "Erongo-regiono"
     ],
@@ -61,10 +70,19 @@
     "name:fao_x_preferred":[
         "Erongo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0631\u0648\u0646\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Erongo"
     ],
     "name:fra_x_preferred":[
+        "Erongo"
+    ],
+    "name:frr_x_preferred":[
+        "Erongo"
+    ],
+    "name:fry_x_preferred":[
         "Erongo"
     ],
     "name:guj_x_preferred":[
@@ -96,6 +114,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d0\ub871\uace0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d0\ub871\uace0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Erongo re\u0123ions"
@@ -295,7 +316,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1561759946,
+    "wof:lastmodified":1563314376,
     "wof:name":"Erongo",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

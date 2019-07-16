@@ -38,8 +38,14 @@
     "name:eng_x_preferred":[
         "Katutura East"
     ],
+    "name:eng_x_variant":[
+        "Katutura East Constituency"
+    ],
     "name:ita_x_preferred":[
         "Katutura Est"
+    ],
+    "name:nld_x_preferred":[
+        "Katutura East Constituency"
     ],
     "name:spa_x_preferred":[
         "Katutura Este"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421203599,
-    "wof:lastmodified":1553717572,
+    "wof:lastmodified":1563314405,
     "wof:name":"Katutura East",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

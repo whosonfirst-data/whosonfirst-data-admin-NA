@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0448\u0430\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Oshana"
+    ],
     "name:dan_x_preferred":[
         "Oshana Region"
     ],
@@ -49,13 +52,22 @@
     "name:eng_x_preferred":[
         "Oshana"
     ],
+    "name:eng_x_variant":[
+        "Oshana Region"
+    ],
     "name:fao_x_preferred":[
         "Oshana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0634\u0627\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Oshana"
     ],
     "name:fra_x_preferred":[
+        "Oshana"
+    ],
+    "name:frr_x_preferred":[
         "Oshana"
     ],
     "name:guj_x_preferred":[
@@ -73,6 +85,9 @@
     "name:ita_x_preferred":[
         "Regione dellOshana"
     ],
+    "name:ita_x_variant":[
+        "regione dell'Oshana"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30b7\u30e3\u30ca\u5dde"
     ],
@@ -84,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\uc0e4\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\uc0e4\ub098\uc8fc"
     ],
     "name:lav_x_preferred":[
         "O\u0161anas re\u0123ions"
@@ -280,7 +298,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1561759944,
+    "wof:lastmodified":1563314370,
     "wof:name":"Oshana",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

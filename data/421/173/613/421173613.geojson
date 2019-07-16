@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0442\u0430\u0445\u044c\u043e\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Maltah\u00f6he"
+    ],
     "name:deu_x_preferred":[
         "Maltah\u00f6he"
     ],
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421173613,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314407,
     "wof:name":"Maltahohe",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

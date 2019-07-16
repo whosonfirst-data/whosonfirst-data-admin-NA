@@ -16,6 +16,12 @@
     "name:deu_x_preferred":[
         "Pionierspark"
     ],
+    "name:deu_x_variant":[
+        "Windhoek-Pionierspark"
+    ],
+    "name:eng_x_preferred":[
+        "Pioneers Park"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":421189865,
-    "wof:lastmodified":1527716271,
+    "wof:lastmodified":1563314410,
     "wof:name":"Pionierspark",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",

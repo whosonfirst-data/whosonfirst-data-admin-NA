@@ -29,6 +29,9 @@
     "name:bxr_x_preferred":[
         "\u041e\u043a\u0430\u0445\u0430\u043d\u0434\u0436\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Okahandja"
+    ],
     "name:dan_x_preferred":[
         "Okahandja"
     ],
@@ -48,6 +51,9 @@
         "Okahandja"
     ],
     "name:fra_x_preferred":[
+        "Okahandja"
+    ],
+    "name:frr_x_preferred":[
         "Okahandja"
     ],
     "name:guj_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c92\u0c95\u0cbe\u0cb9\u0c82\u0ca6\u0c9c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10d0\u10f0\u10d0\u10dc\u10d3\u10d4"
     ],
     "name:kor_x_preferred":[
         "\uc624\uce74\ud55c\uc7c8"
@@ -280,7 +289,7 @@
         }
     ],
     "wof:id":421176117,
-    "wof:lastmodified":1561759953,
+    "wof:lastmodified":1563314431,
     "wof:name":"Okahandja",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

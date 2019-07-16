@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Katutura"
+    ],
     "name:deu_x_preferred":[
         "Katutura"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421189859,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314408,
     "wof:name":"Katutura",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",
