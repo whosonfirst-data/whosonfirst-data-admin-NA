@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0445\u0430\u043d\u0433\u0432\u0435\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ohangwena"
+    ],
     "name:dan_x_preferred":[
         "Ohangwena Region"
     ],
@@ -49,16 +52,25 @@
     "name:eng_x_preferred":[
         "Ohangwena"
     ],
+    "name:eng_x_variant":[
+        "Ohangwena Region"
+    ],
     "name:est_x_preferred":[
         "Ohangwena ringkond"
     ],
     "name:fao_x_preferred":[
         "Ohangwena"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0647\u0627\u0646\u06af\u0648\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ohangwena"
     ],
     "name:fra_x_preferred":[
+        "Ohangwena"
+    ],
+    "name:frr_x_preferred":[
         "Ohangwena"
     ],
     "name:guj_x_preferred":[
@@ -87,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ud56d\uada4\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ud56d\uada4\ub098\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Ohanvenas re\u0123ions"
@@ -286,7 +301,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1561759946,
+    "wof:lastmodified":1563314374,
     "wof:name":"Ohangwena",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

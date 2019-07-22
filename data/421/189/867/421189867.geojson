@@ -26,8 +26,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09a8\u09cd\u09a1\u09cb"
     ],
+    "name:bos_x_preferred":[
+        "Rundu"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u043d\u0434\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Rundu"
     ],
     "name:dan_x_preferred":[
         "Rundu"
@@ -48,6 +54,9 @@
         "Rundu"
     ],
     "name:fra_x_preferred":[
+        "Rundu"
+    ],
+    "name:frr_x_preferred":[
         "Rundu"
     ],
     "name:guj_x_preferred":[
@@ -291,7 +300,7 @@
         }
     ],
     "wof:id":421189867,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314409,
     "wof:name":"Rundu",
     "wof:parent_id":421201547,
     "wof:placetype":"locality",

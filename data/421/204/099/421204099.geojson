@@ -32,10 +32,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Sesfontein"
+    ],
     "name:deu_x_preferred":[
         "Sesfontein"
     ],
     "name:eng_x_preferred":[
+        "Sesfontein"
+    ],
+    "name:fra_x_preferred":[
         "Sesfontein"
     ],
     "name:ita_x_preferred":[
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421204099,
-    "wof:lastmodified":1553717580,
+    "wof:lastmodified":1563314404,
     "wof:name":"Sesfontein",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

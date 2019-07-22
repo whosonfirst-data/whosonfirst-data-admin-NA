@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0643\u0648\u0628\u0645\u0648\u0646\u062f"
     ],
+    "name:aze_x_preferred":[
+        "Svakopmund"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u0995\u09aa\u09ae\u09c1\u09a8\u09cd\u09a1"
     ],
@@ -27,6 +30,9 @@
         "\u0421\u0432\u0430\u043a\u043e\u043f\u043c\u0443\u043d\u0434"
     ],
     "name:cat_x_preferred":[
+        "Swakopmund"
+    ],
+    "name:ceb_x_preferred":[
         "Swakopmund"
     ],
     "name:ces_x_preferred":[
@@ -82,6 +88,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ubc14\ucf54\ud504\ubb38\ud2b8"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\uc640\ucf54\ud504\ubb38\ud2b8"
     ],
     "name:lav_x_preferred":[
         "Svakopmunda"
@@ -302,7 +311,7 @@
         }
     ],
     "wof:id":421169035,
-    "wof:lastmodified":1561759950,
+    "wof:lastmodified":1563314403,
     "wof:name":"Swakopmund",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

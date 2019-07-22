@@ -35,6 +35,12 @@
     "name:eng_x_preferred":[
         "Khomasdal"
     ],
+    "name:eng_x_variant":[
+        "Khomasdal North Constituency"
+    ],
+    "name:ita_x_preferred":[
+        "Khomasdal Nord"
+    ],
     "name:spa_x_preferred":[
         "Khomasdal Norte"
     ],
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421171383,
-    "wof:lastmodified":1553717325,
+    "wof:lastmodified":1563314432,
     "wof:name":"Khomasdal North",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Otavi"
     ],
+    "name:pol_x_preferred":[
+        "Otavi"
+    ],
     "name:por_x_preferred":[
         "Otavi"
     ],
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421176111,
-    "wof:lastmodified":1561759953,
+    "wof:lastmodified":1563314430,
     "wof:name":"Otavi",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

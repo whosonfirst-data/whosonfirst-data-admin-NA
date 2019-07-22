@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043a\u0430\u043a\u0430\u0440\u0430\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Okakarara"
+    ],
     "name:deu_x_preferred":[
         "Okakarara"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u043a\u0430\u043a\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Okakarara"
     ],
     "name:zho_x_preferred":[
         "\u5967\u5361\u5361\u62c9\u62c9"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421180423,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314407,
     "wof:name":"Okakarara",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

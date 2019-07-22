@@ -32,14 +32,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Walvis Bay Rural Constituency"
+    ],
     "name:deu_x_preferred":[
         "Walvis Bay Land"
     ],
     "name:eng_x_preferred":[
         "Walvis Bay Rural"
     ],
+    "name:eng_x_variant":[
+        "Walvis Bay Rural Constituency"
+    ],
+    "name:fra_x_preferred":[
+        "Walvis Bay"
+    ],
     "name:ita_x_preferred":[
         "Walvis Bay Rurale"
+    ],
+    "name:nld_x_preferred":[
+        "Walvis Bay Rural Constituency"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":421190659,
-    "wof:lastmodified":1553717491,
+    "wof:lastmodified":1563314422,
     "wof:name":"Walvisbay Rural",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

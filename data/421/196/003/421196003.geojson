@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Kamanjab"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0430\u043d\u0436\u0430\u0431"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421196003,
-    "wof:lastmodified":1561759952,
+    "wof:lastmodified":1563314421,
     "wof:name":"Kamanjab",
     "wof:parent_id":85675209,
     "wof:placetype":"locality",

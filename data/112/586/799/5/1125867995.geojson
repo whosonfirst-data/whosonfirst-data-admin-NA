@@ -22,8 +22,14 @@
     "name:afr_x_preferred":[
         "Rehoboth"
     ],
+    "name:ast_x_preferred":[
+        "Rehoboth"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u0445\u043e\u0431\u043e\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Rehoboth"
     ],
     "name:dan_x_preferred":[
         "Rehoboth"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125867995,
-    "wof:lastmodified":1561759953,
+    "wof:lastmodified":1563314436,
     "wof:name":"Rehoboth",
     "wof:parent_id":421195837,
     "wof:placetype":"locality",

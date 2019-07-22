@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0447\u0438\u0432\u0430\u0440\u043e\u043d\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Otjiwarongo"
+    ],
     "name:dan_x_preferred":[
         "Otjiwarongo"
     ],
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421169039,
-    "wof:lastmodified":1561759950,
+    "wof:lastmodified":1563314402,
     "wof:name":"Otjiwarongo",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

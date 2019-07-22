@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Warmbad"
     ],
+    "name:ceb_x_preferred":[
+        "Warmbad"
+    ],
     "name:deu_x_preferred":[
         "Warmbad"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125867999,
-    "wof:lastmodified":1561759953,
+    "wof:lastmodified":1563314435,
     "wof:name":"Warmbad",
     "wof:parent_id":1108785097,
     "wof:placetype":"locality",

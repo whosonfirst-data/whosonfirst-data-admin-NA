@@ -41,6 +41,12 @@
     "name:eng_x_preferred":[
         "Berseba"
     ],
+    "name:fra_x_preferred":[
+        "Berseba"
+    ],
+    "name:nld_x_preferred":[
+        "Berseba"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421175621,
-    "wof:lastmodified":1553717363,
+    "wof:lastmodified":1563314419,
     "wof:name":"Berseba",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

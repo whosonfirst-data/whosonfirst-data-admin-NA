@@ -35,8 +35,17 @@
     "name:eng_x_preferred":[
         "Katima Mulilo Rural"
     ],
+    "name:eng_x_variant":[
+        "Katima Mulilo Urban Constituency"
+    ],
+    "name:fra_x_preferred":[
+        "Katima Mulilo"
+    ],
     "name:ita_x_preferred":[
         "Katima Mulilo Urbano"
+    ],
+    "name:nld_x_preferred":[
+        "Katima Mulilo Urban Constituency"
     ],
     "name:spa_x_preferred":[
         "Katima Mulilo Urbano"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421199941,
-    "wof:lastmodified":1553717548,
+    "wof:lastmodified":1563314424,
     "wof:name":"Katima Muliro Rural",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

@@ -80,6 +80,9 @@
     "name:cdo_x_preferred":[
         "L\u00fcderitz"
     ],
+    "name:ceb_x_preferred":[
+        "L\u00fcderitz"
+    ],
     "name:ces_x_preferred":[
         "L\u00fcderitz"
     ],
@@ -226,6 +229,9 @@
     ],
     "name:hun_x_preferred":[
         "L\u00fcderitz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0578\u0582\u0564\u0565\u0580\u056b\u0581"
     ],
     "name:ibo_x_preferred":[
         "L\u00fcderitz"
@@ -776,7 +782,7 @@
         }
     ],
     "wof:id":421181465,
-    "wof:lastmodified":1561759952,
+    "wof:lastmodified":1563314419,
     "wof:name":"L\u00fcderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

@@ -33,8 +33,23 @@
     "mps:longitude":14.510798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Walvis Bay Urban Constituency"
+    ],
+    "name:deu_x_preferred":[
+        "Walvis Bay Stadt"
+    ],
     "name:eng_x_preferred":[
         "Walvis Bay Urban"
+    ],
+    "name:eng_x_variant":[
+        "Walvis Bay Urban Constituency"
+    ],
+    "name:fra_x_preferred":[
+        "Walvis Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Walvis Bay Urbano"
     ],
     "qs:name":"Walvis Bay Urban",
     "qs:name_adm0":"Namibia",
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":890443131,
-    "wof:lastmodified":1553717603,
+    "wof:lastmodified":1563314435,
     "wof:name":"Walvisbay Urban",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

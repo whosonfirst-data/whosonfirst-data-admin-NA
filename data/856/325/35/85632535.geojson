@@ -55,6 +55,9 @@
     "name:ast_x_preferred":[
         "Namibia"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
+    ],
     "name:aze_x_preferred":[
         "Namibiya"
     ],
@@ -76,11 +79,11 @@
     "name:bel_x_preferred":[
         "\u041d\u0430\u043c\u0456\u0431\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u041d\u0430\u043c\u0456\u0431\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ae\u09bf\u09ac\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0928\u093e\u092e\u0940\u092c\u093f\u092f\u093e"
     ],
     "name:bjn_x_preferred":[
         "Namibia"
@@ -114,6 +117,9 @@
     ],
     "name:ceb_x_preferred":[
         "Namibya"
+    ],
+    "name:ceb_x_variant":[
+        "Namibia"
     ],
     "name:ces_x_preferred":[
         "Namibie"
@@ -150,6 +156,9 @@
     ],
     "name:dsb_x_preferred":[
         "Namibija"
+    ],
+    "name:dty_x_preferred":[
+        "\u0928\u093e\u092e\u093f\u092c\u093f\u092f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bc\u03af\u03bc\u03c0\u03b9\u03b1"
@@ -228,6 +237,12 @@
     ],
     "name:glv_x_preferred":[
         "Yn Nameeb"
+    ],
+    "name:grn_x_preferred":[
+        "Nam\u00edvia"
+    ],
+    "name:gsw_x_preferred":[
+        "Namibia"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0abf\u0aac\u0abf\u0aaf\u0abe"
@@ -334,6 +349,9 @@
     "name:kbd_x_preferred":[
         "\u041d\u0430\u043c\u0438\u0431\u0438\u0435"
     ],
+    "name:kbp_x_preferred":[
+        "Namibi"
+    ],
     "name:khm_x_preferred":[
         "\u178e\u17b6\u1798\u17b8\u1794\u17ca\u17b8"
     ],
@@ -376,6 +394,12 @@
     "name:lav_x_preferred":[
         "Nam\u012bbija"
     ],
+    "name:lez_x_preferred":[
+        "\u041d\u0430\u043c\u0438\u0431\u0438\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Namibia"
+    ],
     "name:lij_x_preferred":[
         "Namibia"
     ],
@@ -397,6 +421,9 @@
     "name:lrc_x_preferred":[
         "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u0646\u0627\u0645\u0628\u06cc\u0627"
+    ],
     "name:ltg_x_preferred":[
         "Namibeja"
     ],
@@ -411,6 +438,9 @@
     ],
     "name:lug_x_variant":[
         "Namibiya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d0d\u7c73\u6bd4\u4e9e"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d2e\u0d40\u0d2c\u0d3f\u0d2f"
@@ -436,6 +466,9 @@
     "name:mon_x_preferred":[
         "\u041d\u0430\u043c\u0438\u0431"
     ],
+    "name:mon_x_variant":[
+        "\u041d\u0430\u043c\u0438\u0431\u0438"
+    ],
     "name:msa_x_preferred":[
         "Namibia"
     ],
@@ -447,6 +480,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Namibia"
+    ],
+    "name:nan_x_preferred":[
+        "Namibia"
     ],
     "name:nau_x_preferred":[
         "Namibiya"
@@ -487,6 +526,9 @@
     "name:oci_x_preferred":[
         "Namibia"
     ],
+    "name:olo_x_preferred":[
+        "Namibii"
+    ],
     "name:ori_x_preferred":[
         "\u0b28\u0b3e\u0b2e\u0b3f\u0b2c\u0b3f\u0b06"
     ],
@@ -505,7 +547,16 @@
     "name:pan_x_preferred":[
         "\u0a28\u0a2e\u0a40\u0a2c\u0a40\u0a06"
     ],
+    "name:pan_x_variant":[
+        "\u0a28\u0a3e\u0a2e\u0a40\u0a2c\u0a40\u0a06"
+    ],
     "name:pap_x_preferred":[
+        "Namibia"
+    ],
+    "name:pdc_x_preferred":[
+        "Namibien"
+    ],
+    "name:pih_x_preferred":[
         "Namibia"
     ],
     "name:pli_x_preferred":[
@@ -516,6 +567,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0646\u0645\u06cc\u0628\u06cc\u0627"
+    ],
+    "name:pnb_x_variant":[
+        "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Namibia"
@@ -556,8 +610,14 @@
     "name:sco_x_preferred":[
         "Namibie"
     ],
+    "name:sgs_x_preferred":[
+        "Namib\u0117j\u0117"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd0\u0db8\u0dd3\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0db1\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Nam\u00edbia"
@@ -578,7 +638,8 @@
         "Namibiya"
     ],
     "name:som_x_variant":[
-        "Namiibiya"
+        "Namiibiya",
+        "Nambiya"
     ],
     "name:sot_x_preferred":[
         "Namibia"
@@ -658,6 +719,9 @@
     "name:tur_x_preferred":[
         "Namibya"
     ],
+    "name:udm_x_preferred":[
+        "\u041d\u0430\u043c\u0438\u0431\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0646\u0627\u0645\u0649\u0628\u0649\u064a\u06d5"
     ],
@@ -702,6 +766,9 @@
     "name:vol_x_preferred":[
         "Namibiy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Namiibia"
+    ],
     "name:war_x_preferred":[
         "Namibia"
     ],
@@ -726,8 +793,14 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Namibia"
     ],
+    "name:yue_x_preferred":[
+        "\u7d0d\u7c73\u6bd4\u4e9e"
+    ],
     "name:zea_x_preferred":[
         "Namibi\u00eb"
+    ],
+    "name:zha_x_preferred":[
+        "Namibia"
     ],
     "name:zho_min_nan_x_preferred":[
         "Namibia"
@@ -893,7 +966,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1561759946,
+    "wof:lastmodified":1563314380,
     "wof:name":"Namibia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

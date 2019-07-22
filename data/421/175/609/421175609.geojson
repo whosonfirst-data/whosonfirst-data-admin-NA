@@ -38,6 +38,15 @@
     "name:eng_x_preferred":[
         "Kongola"
     ],
+    "name:fra_x_preferred":[
+        "Kongola"
+    ],
+    "name:ita_x_preferred":[
+        "Kongola"
+    ],
+    "name:nld_x_preferred":[
+        "Kongola"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421175609,
-    "wof:lastmodified":1553717362,
+    "wof:lastmodified":1563314421,
     "wof:name":"Kongola",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Keetmanshoop"
     ],
+    "name:ceb_x_preferred":[
+        "Keetmanshoop"
+    ],
     "name:dan_x_preferred":[
         "Keetmanshoop"
     ],
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":421189849,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1563314410,
     "wof:name":"Keetmanshoop",
     "wof:parent_id":421203277,
     "wof:placetype":"locality",

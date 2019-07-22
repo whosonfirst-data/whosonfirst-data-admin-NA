@@ -38,6 +38,15 @@
     "name:eng_x_preferred":[
         "Sibbinda"
     ],
+    "name:eng_x_variant":[
+        "Sibinda"
+    ],
+    "name:fra_x_preferred":[
+        "Sibinda"
+    ],
+    "name:nld_x_preferred":[
+        "Sibinda"
+    ],
     "name:spa_x_preferred":[
         "Sibinda"
     ],
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421199731,
-    "wof:lastmodified":1553717545,
+    "wof:lastmodified":1563314423,
     "wof:name":"Sibinda",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

@@ -34,11 +34,17 @@
     "name:bul_x_preferred":[
         "\u041e\u043c\u0430\u0445\u0435\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Omaheke"
+    ],
     "name:deu_x_preferred":[
         "Omaheke"
     ],
     "name:eng_x_preferred":[
         "Omaheke"
+    ],
+    "name:eng_x_variant":[
+        "Omaheke Region"
     ],
     "name:est_x_preferred":[
         "Omaheke ringkond"
@@ -46,10 +52,16 @@
     "name:fao_x_preferred":[
         "Omaheke"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0648\u0645\u0627\u0647\u06a9\u0647"
+    ],
     "name:fin_x_preferred":[
         "Omaheke"
     ],
     "name:fra_x_preferred":[
+        "Omaheke"
+    ],
+    "name:frr_x_preferred":[
         "Omaheke"
     ],
     "name:hin_x_preferred":[
@@ -57,6 +69,9 @@
     ],
     "name:hrv_x_preferred":[
         "Omaheke"
+    ],
+    "name:ind_x_preferred":[
+        "Region Omaheke"
     ],
     "name:ita_x_preferred":[
         "Regione di Omaheke"
@@ -69,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ub9c8\ud5e4\ucf00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ub9c8\ud5e4\ucf00\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Omahek\u0117s regionas"
@@ -244,7 +262,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1561759943,
+    "wof:lastmodified":1563314368,
     "wof:name":"Omaheke",
     "wof:parent_id":85632535,
     "wof:placetype":"region",
