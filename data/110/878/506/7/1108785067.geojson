@@ -31,8 +31,59 @@
     "mps:longitude":16.352634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Eenhana"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043d\u0445\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Eenhana"
+    ],
+    "name:deu_x_preferred":[
+        "Eenhana"
+    ],
     "name:eng_x_preferred":[
         "Eenhana"
+    ],
+    "name:fin_x_preferred":[
+        "Eenhana"
+    ],
+    "name:fra_x_preferred":[
+        "Eenhana"
+    ],
+    "name:frr_x_preferred":[
+        "Eenhana"
+    ],
+    "name:ita_x_preferred":[
+        "Eenhana"
+    ],
+    "name:lit_x_preferred":[
+        "Enhana"
+    ],
+    "name:pol_x_preferred":[
+        "Eenhana"
+    ],
+    "name:ron_x_preferred":[
+        "Eenhana"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u044d\u043d\u0445\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Eenhana"
+    ],
+    "name:swa_x_preferred":[
+        "Eenhana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0435\u043d\u0445\u0430\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0646\u0627\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u7d0d\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +120,7 @@
         }
     ],
     "wof:id":1108785067,
-    "wof:lastmodified":1553718780,
+    "wof:lastmodified":1564205362,
     "wof:name":"Eenhana",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

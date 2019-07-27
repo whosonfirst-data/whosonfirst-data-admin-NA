@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Anamulenge"
     ],
+    "name:fin_x_preferred":[
+        "Anamulenge"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108785065,
-    "wof:lastmodified":1553718780,
+    "wof:lastmodified":1564205362,
     "wof:name":"Anamulenge",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

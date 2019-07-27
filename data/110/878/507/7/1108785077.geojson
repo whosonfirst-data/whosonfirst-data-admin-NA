@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Engela"
     ],
+    "name:fin_x_preferred":[
+        "Engela"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108785077,
-    "wof:lastmodified":1553718780,
+    "wof:lastmodified":1564205362,
     "wof:name":"Engela",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

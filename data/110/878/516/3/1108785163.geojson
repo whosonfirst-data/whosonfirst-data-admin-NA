@@ -31,8 +31,38 @@
     "mps:longitude":15.827593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:deu_x_preferred":[
+        "Ongwediva"
+    ],
     "name:eng_x_preferred":[
         "Ongwediva"
+    ],
+    "name:fra_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:ita_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:pol_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u0433\u0443\u044d\u0434\u0438\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:tur_x_preferred":[
+        "Ongwediva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043d\u0433\u0443\u0435\u0434\u0456\u0432\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u572d\u8fea\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1108785163,
-    "wof:lastmodified":1553718783,
+    "wof:lastmodified":1564205359,
     "wof:name":"Ongwediva",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

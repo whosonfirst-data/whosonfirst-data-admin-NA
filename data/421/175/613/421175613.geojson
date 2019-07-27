@@ -32,7 +32,49 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Outjo"
+    ],
+    "name:ceb_x_preferred":[
+        "Outjo"
+    ],
+    "name:deu_x_preferred":[
+        "Outjo"
+    ],
     "name:eng_x_preferred":[
+        "Outjo"
+    ],
+    "name:fra_x_preferred":[
+        "Outjo"
+    ],
+    "name:ita_x_preferred":[
+        "Outjo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e3\u10e9\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Ou\u010das"
+    ],
+    "name:nld_x_preferred":[
+        "Outjo"
+    ],
+    "name:pol_x_preferred":[
+        "Outjo"
+    ],
+    "name:por_x_preferred":[
+        "Outjo"
+    ],
+    "name:ron_x_preferred":[
+        "Outjo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0443\u0447\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Outjo"
+    ],
+    "name:swe_x_preferred":[
         "Outjo"
     ],
     "qs:gn_country":null,
@@ -93,7 +135,7 @@
         }
     ],
     "wof:id":421175613,
-    "wof:lastmodified":1553717362,
+    "wof:lastmodified":1564205374,
     "wof:name":"Outjo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",
