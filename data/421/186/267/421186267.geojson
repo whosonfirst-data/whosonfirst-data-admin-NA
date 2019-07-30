@@ -32,11 +32,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Omaruru"
+    ],
     "name:deu_x_preferred":[
         "Omaruru"
     ],
     "name:eng_x_preferred":[
         "Omaruru"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0430\u0440\u0443\u0440\u0443"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421186267,
-    "wof:lastmodified":1553717447,
+    "wof:lastmodified":1564205371,
     "wof:name":"Omaruru",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

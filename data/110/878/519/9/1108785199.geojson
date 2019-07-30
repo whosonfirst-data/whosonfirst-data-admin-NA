@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Tobias Hainyeko"
     ],
+    "name:fra_x_preferred":[
+        "Tobias Hainyeko"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108785199,
-    "wof:lastmodified":1553718784,
+    "wof:lastmodified":1564205354,
     "wof:name":"Tobias Hainyeko",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

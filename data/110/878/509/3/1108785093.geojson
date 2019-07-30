@@ -31,7 +31,37 @@
     "mps:longitude":15.38637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u043d\u0436\u0430\u0431"
+    ],
+    "name:deu_x_preferred":[
+        "Kamanjab"
+    ],
     "name:eng_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:fra_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:ita_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30de\u30f3\u30b8\u30e3\u30d6"
+    ],
+    "name:pol_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:ron_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u043d\u044c\u044f\u0431"
+    ],
+    "name:spa_x_preferred":[
         "Kamanjab"
     ],
     "src:geom":"meso",
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1108785093,
-    "wof:lastmodified":1553718782,
+    "wof:lastmodified":1564205364,
     "wof:name":"Kamanjab",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

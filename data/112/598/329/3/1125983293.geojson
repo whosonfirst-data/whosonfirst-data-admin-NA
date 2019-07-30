@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Walvis Bay Urban Constituency"
+    ],
+    "name:deu_x_preferred":[
+        "Walvis Bay-Stadt"
+    ],
+    "name:ita_x_preferred":[
+        "Walvis Bay Urbano"
+    ],
     "qs_pg:aaroncc":"NA",
     "qs_pg:gn_country":"NA",
     "qs_pg:name":"Walvis Bay Urban",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1125983293,
-    "wof:lastmodified":1509404906,
+    "wof:lastmodified":1564205379,
     "wof:name":"Walvis Bay Urban",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

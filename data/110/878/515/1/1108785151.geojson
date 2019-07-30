@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Onayena"
     ],
+    "name:fin_x_preferred":[
+        "Onayena"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108785151,
-    "wof:lastmodified":1553718783,
+    "wof:lastmodified":1564205368,
     "wof:name":"Onayena",
     "wof:parent_id":85675243,
     "wof:placetype":"county",
