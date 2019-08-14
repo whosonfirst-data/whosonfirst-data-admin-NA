@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ER"
+    ],
     "lbl:latitude":-21.854087,
     "lbl:longitude":15.326432,
     "mps:latitude":-21.907289,
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85675213,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -316,7 +316,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314376,
+    "wof:lastmodified":1565731266,
     "wof:name":"Erongo",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

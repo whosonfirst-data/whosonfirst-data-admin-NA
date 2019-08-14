@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OH"
+    ],
     "lbl:latitude":-21.795369,
     "lbl:longitude":19.132563,
     "mps:latitude":-21.781672,
@@ -251,9 +254,6 @@
         }
     ],
     "wof:id":85675235,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -262,7 +262,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314368,
+    "wof:lastmodified":1565731264,
     "wof:name":"Omaheke",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

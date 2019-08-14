@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":-24.604852,
     "lbl:longitude":17.619564,
     "mps:latitude":-24.591839,
@@ -299,9 +302,6 @@
         }
     ],
     "wof:id":85675199,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -310,7 +310,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314384,
+    "wof:lastmodified":1565731269,
     "wof:name":"Hardap",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

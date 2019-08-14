@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":-22.73523,
     "lbl:longitude":17.592593,
     "mps:latitude":-22.708246,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85675205,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -303,7 +303,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314369,
+    "wof:lastmodified":1565731264,
     "wof:name":"Khomas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

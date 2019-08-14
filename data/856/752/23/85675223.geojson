@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OS"
+    ],
     "lbl:latitude":-18.444614,
     "lbl:longitude":14.880364,
     "mps:latitude":-18.440121,
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85675223,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -307,7 +307,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314375,
+    "wof:lastmodified":1565731266,
     "wof:name":"Omusati",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

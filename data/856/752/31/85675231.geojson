@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OW"
+    ],
     "lbl:latitude":-17.649987,
     "lbl:longitude":16.422533,
     "mps:latitude":-17.64592,
@@ -290,9 +293,6 @@
         }
     ],
     "wof:id":85675231,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -301,7 +301,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314374,
+    "wof:lastmodified":1565731266,
     "wof:name":"Ohangwena",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

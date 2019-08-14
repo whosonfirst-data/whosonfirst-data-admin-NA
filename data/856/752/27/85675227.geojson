@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ON"
+    ],
     "lbl:latitude":-17.981366,
     "lbl:longitude":15.730186,
     "mps:latitude":-18.418578,
@@ -287,9 +290,6 @@
         }
     ],
     "wof:id":85675227,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -298,7 +298,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314370,
+    "wof:lastmodified":1565731265,
     "wof:name":"Oshana",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

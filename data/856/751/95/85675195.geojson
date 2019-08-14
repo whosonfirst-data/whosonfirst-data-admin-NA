@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":-27.018975,
     "lbl:longitude":18.345981,
     "mps:latitude":-27.023109,
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85675195,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -316,7 +316,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314382,
+    "wof:lastmodified":1565731268,
     "wof:name":"Karas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

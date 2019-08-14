@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KU"
+    ],
     "lbl:latitude":-19.066781,
     "lbl:longitude":13.513217,
     "mps:latitude":-19.029983,
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85675209,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -304,7 +304,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314373,
+    "wof:lastmodified":1565731265,
     "wof:name":"Kunene",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

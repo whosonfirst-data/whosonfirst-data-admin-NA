@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OD"
+    ],
     "lbl:latitude":-20.420025,
     "lbl:longitude":17.680849,
     "mps:latitude":-20.417613,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85675217,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "afr",
         "eng"
@@ -308,7 +308,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1563314371,
+    "wof:lastmodified":1565731265,
     "wof:name":"Otjozondjupa",
     "wof:parent_id":85632535,
     "wof:placetype":"region",
