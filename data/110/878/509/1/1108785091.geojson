@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.273613,
     "lbl:longitude":18.869326,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"KahengeKavango",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":18.869326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Kahenge"
     ],
@@ -38,7 +41,7 @@
         "Kahenge"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632535,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108785091,
-    "wof:lastmodified":1564205364,
+    "wof:lastmodified":1566647639,
     "wof:name":"Kahenge",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

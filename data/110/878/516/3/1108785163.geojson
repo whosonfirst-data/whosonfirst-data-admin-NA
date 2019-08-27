@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.782955,
     "lbl:longitude":15.827593,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Oshana",
     "meso:dissme":"OngwedivaOshana",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":15.827593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ongwediva"
     ],
@@ -65,9 +68,9 @@
         "\u7fc1\u572d\u8fea\u74e6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108785163,
-    "wof:lastmodified":1564205359,
+    "wof:lastmodified":1566647634,
     "wof:name":"Ongwediva",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

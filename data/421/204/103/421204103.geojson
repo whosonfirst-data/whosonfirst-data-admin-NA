@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.534546,
     "lbl:longitude":19.203301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Karas",
     "meso:dissme":"Keetmanshoop RuralKaras",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":19.203301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Keetmanshoop Land"
@@ -75,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gp:id":55921170,
         "hasc:id":"NA.KA.KR",
-        "qs:id":238043,
+        "qs_pg:id":238043,
         "wd:id":"Q477439"
     },
     "wof:country":"NA",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421204103,
-    "wof:lastmodified":1563314404,
+    "wof:lastmodified":1566647646,
     "wof:name":"Keetmanshoop Rural",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

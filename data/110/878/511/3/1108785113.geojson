@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.050624,
     "lbl:longitude":18.252615,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"MpunguKavango",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":18.252615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mpungu"
     ],
@@ -41,9 +44,9 @@
         "Mpungu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108785113,
-    "wof:lastmodified":1564205360,
+    "wof:lastmodified":1566647635,
     "wof:name":"Mpungu",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

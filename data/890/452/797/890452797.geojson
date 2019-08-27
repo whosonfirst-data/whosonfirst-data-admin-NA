@@ -11,8 +11,11 @@
     "geom:longitude":14.50528,
     "gn:country":"NA",
     "gn:fcode":"PPLA",
-    "gn:pop":52058,
+    "gn:population":52058,
     "iso:country":"NA",
+    "lbl:bbox":"14.48528,-22.9775,14.52528,-22.9375",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -196,7 +199,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0444\u0456\u0448-\u0411\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Walfisch-Bucht-Niederland"
     ],
     "name:urd_x_preferred":[
@@ -318,7 +321,7 @@
     "wof:concordances":{
         "gn:id":3359638,
         "gp:id":1466697,
-        "qs:id":582976,
+        "qs_pg:id":582976,
         "wd:id":"Q220843",
         "wk:page":"Walvis Bay"
     },
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":890452797,
-    "wof:lastmodified":1563314434,
+    "wof:lastmodified":1566647665,
     "wof:name":"Walvis Bay",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

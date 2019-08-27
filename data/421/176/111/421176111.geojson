@@ -10,6 +10,9 @@
     "geom:latitude":-19.65,
     "geom:longitude":17.33333,
     "iso:country":"NA",
+    "lbl:bbox":"17.31333,-19.67,17.35333,-19.63",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0430\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otawi"
     ],
     "ne:ADM0CAP":0.0,
@@ -183,7 +186,7 @@
     "wof:concordances":{
         "gn:id":3353934,
         "gp:id":1466234,
-        "qs:id":1044149,
+        "qs_pg:id":1044149,
         "wd:id":"Q1013965",
         "wk:page":"Otavi"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421176111,
-    "wof:lastmodified":1563314430,
+    "wof:lastmodified":1566647663,
     "wof:name":"Otavi",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

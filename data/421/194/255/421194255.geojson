@@ -10,8 +10,12 @@
     "geom:latitude":-17.91667,
     "geom:longitude":15.95,
     "iso:country":"NA",
+    "lbl:bbox":"15.93,-17.93667,15.97,-17.89667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Ondangwa"
@@ -64,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0434\u0430\u043d\u0433\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ondangua"
-    ],
     "name:zho_x_preferred":[
         "\u7fc1\u4e39\u74dc"
     ],
@@ -102,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3354247,
         "gp:id":1466038,
-        "qs:id":1044154,
+        "qs_pg:id":1044154,
         "wd:id":"Q2023773",
         "wk:page":"Ondangwa"
     },
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":421194255,
-    "wof:lastmodified":1561759950,
+    "wof:lastmodified":1566647644,
     "wof:name":"Ondangwa",
     "wof:parent_id":85675227,
     "wof:placetype":"locality",

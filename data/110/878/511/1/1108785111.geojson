@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.455092,
     "lbl:longitude":17.045721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Khomas",
     "meso:dissme":"Moses GaroebKhomas",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.045721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Moses Garoeb"
     ],
@@ -38,9 +41,9 @@
         "Moses ?Garoeb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108785111,
-    "wof:lastmodified":1555047484,
+    "wof:lastmodified":1566647635,
     "wof:name":"Moses Garoeb",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":-25.88333,
     "geom:longitude":16.81667,
     "iso:country":"NA",
+    "lbl:bbox":"16.79667,-25.90333,16.83667,-25.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Helmeringhausen"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3356838,
         "gp:id":1465016,
-        "qs:id":58933,
+        "qs_pg:id":58933,
         "wd:id":"Q19371531"
     },
     "wof:country":"NA",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421190931,
-    "wof:lastmodified":1561759952,
+    "wof:lastmodified":1566647657,
     "wof:name":"Helmeringhausen",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

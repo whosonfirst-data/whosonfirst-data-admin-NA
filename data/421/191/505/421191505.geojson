@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.624732,
     "lbl:longitude":17.137884,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Khomas",
     "meso:dissme":"Windhoek EastKhomas",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.137884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Windhoek-Ost"
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gp:id":55921121,
         "hasc:id":"NA.KH.WE",
-        "qs:id":1137623,
+        "qs_pg:id":1137623,
         "wd:id":"Q656427"
     },
     "wof:country":"NA",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421191505,
-    "wof:lastmodified":1563314422,
+    "wof:lastmodified":1566647657,
     "wof:name":"Windhoek East",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

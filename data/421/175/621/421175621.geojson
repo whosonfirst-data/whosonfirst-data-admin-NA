@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-26.270206,
     "lbl:longitude":17.224363,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Karas",
     "meso:dissme":"BersebaKaras",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.224363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Berseba"
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gp:id":55921210,
         "hasc:id":"NA.KA.BE",
-        "qs:id":383402,
+        "qs_pg:id":383402,
         "wd:id":"Q2713629"
     },
     "wof:country":"NA",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421175621,
-    "wof:lastmodified":1563314419,
+    "wof:lastmodified":1566647655,
     "wof:name":"Berseba",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

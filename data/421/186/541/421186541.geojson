@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.118875,
     "lbl:longitude":21.719391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"MukweKavango",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":21.719391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Mukwe"
@@ -57,9 +60,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gp:id":55921188,
         "hasc:id":"NA.KE.MU",
-        "qs:id":1073327
+        "qs_pg:id":1073327
     },
     "wof:country":"NA",
     "wof:created":1459009484,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421186541,
-    "wof:lastmodified":1553717451,
+    "wof:lastmodified":1566647653,
     "wof:name":"Mukwe",
     "wof:parent_id":1108804899,
     "wof:placetype":"county",

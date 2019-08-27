@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-21.336457,
     "lbl:longitude":17.380616,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Otjozondjupa",
     "meso:dissme":"OmatakoOtjozondjupa",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.380616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Omatako"
@@ -57,9 +60,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gp:id":55921143,
         "hasc:id":"NA.OD.OM",
-        "qs:id":1247382
+        "qs_pg:id":1247382
     },
     "wof:country":"NA",
     "wof:created":1459008702,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421166795,
-    "wof:lastmodified":1553717299,
+    "wof:lastmodified":1566647643,
     "wof:name":"Omatako",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

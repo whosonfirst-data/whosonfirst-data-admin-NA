@@ -10,8 +10,12 @@
     "geom:latitude":-22.574825,
     "geom:longitude":17.131093,
     "iso:country":"NA",
+    "lbl:bbox":"17.1110935,-22.594825,17.1510935,-22.554825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Klein Windhoek"
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1465216,
-        "qs:id":1117263,
+        "qs_pg:id":1117263,
         "wd:id":"Q1256918"
     },
     "wof:country":"NA",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421189863,
-    "wof:lastmodified":1563314411,
+    "wof:lastmodified":1566647650,
     "wof:name":"Klein-Windhoek",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",

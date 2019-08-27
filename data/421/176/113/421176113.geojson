@@ -10,6 +10,9 @@
     "geom:latitude":-17.78333,
     "geom:longitude":15.76667,
     "iso:country":"NA",
+    "lbl:bbox":"15.74667,-17.80333,15.78667,-17.76333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0433\u0443\u0435\u0434\u0456\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Onguedira"
     ],
     "name:zho_x_preferred":[
@@ -180,7 +183,7 @@
     "wof:concordances":{
         "gn:id":3354147,
         "gp:id":1466103,
-        "qs:id":1044150,
+        "qs_pg:id":1044150,
         "wd:id":"Q841557",
         "wk:page":"Ongwediva"
     },
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421176113,
-    "wof:lastmodified":1563314431,
+    "wof:lastmodified":1566647664,
     "wof:name":"Ongwediva",
     "wof:parent_id":85675227,
     "wof:placetype":"locality",

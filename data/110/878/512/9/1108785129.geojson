@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.494998,
     "lbl:longitude":15.305328,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Omusati",
     "meso:dissme":"OkalongoOmusati",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":15.305328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Okalongo"
     ],
@@ -38,9 +41,9 @@
         "Okalongo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108785129,
-    "wof:lastmodified":1564205366,
+    "wof:lastmodified":1566647641,
     "wof:name":"Okalongo",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

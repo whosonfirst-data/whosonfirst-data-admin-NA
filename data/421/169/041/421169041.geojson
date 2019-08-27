@@ -10,6 +10,9 @@
     "geom:latitude":-17.4,
     "geom:longitude":15.88333,
     "iso:country":"NA",
+    "lbl:bbox":"15.86333,-17.42,15.90333,-17.38",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -177,7 +180,7 @@
     "wof:concordances":{
         "gn:id":3353996,
         "gp:id":1466187,
-        "qs:id":274286,
+        "qs_pg:id":274286,
         "wd:id":"Q2033319",
         "wk:page":"Oshikango"
     },
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421169041,
-    "wof:lastmodified":1561759950,
+    "wof:lastmodified":1566647644,
     "wof:name":"Oshikango",
     "wof:parent_id":85675231,
     "wof:placetype":"locality",

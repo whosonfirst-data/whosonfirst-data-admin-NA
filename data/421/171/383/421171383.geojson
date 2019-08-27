@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.549992,
     "lbl:longitude":17.020171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Khomas",
     "meso:dissme":"Khomasdal NorthKhomas",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.020171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Khomasdal"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gp:id":55921160,
         "hasc:id":"NA.KH.KN",
-        "qs:id":1247385,
+        "qs_pg:id":1247385,
         "wd:id":"Q15237923"
     },
     "wof:country":"NA",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421171383,
-    "wof:lastmodified":1563314432,
+    "wof:lastmodified":1566647664,
     "wof:name":"Khomasdal North",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

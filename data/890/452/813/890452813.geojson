@@ -11,10 +11,14 @@
     "geom:longitude":19.11667,
     "gn:country":"NA",
     "gn:fcode":"PPL",
-    "gn:pop":3430,
+    "gn:population":3430,
     "iso:country":"NA",
+    "lbl:bbox":"19.09667,-24.15333,19.13667,-24.11333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Aranos"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3358666,
         "gp:id":1464663,
-        "qs:id":582990,
+        "qs_pg:id":582990,
         "wd:id":"Q626040",
         "wk:page":"Aranos"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890452813,
-    "wof:lastmodified":1563314434,
+    "wof:lastmodified":1566647665,
     "wof:name":"Aranos",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

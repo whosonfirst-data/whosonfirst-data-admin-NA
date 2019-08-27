@@ -10,6 +10,9 @@
     "geom:latitude":-28.01667,
     "geom:longitude":18.75,
     "iso:country":"NA",
+    "lbl:bbox":"18.73,-28.03667,18.77,-27.99667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Karasburg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalkfontein South"
     ],
     "name:zho_x_preferred":[
@@ -195,7 +198,7 @@
     "wof:concordances":{
         "gn:id":3356343,
         "gp:id":1465140,
-        "qs:id":58941,
+        "qs_pg:id":58941,
         "wd:id":"Q1003328",
         "wk:page":"Karasburg"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421178309,
-    "wof:lastmodified":1563314429,
+    "wof:lastmodified":1566647663,
     "wof:name":"Karasburg",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

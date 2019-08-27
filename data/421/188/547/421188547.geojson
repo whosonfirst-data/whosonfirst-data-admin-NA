@@ -10,6 +10,9 @@
     "geom:latitude":-28.55,
     "geom:longitude":16.43333,
     "iso:country":"NA",
+    "lbl:bbox":"16.41333,-28.57,16.45333,-28.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0430\u043d\u044c\u0454\u043c\u0443\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orange Mouth"
     ],
     "name:zho_x_preferred":[
@@ -194,10 +197,12 @@
         "gn:id":3354071,
         "gp:id":1466141,
         "loc:id":"n99909969",
-        "qs:id":1099181,
-        "qs_pg:id":1117269,
+        "qs_pg:id":1099181,
         "wd:id":"Q1404518",
         "wk:page":"Oranjemund"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117269
     },
     "wof:country":"NA",
     "wof:created":1459009569,
@@ -212,7 +217,7 @@
         }
     ],
     "wof:id":421188547,
-    "wof:lastmodified":1563314411,
+    "wof:lastmodified":1566647650,
     "wof:name":"Oranjemund",
     "wof:parent_id":421190657,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-28.165168,
     "lbl:longitude":18.827238,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Karas",
     "meso:dissme":"KarasKaras",
     "meso:gadm_alt":"Karasburg",
@@ -31,6 +33,7 @@
     "mps:longitude":18.827238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441"
     ],
@@ -83,7 +86,7 @@
         "\u041a\u0430\u0440\u0430\u0441"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632535,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108785097,
-    "wof:lastmodified":1564205364,
+    "wof:lastmodified":1566647638,
     "wof:name":"Karas",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

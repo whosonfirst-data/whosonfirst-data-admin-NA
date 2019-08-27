@@ -11,11 +11,14 @@
     "geom:longitude":16.38718,
     "gn:country":"NA",
     "gn:fcode":"RESW",
-    "gn:pop":150,
+    "gn:population":150,
     "iso:country":"NA",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Erindi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +33,7 @@
     "wof:concordances":{
         "gn:id":6941898,
         "gp:id":1465750,
-        "qs:id":653111
+        "qs_pg:id":653111
     },
     "wof:country":"NA",
     "wof:created":1469052366,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890442537,
-    "wof:lastmodified":1505343588,
+    "wof:lastmodified":1566647666,
     "wof:name":"Erindi",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-21.695645,
     "lbl:longitude":18.654903,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Omaheke",
     "meso:dissme":"SteinhausenOmaheke",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":18.654903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Steinhausen"
     ],
@@ -68,7 +71,7 @@
         "Steinhausen"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632535,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108785197,
-    "wof:lastmodified":1564205355,
+    "wof:lastmodified":1566647630,
     "wof:name":"Steinhausen",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

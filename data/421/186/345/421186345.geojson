@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.612557,
     "lbl:longitude":17.004712,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Khomas",
     "meso:dissme":"Windhoek WestKhomas",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.004712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Windhoek-West"
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gp:id":55921197,
         "hasc:id":"NA.KH.WW",
-        "qs:id":1090170,
+        "qs_pg:id":1090170,
         "wd:id":"Q527453"
     },
     "wof:country":"NA",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421186345,
-    "wof:lastmodified":1563314416,
+    "wof:lastmodified":1566647653,
     "wof:name":"Windhoek West",
     "wof:parent_id":85675205,
     "wof:placetype":"county",
