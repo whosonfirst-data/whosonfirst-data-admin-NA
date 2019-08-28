@@ -10,6 +10,9 @@
     "geom:latitude":-21.43333,
     "geom:longitude":15.93333,
     "iso:country":"NA",
+    "lbl:bbox":"15.91333,-21.45333,15.95333,-21.41333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -192,7 +195,7 @@
     "wof:concordances":{
         "gn:id":3354540,
         "gp:id":1465841,
-        "qs:id":1044151,
+        "qs_pg:id":1044151,
         "wd:id":"Q1896161",
         "wk:page":"Omaruru, Namibia"
     },
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421176115,
-    "wof:lastmodified":1563314431,
+    "wof:lastmodified":1566647664,
     "wof:name":"Omaruru",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

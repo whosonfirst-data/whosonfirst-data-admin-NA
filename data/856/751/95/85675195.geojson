@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-27.018975,
     "lbl:longitude":18.345981,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-27.023109,
     "mps:longitude":18.338968,
     "mz:hierarchy_label":1,
@@ -164,7 +165,7 @@
         "Karas"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb0\u0bb8\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b95\u0bb0\u0bb8\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c30\u0c38\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -177,9 +178,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Karas Region"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u0627\u0633 \u0631\u06cc\u062c\u0646\u060c \u0646\u0645\u0628\u06cc\u0627"
@@ -266,9 +264,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"161,215",
     "statoids:area_mi":"62,245",
     "statoids:as_of_date":"2011-08-28",
@@ -293,7 +291,7 @@
         "gp:id":20069838,
         "hasc:id":"NA.KA",
         "iso:id":"NA-KA",
-        "qs:id":336933,
+        "qs_pg:id":336933,
         "unlc:id":"NA-KA",
         "wd:id":"Q573467",
         "wk:page":"\u01c1Karas Region"
@@ -316,11 +314,10 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1565731268,
+    "wof:lastmodified":1566647624,
     "wof:name":"Karas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":77421,
     "wof:population_rank":8,

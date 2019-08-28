@@ -10,8 +10,12 @@
     "geom:latitude":-22.612505,
     "geom:longitude":17.053098,
     "iso:country":"NA",
+    "lbl:bbox":"17.033098,-22.632505,17.073098,-22.592505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Pionierspark"
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1466367,
-        "qs:id":1117267,
+        "qs_pg:id":1117267,
         "wd:id":"Q1678355"
     },
     "wof:country":"NA",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421189865,
-    "wof:lastmodified":1563314410,
+    "wof:lastmodified":1566647649,
     "wof:name":"Pionierspark",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",

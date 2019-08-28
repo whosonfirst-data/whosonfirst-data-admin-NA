@@ -10,6 +10,9 @@
     "geom:latitude":-19.56667,
     "geom:longitude":18.11667,
     "iso:country":"NA",
+    "lbl:bbox":"18.09667,-19.58667,18.13667,-19.54667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0442\u0444\u043e\u043d\u0442\u0435\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Groutfontein"
     ],
     "name:zho_x_preferred":[
@@ -213,7 +216,7 @@
     "wof:concordances":{
         "gn:id":3357114,
         "gp:id":1464974,
-        "qs:id":58942,
+        "qs_pg:id":58942,
         "wd:id":"Q986336",
         "wk:page":"Grootfontein"
     },
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":421178311,
-    "wof:lastmodified":1563314430,
+    "wof:lastmodified":1566647663,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.18356,
     "lbl:longitude":19.712131,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"Rundu Rural WestKavango",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":19.712131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Rundu Rural West"
     ],
@@ -41,7 +44,7 @@
         "Rundu Rurale Ovest"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632535,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108785191,
-    "wof:lastmodified":1564205355,
+    "wof:lastmodified":1566647631,
     "wof:name":"Rundu Rural West",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

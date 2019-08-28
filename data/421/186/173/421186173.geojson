@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.24347,
     "lbl:longitude":15.775137,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Erongo",
     "meso:dissme":"KaribibErongo",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":15.775137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Karibib"
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gp:id":55921137,
         "hasc:id":"NA.ER.KA",
-        "qs:id":1090162,
+        "qs_pg:id":1090162,
         "wd:id":"Q1348181"
     },
     "wof:country":"NA",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421186173,
-    "wof:lastmodified":1563314414,
+    "wof:lastmodified":1566647651,
     "wof:name":"Karibib",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

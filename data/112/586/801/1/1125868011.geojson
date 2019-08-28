@@ -9,15 +9,18 @@
     "geom:bbox":"15.68333,-17.78333,15.68333,-17.78333",
     "geom:latitude":-17.78333,
     "geom:longitude":15.68333,
-    "gn:gn_country":"NA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":33618,
+    "gn:country":"NA",
+    "gn:fcode":"PPLA",
     "gn:population":33618,
     "iso:country":"NA",
+    "lbl:bbox":"15.66333,-17.80333,15.70333,-17.76333",
     "lbl:latitude":-17.78333,
     "lbl:longitude":15.68333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Oshakati"
@@ -91,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0448\u0430\u043a\u0430\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Okatana"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +115,7 @@
     "qs_pg:qs_id":95397,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125868011,
-    "wof:lastmodified":1564205379,
+    "wof:lastmodified":1566647666,
     "wof:name":"Oshakati",
     "wof:parent_id":1108785171,
     "wof:placetype":"locality",

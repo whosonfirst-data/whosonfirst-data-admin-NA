@@ -10,6 +10,9 @@
     "geom:latitude":-22.68333,
     "geom:longitude":14.53333,
     "iso:country":"NA",
+    "lbl:bbox":"14.51333,-22.70333,14.55333,-22.66333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -295,7 +298,7 @@
         "gn:id":3352844,
         "gp:id":1466575,
         "loc:id":"n82087494",
-        "qs:id":274284,
+        "qs_pg:id":274284,
         "wd:id":"Q59698",
         "wk:page":"Swakopmund"
     },
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":421169035,
-    "wof:lastmodified":1563314403,
+    "wof:lastmodified":1566647645,
     "wof:name":"Swakopmund",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

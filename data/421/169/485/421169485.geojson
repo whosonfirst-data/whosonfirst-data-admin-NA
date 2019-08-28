@@ -10,6 +10,9 @@
     "geom:latitude":-21.93333,
     "geom:longitude":15.83333,
     "iso:country":"NA",
+    "lbl:bbox":"15.81333,-21.95333,15.85333,-21.91333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -183,7 +186,7 @@
     "wof:concordances":{
         "gn:id":3356332,
         "gp:id":1465143,
-        "qs:id":189085,
+        "qs_pg:id":189085,
         "wd:id":"Q1348181",
         "wk:page":"Karibib"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421169485,
-    "wof:lastmodified":1563314401,
+    "wof:lastmodified":1566647644,
     "wof:name":"Karibib",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

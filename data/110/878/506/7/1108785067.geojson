@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.627852,
     "lbl:longitude":16.352634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Ohangwena",
     "meso:dissme":"EenhanaOhangwena",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":16.352634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Eenhana"
     ],
@@ -86,9 +89,9 @@
         "\u57c3\u7d0d\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108785067,
-    "wof:lastmodified":1564205362,
+    "wof:lastmodified":1566647636,
     "wof:name":"Eenhana",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

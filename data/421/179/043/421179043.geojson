@@ -10,8 +10,12 @@
     "geom:latitude":-22.41667,
     "geom:longitude":14.96667,
     "iso:country":"NA",
+    "lbl:bbox":"14.94667,-22.43667,14.98667,-22.39667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Arandis"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3358670,
         "gp:id":1464662,
-        "qs:id":147495,
+        "qs_pg:id":147495,
         "wd:id":"Q438851",
         "wk:page":"Arandis, Namibia"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421179043,
-    "wof:lastmodified":1563314428,
+    "wof:lastmodified":1566647663,
     "wof:name":"Arandis",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

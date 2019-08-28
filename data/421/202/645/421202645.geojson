@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-20.478664,
     "lbl:longitude":14.180609,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kunene",
     "meso:dissme":"KhorixasKunene",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":14.180609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Khorixas"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gp:id":55921213,
         "hasc:id":"NA.KU.KH",
-        "qs:id":225210
+        "qs_pg:id":225210
     },
     "wof:country":"NA",
     "wof:created":1459010125,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421202645,
-    "wof:lastmodified":1564205369,
+    "wof:lastmodified":1566647647,
     "wof:name":"Khorixas",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

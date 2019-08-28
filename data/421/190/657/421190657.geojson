@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-27.864149,
     "lbl:longitude":17.128381,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Karas",
     "meso:dissme":"OranjemundKaras",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":17.128381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Oranjemund"
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gp:id":55921123,
         "hasc:id":"NA.KA.OR",
-        "qs:id":1119977
+        "qs_pg:id":1119977
     },
     "wof:country":"NA",
     "wof:created":1459009664,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421190657,
-    "wof:lastmodified":1564205375,
+    "wof:lastmodified":1566647658,
     "wof:name":"Oranjemund",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

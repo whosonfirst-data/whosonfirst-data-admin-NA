@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-19.229995,
     "lbl:longitude":18.424303,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Otjozondjupa",
     "meso:dissme":"GrootfonteinOtjozondjupa",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":18.424303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Grootfontein"
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gp:id":55921134,
         "hasc:id":"NA.OD.GR",
-        "qs:id":1090161
+        "qs_pg:id":1090161
     },
     "wof:country":"NA",
     "wof:created":1459009472,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421186171,
-    "wof:lastmodified":1564205372,
+    "wof:lastmodified":1566647654,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

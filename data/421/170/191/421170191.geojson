@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-24.92973,
     "lbl:longitude":16.374391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Hardap",
     "meso:dissme":"GibeonHardap",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":16.374391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Gibeon"
@@ -75,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gp:id":55921215,
         "hasc:id":"NA.HA.GB",
-        "qs:id":225218
+        "qs_pg:id":225218
     },
     "wof:country":"NA",
     "wof:created":1459008842,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421170191,
-    "wof:lastmodified":1564205376,
+    "wof:lastmodified":1566647661,
     "wof:name":"Gibeon",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

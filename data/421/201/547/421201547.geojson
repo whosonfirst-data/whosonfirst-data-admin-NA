@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.909686,
     "lbl:longitude":19.779865,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"Rundu UrbanKavango",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":19.779865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Rundu Urban"
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gp:id":55921190,
         "hasc:id":"NA.KE.RU",
-        "qs:id":212588,
+        "qs_pg:id":212588,
         "wd:id":"Q3942709"
     },
     "wof:country":"NA",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421201547,
-    "wof:lastmodified":1563314426,
+    "wof:lastmodified":1566647660,
     "wof:name":"Rundu Urban",
     "wof:parent_id":1108804903,
     "wof:placetype":"county",

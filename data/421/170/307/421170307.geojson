@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.488055,
     "lbl:longitude":13.10259,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kunene",
     "meso:dissme":"EpupaKunene",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":13.10259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Epupa"
@@ -57,9 +60,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gp:id":55921177,
         "hasc:id":"NA.KU.EP",
-        "qs:id":238045
+        "qs_pg:id":238045
     },
     "wof:country":"NA",
     "wof:created":1459008847,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421170307,
-    "wof:lastmodified":1553717315,
+    "wof:lastmodified":1566647661,
     "wof:name":"Epupa",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

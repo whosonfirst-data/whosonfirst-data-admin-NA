@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-21.517657,
     "lbl:longitude":14.924352,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Erongo",
     "meso:dissme":"DauresErongo",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":14.924352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Daures"
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gp:id":55921184,
         "hasc:id":"NA.ER.DA",
-        "qs:id":383398
+        "qs_pg:id":383398
     },
     "wof:country":"NA",
     "wof:created":1459009073,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421175611,
-    "wof:lastmodified":1553717363,
+    "wof:lastmodified":1566647655,
     "wof:name":"Daures",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

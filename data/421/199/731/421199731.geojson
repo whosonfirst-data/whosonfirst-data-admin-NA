@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.864175,
     "lbl:longitude":24.11208,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Zambezi",
     "meso:dissme":"SibindaZambezi",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":24.11208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Sibinda"
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gp:id":55921204,
         "hasc:id":"NA.CA.SI",
-        "qs:id":486728,
+        "qs_pg:id":486728,
         "wd:id":"Q2280865"
     },
     "wof:country":"NA",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421199731,
-    "wof:lastmodified":1563314423,
+    "wof:lastmodified":1566647658,
     "wof:name":"Sibinda",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

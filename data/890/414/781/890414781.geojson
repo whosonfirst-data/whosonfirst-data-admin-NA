@@ -11,10 +11,14 @@
     "geom:longitude":16.65858,
     "gn:country":"NA",
     "gn:fcode":"PPLL",
-    "gn:pop":50,
+    "gn:population":50,
     "iso:country":"NA",
+    "lbl:bbox":"16.63858,-18.26571,16.67858,-18.22571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Okashana Kelao",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":8354661,
         "gp:id":1465693,
-        "qs:id":766938
+        "qs_pg:id":766938
     },
     "wof:country":"NA",
     "wof:created":1469051061,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890414781,
-    "wof:lastmodified":1505343422,
+    "wof:lastmodified":1566647665,
     "wof:name":"Okashana Kelao",
     "wof:parent_id":85675243,
     "wof:placetype":"locality",

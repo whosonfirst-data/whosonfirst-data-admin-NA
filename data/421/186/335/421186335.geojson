@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.952082,
     "lbl:longitude":16.522828,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Oshikoto",
     "meso:dissme":"OmuthiyagwipundiOshikoto",
     "meso:gadm_alt":"Omuthiyagwiipundi",
@@ -31,6 +33,7 @@
     "mps:longitude":16.522828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Omuthiyagwiipundi"
@@ -57,9 +60,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gp:id":55921159,
         "hasc:id":"NA.OT.OG",
-        "qs:id":1090169
+        "qs_pg:id":1090169
     },
     "wof:country":"NA",
     "wof:created":1459009477,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421186335,
-    "wof:lastmodified":1553717449,
+    "wof:lastmodified":1566647651,
     "wof:name":"Omuthiyagwipundi",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

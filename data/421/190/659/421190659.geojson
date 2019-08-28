@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-23.343243,
     "lbl:longitude":15.031636,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Erongo",
     "meso:dissme":"Walvisbay RuralErongo",
     "meso:gadm_alt":"Walvis Bay Rural",
@@ -31,6 +33,7 @@
     "mps:longitude":15.031636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Walvis Bay Rural Constituency"
@@ -75,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gp:id":55921127,
         "hasc:id":"NA.ER.WR",
-        "qs:id":1119980,
+        "qs_pg:id":1119980,
         "wd:id":"Q1800633"
     },
     "wof:country":"NA",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421190659,
-    "wof:lastmodified":1563314422,
+    "wof:lastmodified":1566647658,
     "wof:name":"Walvisbay Rural",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-20.652717,
     "lbl:longitude":16.087187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Otjozondjupa",
     "meso:dissme":"OtjiwarongoOtjozondjupa",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":16.087187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Otjiwarongo"
@@ -126,9 +129,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -148,7 +151,7 @@
     "wof:concordances":{
         "gp:id":55921133,
         "hasc:id":"NA.OD.OW",
-        "qs:id":1090160
+        "qs_pg:id":1090160
     },
     "wof:country":"NA",
     "wof:created":1459009472,
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421186163,
-    "wof:lastmodified":1564205371,
+    "wof:lastmodified":1566647652,
     "wof:name":"Otjiwarongo",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

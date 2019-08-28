@@ -10,8 +10,12 @@
     "geom:latitude":-22.555366,
     "geom:longitude":17.098331,
     "iso:country":"NA",
+    "lbl:bbox":"17.078331,-22.575366,17.118331,-22.535366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1464888,
-        "qs:id":568627
+        "qs_pg:id":568627
     },
     "wof:country":"NA",
     "wof:created":1459009302,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421181633,
-    "wof:lastmodified":1500017394,
+    "wof:lastmodified":1566647655,
     "wof:name":"Erospark",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",

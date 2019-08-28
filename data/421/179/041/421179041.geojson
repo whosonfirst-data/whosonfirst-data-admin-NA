@@ -10,8 +10,12 @@
     "geom:latitude":-22.35,
     "geom:longitude":16.13333,
     "iso:country":"NA",
+    "lbl:bbox":"16.11333,-22.37,16.15333,-22.33",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Otjimbingwe"
@@ -34,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u041e\u0447\u0438\u043c\u0431\u0438\u043d\u0433\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otjimbingue"
     ],
     "qs:gn_country":"NA",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3353871,
         "gp:id":1466260,
-        "qs:id":147489,
+        "qs_pg:id":147489,
         "wd:id":"Q464050",
         "wk:page":"Otjimbingwe"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421179041,
-    "wof:lastmodified":1563314427,
+    "wof:lastmodified":1566647663,
     "wof:name":"Otjimbingwe",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

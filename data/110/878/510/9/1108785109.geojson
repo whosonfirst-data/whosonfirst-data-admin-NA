@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.672565,
     "lbl:longitude":20.07996,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"MashareKavango",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":20.07996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mashare"
     ],
@@ -38,9 +41,9 @@
         "Mashare"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108785109,
-    "wof:lastmodified":1564205352,
+    "wof:lastmodified":1566647627,
     "wof:name":"Mashare",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

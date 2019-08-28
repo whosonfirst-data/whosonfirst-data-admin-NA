@@ -10,8 +10,12 @@
     "geom:latitude":-22.629064,
     "geom:longitude":14.534225,
     "iso:country":"NA",
+    "lbl:bbox":"14.514225,-22.649064,14.554225,-22.609064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Vineta"
@@ -80,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1466679,
-        "qs:id":1117270,
+        "qs_pg:id":1117270,
         "wd:id":"Q1247070"
     },
     "wof:country":"NA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421189845,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1566647648,
     "wof:name":"Vineta",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

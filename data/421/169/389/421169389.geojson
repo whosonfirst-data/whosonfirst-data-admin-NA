@@ -10,8 +10,12 @@
     "geom:latitude":-26.480023,
     "geom:longitude":18.243418,
     "iso:country":"NA",
+    "lbl:bbox":"18.223418,-26.500023,18.263418,-26.460023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1464932,
-        "qs:id":902013
+        "qs_pg:id":902013
     },
     "wof:country":"NA",
     "wof:created":1459008807,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421169389,
-    "wof:lastmodified":1500017072,
+    "wof:lastmodified":1566647645,
     "wof:name":"Gariganus",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

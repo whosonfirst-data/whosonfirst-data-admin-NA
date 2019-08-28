@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-18.009305,
     "lbl:longitude":19.92844,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kavango",
     "meso:dissme":"Rundu Rural EastKavango",
     "meso:gadm_alt":"",
@@ -31,11 +33,12 @@
     "mps:longitude":19.92844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Rundu Rural East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632535,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1108785189,
-    "wof:lastmodified":1555047485,
+    "wof:lastmodified":1566647631,
     "wof:name":"Rundu Rural East",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

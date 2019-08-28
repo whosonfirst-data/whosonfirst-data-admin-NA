@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-22.625323,
     "lbl:longitude":14.577434,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Erongo",
     "meso:dissme":"SwakopmundErongo",
     "meso:gadm_alt":"",
@@ -31,6 +33,7 @@
     "mps:longitude":14.577434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Swakopmund"
@@ -165,9 +168,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-08-28",
+    "src:population_date":"2011-08-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2011-08-28",
     "statoids:capital":"",
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gp:id":55921150,
         "hasc:id":"NA.ER.SW",
-        "qs:id":383386
+        "qs_pg:id":383386
     },
     "wof:country":"NA",
     "wof:created":1459009073,
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421175605,
-    "wof:lastmodified":1564205374,
+    "wof:lastmodified":1566647656,
     "wof:name":"Swakopmund",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

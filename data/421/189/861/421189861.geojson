@@ -10,8 +10,12 @@
     "geom:latitude":-22.540622,
     "geom:longitude":17.053442,
     "iso:country":"NA",
+    "lbl:bbox":"17.033442,-22.560622,17.073442,-22.520622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Khomasdal"
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1465199,
-        "qs:id":1117262,
+        "qs_pg:id":1117262,
         "wd:id":"Q1640730"
     },
     "wof:country":"NA",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421189861,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1566647649,
     "wof:name":"Khomasdal",
     "wof:parent_id":85675205,
     "wof:placetype":"locality",
