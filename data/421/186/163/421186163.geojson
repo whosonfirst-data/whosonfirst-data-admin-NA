@@ -155,6 +155,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009472,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4954f97cddecdda1beb9633dfe3646d8",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421186163,
-    "wof:lastmodified":1566647652,
+    "wof:lastmodified":1582351962,
     "wof:name":"Otjiwarongo",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

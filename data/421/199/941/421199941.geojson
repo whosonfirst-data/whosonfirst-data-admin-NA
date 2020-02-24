@@ -103,6 +103,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010005,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"506c408c299d21e5ae2b0c51e1617bad",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421199941,
-    "wof:lastmodified":1566647659,
+    "wof:lastmodified":1582351965,
     "wof:name":"Katima Muliro Rural",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

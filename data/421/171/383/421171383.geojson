@@ -97,6 +97,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459008891,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07664d76bcf4e21ec9d55f4b60dee87b",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421171383,
-    "wof:lastmodified":1566647664,
+    "wof:lastmodified":1582351981,
     "wof:name":"Khomasdal North",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

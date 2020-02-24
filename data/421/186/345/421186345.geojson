@@ -100,6 +100,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009478,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa5fb741d69e5afa95f73da722ffba36",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421186345,
-    "wof:lastmodified":1566647653,
+    "wof:lastmodified":1582351963,
     "wof:name":"Windhoek West",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

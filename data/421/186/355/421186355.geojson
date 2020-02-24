@@ -113,6 +113,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009478,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0da11495feaf90e7ef3e6966470fe59f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421186355,
-    "wof:lastmodified":1566647651,
+    "wof:lastmodified":1582351962,
     "wof:name":"Otavi",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

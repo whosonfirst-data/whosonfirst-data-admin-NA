@@ -122,6 +122,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010125,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2a3bd60a69bdd97a67aeb56efa39252b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421202645,
-    "wof:lastmodified":1566647647,
+    "wof:lastmodified":1582351961,
     "wof:name":"Khorixas",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

@@ -207,6 +207,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009478,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26c0b6a5811fe9016ef27bd6e2df5f2b",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421186343,
-    "wof:lastmodified":1566647654,
+    "wof:lastmodified":1582351964,
     "wof:name":"Opuwo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

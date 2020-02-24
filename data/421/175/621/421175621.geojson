@@ -100,6 +100,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff7cfa961aa4a832f579795c11c9e66a",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421175621,
-    "wof:lastmodified":1566647655,
+    "wof:lastmodified":1582351964,
     "wof:name":"Berseba",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

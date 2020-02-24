@@ -285,6 +285,9 @@
         "wk:page":"Kunene Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a81c463d299b9cb1b33c7b2e98f7d9d2",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647619,
+    "wof:lastmodified":1582351954,
     "wof:name":"Kunene",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009484,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e661bae860d2a1416f7a63ed6244e345",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421186541,
-    "wof:lastmodified":1566647653,
+    "wof:lastmodified":1582351963,
     "wof:name":"Mukwe",
     "wof:parent_id":1108804899,
     "wof:placetype":"county",

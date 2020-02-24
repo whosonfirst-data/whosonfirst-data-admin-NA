@@ -280,6 +280,9 @@
         "wk:page":"Oshikoto Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed5381783b4be2eaf744b50433838d7c",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647619,
+    "wof:lastmodified":1582351954,
     "wof:name":"Oshikoto",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

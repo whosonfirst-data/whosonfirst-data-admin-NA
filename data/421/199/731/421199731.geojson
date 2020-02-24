@@ -103,6 +103,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009999,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c567923e83ebdafa91f6bf6ea9d2ce7",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421199731,
-    "wof:lastmodified":1566647658,
+    "wof:lastmodified":1582351965,
     "wof:name":"Sibinda",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

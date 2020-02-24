@@ -90,6 +90,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d86da625fda2300414c9ca99a74692fb",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421175615,
-    "wof:lastmodified":1566647656,
+    "wof:lastmodified":1582351964,
     "wof:name":"Arandis",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

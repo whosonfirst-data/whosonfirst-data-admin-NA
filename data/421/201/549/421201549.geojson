@@ -155,6 +155,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010076,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9ffc7a7c2648a3cfce1973d31c67ea3",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421201549,
-    "wof:lastmodified":1566647660,
+    "wof:lastmodified":1582351966,
     "wof:name":"Gobabis",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

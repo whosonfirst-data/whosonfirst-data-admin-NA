@@ -106,6 +106,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009664,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a437c62234851024138bf99925043ec4",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421190659,
-    "wof:lastmodified":1566647658,
+    "wof:lastmodified":1582351965,
     "wof:name":"Walvisbay Rural",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

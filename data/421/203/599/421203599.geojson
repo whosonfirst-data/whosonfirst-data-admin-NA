@@ -103,6 +103,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dabdd3e07058ac48589b5f434b55834",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421203599,
-    "wof:lastmodified":1566647646,
+    "wof:lastmodified":1582351961,
     "wof:name":"Katutura East",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

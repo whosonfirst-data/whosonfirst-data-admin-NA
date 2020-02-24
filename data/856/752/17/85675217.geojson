@@ -289,6 +289,9 @@
         "wk:page":"Otjozondjupa Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf1b22a700cdd87f946517dec7b2013c",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647618,
+    "wof:lastmodified":1582351953,
     "wof:name":"Otjozondjupa",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

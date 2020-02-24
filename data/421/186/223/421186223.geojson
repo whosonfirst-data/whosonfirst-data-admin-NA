@@ -103,6 +103,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009474,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b25ee9fa971271a8178034a8c9a90878",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421186223,
-    "wof:lastmodified":1566647653,
+    "wof:lastmodified":1582351963,
     "wof:name":"Mariental Rural",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

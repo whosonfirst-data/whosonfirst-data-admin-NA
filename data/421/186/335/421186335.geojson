@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009477,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdaa4cea9141b0969c3f0cdde75b434d",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421186335,
-    "wof:lastmodified":1566647651,
+    "wof:lastmodified":1582351962,
     "wof:name":"Omuthiyagwipundi",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

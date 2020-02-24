@@ -87,6 +87,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459008847,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6084aa234927971f37737be9459cf8d7",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421170307,
-    "wof:lastmodified":1566647661,
+    "wof:lastmodified":1582351966,
     "wof:name":"Epupa",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

@@ -97,6 +97,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010076,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f632a07abc7a6f299edecb41c808bc05",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421201547,
-    "wof:lastmodified":1566647660,
+    "wof:lastmodified":1582351966,
     "wof:name":"Rundu Urban",
     "wof:parent_id":1108804903,
     "wof:placetype":"county",

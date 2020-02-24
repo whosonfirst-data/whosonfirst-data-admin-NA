@@ -291,6 +291,9 @@
         "wk:page":"Hardap Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e13c15b07b136ad2736df4801f06f7a",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647625,
+    "wof:lastmodified":1582351958,
     "wof:name":"Hardap",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

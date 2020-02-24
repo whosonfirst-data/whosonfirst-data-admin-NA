@@ -243,6 +243,9 @@
         "wk:page":"Omaheke Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"05deba3d7534f783f0960f64cddaa208",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647617,
+    "wof:lastmodified":1582351952,
     "wof:name":"Omaheke",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

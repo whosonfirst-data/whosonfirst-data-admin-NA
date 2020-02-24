@@ -220,6 +220,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010076,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0bbc830f369698c4e6660c622e9a3b08",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":421201551,
-    "wof:lastmodified":1566647660,
+    "wof:lastmodified":1582351966,
     "wof:name":"Okahandja",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

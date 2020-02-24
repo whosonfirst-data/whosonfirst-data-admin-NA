@@ -126,6 +126,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459008960,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5b424bfcd6936f1cb68372c0f173965",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421172943,
-    "wof:lastmodified":1566647650,
+    "wof:lastmodified":1582351962,
     "wof:name":"Ruacana",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

@@ -245,6 +245,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009638,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc2d62d4a3cc497d81a9f5c83bdcd591",
     "wof:hierarchy":[
         {
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":421189849,
-    "wof:lastmodified":1566647649,
+    "wof:lastmodified":1582351961,
     "wof:name":"Keetmanshoop",
     "wof:parent_id":421203277,
     "wof:placetype":"locality",

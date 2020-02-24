@@ -128,6 +128,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c7fcf1429586300d8bca1d53b5f22b6e",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421175613,
-    "wof:lastmodified":1566647656,
+    "wof:lastmodified":1582351964,
     "wof:name":"Outjo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",
