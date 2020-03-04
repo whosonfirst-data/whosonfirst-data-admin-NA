@@ -294,6 +294,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009639,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79127d8a77a5211001f47d93703e6304",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":421189867,
-    "wof:lastmodified":1566647649,
+    "wof:lastmodified":1582351961,
     "wof:name":"Rundu",
     "wof:parent_id":421201547,
     "wof:placetype":"locality",

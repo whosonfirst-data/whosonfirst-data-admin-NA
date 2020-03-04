@@ -206,6 +206,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009569,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df03a4db4d8ebcffbf2d942f4de49869",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":421188547,
-    "wof:lastmodified":1566647650,
+    "wof:lastmodified":1582351961,
     "wof:name":"Oranjemund",
     "wof:parent_id":421190657,
     "wof:placetype":"locality",

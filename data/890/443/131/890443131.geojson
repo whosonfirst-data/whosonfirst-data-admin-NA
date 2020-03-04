@@ -98,6 +98,9 @@
     },
     "wof:country":"NA",
     "wof:created":1469052402,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ed97250b9435699f360eff0104e82ab",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890443131,
-    "wof:lastmodified":1566647665,
+    "wof:lastmodified":1582351981,
     "wof:name":"Walvisbay Urban",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

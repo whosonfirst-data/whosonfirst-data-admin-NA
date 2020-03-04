@@ -288,6 +288,9 @@
         "wk:page":"Omusati Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc85226f6b2dbe0ba54e5ab103c3624d",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647620,
+    "wof:lastmodified":1582351955,
     "wof:name":"Omusati",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

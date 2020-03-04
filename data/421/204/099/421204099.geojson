@@ -109,6 +109,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010173,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d0504bd3c55fd008f358e990dfc649c",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421204099,
-    "wof:lastmodified":1566647646,
+    "wof:lastmodified":1582351960,
     "wof:name":"Sesfontein",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

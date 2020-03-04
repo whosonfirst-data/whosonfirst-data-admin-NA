@@ -106,6 +106,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009474,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ede4344ff4a48eb34e7376d1c989884d",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421186215,
-    "wof:lastmodified":1566647653,
+    "wof:lastmodified":1582351963,
     "wof:name":"Windhoek Rural",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

@@ -105,6 +105,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459008842,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3287e048c887be07a74480a3b431a24",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421170191,
-    "wof:lastmodified":1566647661,
+    "wof:lastmodified":1582351967,
     "wof:name":"Gibeon",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

@@ -149,6 +149,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009472,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f78fba76d700e61976ee8977f1a57652",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421186171,
-    "wof:lastmodified":1566647654,
+    "wof:lastmodified":1582351963,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

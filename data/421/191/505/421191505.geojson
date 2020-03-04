@@ -103,6 +103,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009695,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b64d1616a743e5b161dae59a0fced9d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421191505,
-    "wof:lastmodified":1566647657,
+    "wof:lastmodified":1582351965,
     "wof:name":"Windhoek East",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

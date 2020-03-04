@@ -297,6 +297,9 @@
         "wk:page":"\u01c1Karas Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72417ec9fc93c2af6707c22ef0d9440a",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647624,
+    "wof:lastmodified":1582351957,
     "wof:name":"Karas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

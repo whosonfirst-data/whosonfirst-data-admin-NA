@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010043,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6af45b354008c04fa15d4f512e47a54d",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421200829,
-    "wof:lastmodified":1566647659,
+    "wof:lastmodified":1582351965,
     "wof:name":"Luderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

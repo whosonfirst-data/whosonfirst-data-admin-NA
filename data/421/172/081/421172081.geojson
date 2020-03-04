@@ -512,7 +512,8 @@
     "qs:woe_id":1466719,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "wd:wordcount":3484,
     "wof:belongsto":[
@@ -531,6 +532,10 @@
     },
     "wof:country":"NA",
     "wof:created":1459008919,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"19855f0c8dcea26f5fd3f557dfb119d5",
     "wof:hierarchy":[
         {
@@ -542,7 +547,7 @@
         }
     ],
     "wof:id":421172081,
-    "wof:lastmodified":1561759951,
+    "wof:lastmodified":1582351961,
     "wof:name":"Windhoek",
     "wof:parent_id":421191505,
     "wof:placetype":"locality",

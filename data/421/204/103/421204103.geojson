@@ -106,6 +106,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459010174,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8ff92046aaa6104a6c16b3b549ef3a8",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421204103,
-    "wof:lastmodified":1566647646,
+    "wof:lastmodified":1582351960,
     "wof:name":"Keetmanshoop Rural",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009357,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64687abc51ceac0a179316fe68471ffb",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421183083,
-    "wof:lastmodified":1566647662,
+    "wof:lastmodified":1582351981,
     "wof:name":"Rehoboth East",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

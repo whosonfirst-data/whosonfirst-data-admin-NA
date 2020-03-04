@@ -130,6 +130,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009472,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5b41f2b2fb9c4a13ac233d51aaed1cd",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421186173,
-    "wof:lastmodified":1566647651,
+    "wof:lastmodified":1582351962,
     "wof:name":"Karibib",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

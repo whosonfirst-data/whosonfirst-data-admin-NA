@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"717a4294547d0287abf435c3c448286b",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421175607,
-    "wof:lastmodified":1566647656,
+    "wof:lastmodified":1582351965,
     "wof:name":"Kalahari",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

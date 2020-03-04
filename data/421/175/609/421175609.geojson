@@ -100,6 +100,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b6d4d15b8907eac9d8195ee9ab6a45b3",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421175609,
-    "wof:lastmodified":1566647657,
+    "wof:lastmodified":1582351965,
     "wof:name":"Kongola",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

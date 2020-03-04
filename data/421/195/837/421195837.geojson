@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009860,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"753bd563d4d11a9d29ed71fe520a1f5b",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195837,
-    "wof:lastmodified":1566647644,
+    "wof:lastmodified":1582351960,
     "wof:name":"Rehoboth West",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

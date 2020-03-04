@@ -282,6 +282,9 @@
         "wk:page":"Ohangwena Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0124a226d369aed0e45ee1d9365168de",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647620,
+    "wof:lastmodified":1582351955,
     "wof:name":"Ohangwena",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009357,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"792469743cbc54a28c0aec147dbc3b1e",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421183085,
-    "wof:lastmodified":1566647662,
+    "wof:lastmodified":1582351981,
     "wof:name":"Uukwiyu",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

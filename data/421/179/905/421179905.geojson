@@ -160,6 +160,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009237,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8377beb3c8cf18dad374abf22fca978",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421179905,
-    "wof:lastmodified":1566647663,
+    "wof:lastmodified":1582351981,
     "wof:name":"Tsumeb",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

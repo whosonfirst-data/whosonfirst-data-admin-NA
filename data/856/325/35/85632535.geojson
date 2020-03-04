@@ -948,6 +948,11 @@
     },
     "wof:country":"NA",
     "wof:country_alpha3":"NAM",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"d283cf8b1bc78af9016cbc0c78418abb",
     "wof:hierarchy":[
         {
@@ -964,7 +969,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647621,
+    "wof:lastmodified":1583232495,
     "wof:name":"Namibia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459008702,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d1bbd67fe300f42e892ffb0ab52a8f2",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421166795,
-    "wof:lastmodified":1566647643,
+    "wof:lastmodified":1582351960,
     "wof:name":"Omatako",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

@@ -86,6 +86,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009396,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e8c6a72a7d0e6e52f933f56fda75d2f",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421183951,
-    "wof:lastmodified":1566647662,
+    "wof:lastmodified":1582351981,
     "wof:name":"Guinas",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

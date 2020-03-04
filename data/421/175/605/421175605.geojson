@@ -194,6 +194,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d617fcfa7c2fb8959bf534ac98c80de3",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421175605,
-    "wof:lastmodified":1566647656,
+    "wof:lastmodified":1582351964,
     "wof:name":"Swakopmund",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

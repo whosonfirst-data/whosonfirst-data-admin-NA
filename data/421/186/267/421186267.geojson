@@ -96,6 +96,9 @@
     },
     "wof:country":"NA",
     "wof:created":1459009475,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c713458908cadc98271caa50bdce2601",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421186267,
-    "wof:lastmodified":1566647651,
+    "wof:lastmodified":1582351962,
     "wof:name":"Omaruru",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

@@ -297,6 +297,9 @@
         "wk:page":"Erongo Region"
     },
     "wof:country":"NA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75382b3c51640743c5859145525863b0",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647621,
+    "wof:lastmodified":1582351955,
     "wof:name":"Erongo",
     "wof:parent_id":85632535,
     "wof:placetype":"region",
