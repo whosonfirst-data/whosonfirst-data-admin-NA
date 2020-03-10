@@ -924,9 +924,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Namibia",
-        "digitalenvoy:country_code":[
-            516
-        ],
+        "digitalenvoy:country_code":516,
         "fb:id":"en.namibia",
         "fifa:id":"NAM",
         "fips:code":"WA",
@@ -972,7 +970,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1583529191,
+    "wof:lastmodified":1583797399,
     "wof:name":"Namibia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
