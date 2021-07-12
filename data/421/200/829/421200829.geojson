@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":4.403677,
     "geom:area_square_m":48658761387.742142,
-    "geom:bbox":"14.798722267,-28.3975137775,17.0114500329,-25.0094427459",
+    "geom:bbox":"14.79872226700019,-28.39751377749729,17.0114500329007,-25.00944274592075",
     "geom:latitude":-26.657439,
     "geom:longitude":15.870281,
     "iso:country":"NA",
@@ -36,7 +36,7 @@
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "?Nami?Nus"
+        "Luderitz"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":421200829,
-    "wof:lastmodified":1582351965,
+    "wof:lastmodified":1626125408,
     "wof:name":"Luderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"county",
