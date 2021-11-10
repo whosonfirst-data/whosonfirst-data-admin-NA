@@ -35,20 +35,56 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u0993\u09ae\u09be\u09b0\u09c1\u09b0\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Omaruru"
     ],
     "name:deu_x_preferred":[
         "Omaruru"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03b1\u03c1\u03bf\u03cd\u03c1\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Omaruru"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0645\u0627\u0631\u0648\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Omaruru"
     ],
+    "name:hin_x_preferred":[
+        "\u0913\u092e\u0930\u0941\u0930\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Omaruru"
+    ],
+    "name:ind_x_preferred":[
+        "Omaruru"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30de\u30eb\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub9c8\ub8e8\ub8e8"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043c\u0430\u0440\u0443\u0440\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Omaruru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043c\u0430\u0440\u0443\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0645\u0627\u0631\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Omaruru"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -112,7 +148,7 @@
         }
     ],
     "wof:id":421186267,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1636502202,
     "wof:name":"Omaruru",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

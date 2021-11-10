@@ -25,6 +25,12 @@
     "name:afr_x_preferred":[
         "Mariental"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0646\u062a\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u09a4\u09be\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0435\u043d\u0442\u0430\u043b"
     ],
@@ -40,11 +46,17 @@
     "name:diq_x_preferred":[
         "Mariental"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c1\u03b9\u03ad\u03bd\u03c4\u03b1\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Mariental"
     ],
     "name:fao_x_preferred":[
         "Mariental"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06cc\u0646\u062a\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Mariental"
@@ -52,10 +64,19 @@
     "name:frr_x_preferred":[
         "Mariental"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9\u05d9\u05e0\u05d8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u0940\u0902\u091f\u0932"
+    ],
     "name:hrv_x_preferred":[
         "Mariental"
     ],
     "name:hun_x_preferred":[
+        "Mariental"
+    ],
+    "name:ind_x_preferred":[
         "Mariental"
     ],
     "name:ita_x_preferred":[
@@ -74,6 +95,9 @@
         "Mariental"
     ],
     "name:pol_x_preferred":[
+        "Mariental"
+    ],
+    "name:por_x_preferred":[
         "Mariental"
     ],
     "name:ron_x_preferred":[
@@ -102,6 +126,9 @@
     ],
     "name:urd_x_variant":[
         "\u0645\u0627\u0631\u06cc\u0626\u0646\u062a\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Mariental"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u6797\u5854\u5c14"
@@ -145,7 +172,7 @@
         }
     ],
     "wof:id":1125784725,
-    "wof:lastmodified":1566647667,
+    "wof:lastmodified":1636502206,
     "wof:name":"Mariental",
     "wof:parent_id":1108785107,
     "wof:placetype":"locality",

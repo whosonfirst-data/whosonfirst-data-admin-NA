@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.580020303,-21.9995499483,15.580020303,-21.9995499483",
+    "geom:bbox":"15.58002,-21.99955,15.58002,-21.99955",
     "geom:latitude":-21.99955,
     "geom:longitude":15.58002,
     "gn:country":"NA",
@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0627\u0643\u0648\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09b8\u09be\u0995\u09cb\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0441\u0430\u043a\u043e\u0441"
     ],
@@ -36,14 +39,38 @@
     "name:deu_x_preferred":[
         "Usakos"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c3\u03ac\u03ba\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Usakos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u0627\u06a9\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "Usakos"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05e7\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0938\u093e\u0915\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Usakos"
+    ],
+    "name:ind_x_preferred":[
+        "Usakos"
+    ],
     "name:ita_x_preferred":[
         "Usakos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b5\u30b3\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc0ac\ucf54\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Usakos"
@@ -69,8 +96,17 @@
     "name:szl_x_preferred":[
         "Usakos"
     ],
+    "name:tur_x_preferred":[
+        "Usakos"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0430\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0633\u0627\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Usakos"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u85a9\u79d1\u65af"
@@ -196,7 +232,7 @@
     },
     "wof:country":"NA",
     "wof:created":1499130732,
-    "wof:geomhash":"474636f995ba35cdb93c947371eb5224",
+    "wof:geomhash":"0c22152b8e374861104ebb4d8056a2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -206,7 +242,7 @@
         }
     ],
     "wof:id":1141907485,
-    "wof:lastmodified":1566647668,
+    "wof:lastmodified":1636502207,
     "wof:name":"Usakos",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",
@@ -220,10 +256,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.58002030300963,
-    -21.99954994831381,
-    15.58002030300963,
-    -21.99954994831381
+    15.58002,
+    -21.99955,
+    15.58002,
+    -21.99955
 ],
-  "geometry": {"coordinates":[15.58002030300963,-21.99954994831381],"type":"Point"}
+  "geometry": {"coordinates":[15.58002,-21.99955],"type":"Point"}
 }

@@ -20,6 +20,12 @@
     "name:afr_x_preferred":[
         "Tsumeb"
     ],
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0648\u0645\u064a\u0628"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c1\u09ae\u09c7\u09ac"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u0443\u043c\u0435\u0431"
     ],
@@ -44,6 +50,9 @@
     "name:epo_x_preferred":[
         "Cumebo"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u0645\u0628"
+    ],
     "name:fin_x_preferred":[
         "Tsumeb"
     ],
@@ -52,6 +61,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05d0\u05de\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u092e\u0947\u092c"
+    ],
+    "name:hun_x_preferred":[
+        "Tsumeb"
+    ],
+    "name:ind_x_preferred":[
+        "Tsumeb"
     ],
     "name:ita_x_preferred":[
         "Tsumeb"
@@ -66,6 +84,9 @@
         "Tsumeb"
     ],
     "name:pol_x_preferred":[
+        "Tsumeb"
+    ],
+    "name:por_x_preferred":[
         "Tsumeb"
     ],
     "name:ron_x_preferred":[
@@ -88,6 +109,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0443\u043c\u0435\u0431"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u0648\u0645\u06cc\u0628"
+    ],
+    "name:vie_x_preferred":[
+        "Tsumeb"
     ],
     "name:zho_x_preferred":[
         "\u695a\u6885\u5e03"
@@ -229,7 +256,7 @@
         }
     ],
     "wof:id":421193515,
-    "wof:lastmodified":1566647644,
+    "wof:lastmodified":1636502200,
     "wof:name":"Tsumeb",
     "wof:parent_id":85675243,
     "wof:placetype":"locality",

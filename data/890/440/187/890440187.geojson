@@ -49,6 +49,9 @@
     "name:fao_x_preferred":[
         "Opuwo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Opuwo"
     ],
@@ -61,8 +64,14 @@
     "name:guj_x_preferred":[
         "\u0a93\u0aaa\u0ac1\u0ab5\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e4\u05d5\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u092a\u0941\u0935\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Opuwo"
     ],
     "name:ind_x_preferred":[
         "Opuwo"
@@ -287,7 +296,7 @@
         }
     ],
     "wof:id":890440187,
-    "wof:lastmodified":1582351981,
+    "wof:lastmodified":1636502206,
     "wof:name":"Opuwo",
     "wof:parent_id":421186343,
     "wof:placetype":"locality",
