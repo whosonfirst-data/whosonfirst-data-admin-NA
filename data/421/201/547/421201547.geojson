@@ -47,8 +47,14 @@
     "name:ita_x_preferred":[
         "Rundu Urbano"
     ],
+    "name:nan_x_preferred":[
+        "Rundu To\u0358-chh\u012b So\u00e1n-k\u00ed-khu"
+    ],
     "name:nld_x_preferred":[
         "Rundu Urban Constituency"
+    ],
+    "name:zul_x_preferred":[
+        "Rundu Urban"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421201547,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1690848290,
     "wof:name":"Rundu Urban",
     "wof:parent_id":1108804903,
     "wof:placetype":"county",

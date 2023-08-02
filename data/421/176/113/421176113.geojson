@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0646\u062c\u0648\u064a\u0641\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Ongwediva"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0982\u0997\u09cb\u09df\u09c7\u09a6\u09bf\u09ad\u09be"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0646\u06af \u0648\u062f\u06cc\u0648\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Ongwediva"
     ],
     "name:fra_x_preferred":[
         "Ongwediva"
@@ -80,6 +86,9 @@
     "name:spa_x_preferred":[
         "Ongwediva"
     ],
+    "name:swa_x_preferred":[
+        "Ongwediva"
+    ],
     "name:swe_x_preferred":[
         "Ongwediva"
     ],
@@ -100,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7fc1\u572d\u8fea\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Ongwediva"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -241,7 +253,7 @@
         }
     ],
     "wof:id":421176113,
-    "wof:lastmodified":1636502205,
+    "wof:lastmodified":1690848293,
     "wof:name":"Ongwediva",
     "wof:parent_id":85675227,
     "wof:placetype":"locality",

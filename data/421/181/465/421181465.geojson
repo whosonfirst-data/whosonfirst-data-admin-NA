@@ -41,6 +41,9 @@
     "name:arn_x_preferred":[
         "L\u00fcderitz"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u062f\u0631\u064a\u062a\u0632"
+    ],
     "name:ast_x_preferred":[
         "L\u00fcderitz"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:bcl_x_preferred":[
         "L\u00fcderitz"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u044e\u0434\u044d\u0440\u044b\u0446"
     ],
     "name:bis_x_preferred":[
         "L\u00fcderitz"
@@ -785,7 +791,7 @@
         }
     ],
     "wof:id":421181465,
-    "wof:lastmodified":1566647655,
+    "wof:lastmodified":1690848288,
     "wof:name":"L\u00fcderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

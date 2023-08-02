@@ -89,6 +89,9 @@
     "name:fry_x_preferred":[
         "Erongo"
     ],
+    "name:glg_x_preferred":[
+        "Erongo"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab0\u0acb\u0aa8\u0acd\u0a97\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -134,8 +137,14 @@
     "name:mar_x_preferred":[
         "\u090f\u0930\u094b\u0928\u094d\u0917\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u043e\u043d\u0433\u043e"
+    ],
     "name:msa_x_preferred":[
         "Erongo Region"
+    ],
+    "name:nan_x_preferred":[
+        "Erongo Chiu"
     ],
     "name:nld_x_preferred":[
         "Erongo"
@@ -191,8 +200,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Erongo"
     ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u9f99\u6208\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u9f8d\u6208\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Erongo Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NAM",
@@ -320,7 +335,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1636502198,
+    "wof:lastmodified":1690848276,
     "wof:name":"Erongo",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

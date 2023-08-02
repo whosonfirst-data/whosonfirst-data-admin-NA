@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0648\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Opuwo"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09aa\u0989\u09ad\u09c1"
     ],
@@ -44,6 +50,9 @@
         "\u039f\u03c0\u03bf\u03cd\u03b3\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Opuwo"
+    ],
+    "name:est_x_preferred":[
         "Opuwo"
     ],
     "name:fao_x_preferred":[
@@ -157,8 +166,14 @@
     "name:vie_x_preferred":[
         "Opuwo"
     ],
+    "name:wuu_x_preferred":[
+        "\u5965\u666e\u6c83"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u666e\u6c83"
+    ],
+    "name:zul_x_preferred":[
+        "Opuwo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -296,7 +311,7 @@
         }
     ],
     "wof:id":890440187,
-    "wof:lastmodified":1636502206,
+    "wof:lastmodified":1690848293,
     "wof:name":"Opuwo",
     "wof:parent_id":421186343,
     "wof:placetype":"locality",

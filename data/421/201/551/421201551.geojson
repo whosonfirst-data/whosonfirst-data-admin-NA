@@ -41,6 +41,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0627\u0647\u0627\u0646\u062f\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0643\u0627\u0647\u0627\u0646\u062f\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0995\u09be\u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u099c\u09be"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a95\u0abe\u0aa8\u0acd\u0aa1\u0acd\u0a9c\u0abe"
+    ],
+    "name:hau_x_preferred":[
+        "Okahandja"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e7\u05e0\u05d3\u05d2'\u05d4"
@@ -179,6 +185,9 @@
     "name:zho_x_preferred":[
         "\u5967\u5361\u6f22\u8cc8"
     ],
+    "name:zul_x_preferred":[
+        "Okahandja"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -242,7 +251,7 @@
         }
     ],
     "wof:id":421201551,
-    "wof:lastmodified":1636502204,
+    "wof:lastmodified":1690848290,
     "wof:name":"Okahandja",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

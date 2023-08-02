@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0648\u0645\u064a\u0628"
     ],
+    "name:ast_x_preferred":[
+        "Tsumeb"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u0443\u043c\u0435\u0431"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09ae\u09c7\u09ac"
     ],
@@ -83,6 +89,9 @@
     "name:nld_x_preferred":[
         "Tsumeb"
     ],
+    "name:nob_x_preferred":[
+        "Tsumeb"
+    ],
     "name:pol_x_preferred":[
         "Tsumeb"
     ],
@@ -99,6 +108,9 @@
         "Tsumeb"
     ],
     "name:spa_x_preferred":[
+        "Tsumeb"
+    ],
+    "name:swa_x_preferred":[
         "Tsumeb"
     ],
     "name:swe_x_preferred":[
@@ -118,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u695a\u6885\u5e03"
+    ],
+    "name:zul_x_preferred":[
+        "Tsumeb"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -256,7 +271,7 @@
         }
     ],
     "wof:id":421193515,
-    "wof:lastmodified":1636502200,
+    "wof:lastmodified":1690848280,
     "wof:name":"Tsumeb",
     "wof:parent_id":85675243,
     "wof:placetype":"locality",

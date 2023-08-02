@@ -29,6 +29,9 @@
     "name:ron_x_preferred":[
         "Helmeringhausen"
     ],
+    "name:zul_x_preferred":[
+        "Helmeringhausen"
+    ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3356838,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421190931,
-    "wof:lastmodified":1566647657,
+    "wof:lastmodified":1690848289,
     "wof:name":"Helmeringhausen",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

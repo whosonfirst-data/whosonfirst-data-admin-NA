@@ -86,8 +86,14 @@
     "name:fra_x_preferred":[
         "Karas"
     ],
+    "name:fra_x_variant":[
+        "\u01c1Karas"
+    ],
     "name:frr_x_preferred":[
         "\u01c1Karas"
+    ],
+    "name:glg_x_preferred":[
+        "Karas"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0abe\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,6 +109,9 @@
     ],
     "name:hun_x_preferred":[
         "Karas"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Wilayah Karas"
@@ -137,6 +146,9 @@
     "name:msa_x_preferred":[
         "Karas Region"
     ],
+    "name:nan_x_preferred":[
+        "\u01c1Karas Chiu"
+    ],
     "name:nld_x_preferred":[
         "Karas"
     ],
@@ -148,6 +160,9 @@
     ],
     "name:pol_x_preferred":[
         "Karas"
+    ],
+    "name:pol_x_variant":[
+        "\u01c1Karas"
     ],
     "name:por_x_preferred":[
         "Karas"
@@ -194,8 +209,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Karas"
     ],
+    "name:wuu_x_preferred":[
+        "\u5361\u62c9\u65af\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u65af\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "\u01c1Karas Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NAM",
@@ -323,7 +344,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1636502199,
+    "wof:lastmodified":1690848277,
     "wof:name":"Karas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

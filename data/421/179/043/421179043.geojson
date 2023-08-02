@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Arandis"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0434\u044b\u0441"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0430\u043d\u0434\u0438\u0441"
     ],
@@ -32,8 +35,14 @@
     "name:eng_x_preferred":[
         "Arandis"
     ],
+    "name:fin_x_preferred":[
+        "Arandis"
+    ],
     "name:fra_x_preferred":[
         "Arandis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05d3\u05d9\u05e1"
     ],
     "name:ita_x_preferred":[
         "Arandis"
@@ -53,8 +62,14 @@
     "name:spa_x_preferred":[
         "Arandis"
     ],
+    "name:swa_x_preferred":[
+        "Arandis"
+    ],
     "name:zho_x_preferred":[
         "\u695a\u6885\u5e03"
+    ],
+    "name:zul_x_preferred":[
+        "Arandis"
     ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":421179043,
-    "wof:lastmodified":1566647663,
+    "wof:lastmodified":1690848291,
     "wof:name":"Arandis",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

@@ -50,11 +50,17 @@
     "name:ita_x_preferred":[
         "Windhoek Est"
     ],
+    "name:nan_x_preferred":[
+        "Tang Windhoek So\u00e1n-k\u00ed-khu"
+    ],
     "name:nld_x_preferred":[
         "Windhoek East Constituency"
     ],
     "name:spa_x_preferred":[
         "Windhoek Este"
+    ],
+    "name:zul_x_preferred":[
+        "Windhoek East"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421191505,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1690848289,
     "wof:name":"Windhoek East",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

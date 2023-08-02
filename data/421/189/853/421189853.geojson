@@ -20,8 +20,20 @@
     "name:afr_x_preferred":[
         "Kolmanskop"
     ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0645\u0627\u0646\u0633\u0643\u0648\u0628"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0645\u0627\u0646\u0633\u0643\u0648\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Kolmanskop"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u043c\u0430\u043d\u0441\u043a\u043e\u043f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09b2\u09ae\u09be\u09a8\u09b8\u09cd\u0995\u09aa"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043c\u0430\u043d\u0441\u043a\u043e\u043f"
@@ -31,6 +43,9 @@
     ],
     "name:ces_x_preferred":[
         "kolmanskuppe"
+    ],
+    "name:ces_x_variant":[
+        "Kolmanskop"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06c6\u06b5\u0645\u0627\u0646\u0633\u06a9\u06c6\u067e"
@@ -48,6 +63,9 @@
         "Kolmanskop"
     ],
     "name:fra_x_preferred":[
+        "Kolmanskop"
+    ],
+    "name:glg_x_preferred":[
         "Kolmanskop"
     ],
     "name:heb_x_preferred":[
@@ -85,6 +103,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043c\u0430\u043d\u0441\u043a\u043e\u043f"
+    ],
+    "name:slv_x_preferred":[
+        "Kolmanskop"
     ],
     "name:spa_x_preferred":[
         "Kolmanskop"
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":421189853,
-    "wof:lastmodified":1566647649,
+    "wof:lastmodified":1690848285,
     "wof:name":"Kolmanskop",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

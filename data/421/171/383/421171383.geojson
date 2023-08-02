@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Khomasdal"
+    ],
     "name:eng_x_preferred":[
         "Khomasdal"
     ],
@@ -47,8 +50,14 @@
     "name:ita_x_preferred":[
         "Khomasdal Nord"
     ],
+    "name:nan_x_preferred":[
+        "Pak Khomasdal So\u00e1n-k\u00ed-khu"
+    ],
     "name:spa_x_preferred":[
         "Khomasdal Norte"
+    ],
+    "name:zul_x_preferred":[
+        "Khomasdal North"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":421171383,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1690848293,
     "wof:name":"Khomasdal North",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Kamanjab"
     ],
+    "name:ind_x_preferred":[
+        "Kamanjab"
+    ],
     "name:ita_x_preferred":[
         "Kamanjab"
     ],
@@ -51,6 +54,9 @@
         "\u041a\u0430\u043c\u0430\u043d\u044c\u044f\u0431"
     ],
     "name:spa_x_preferred":[
+        "Kamanjab"
+    ],
+    "name:zul_x_preferred":[
         "Kamanjab"
     ],
     "qs:gn_country":"NA",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421196003,
-    "wof:lastmodified":1566647657,
+    "wof:lastmodified":1690848288,
     "wof:name":"Kamanjab",
     "wof:parent_id":85675209,
     "wof:placetype":"locality",
