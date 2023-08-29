@@ -87,6 +87,9 @@
     "name:spa_x_preferred":[
         "Bethanie"
     ],
+    "name:swa_x_preferred":[
+        "Bethanien"
+    ],
     "name:swe_x_preferred":[
         "Bethanie"
     ],
@@ -110,6 +113,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u8c9d\u5854\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Bethanie"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":1141907477,
-    "wof:lastmodified":1636502206,
+    "wof:lastmodified":1690848295,
     "wof:name":"Bethanie",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

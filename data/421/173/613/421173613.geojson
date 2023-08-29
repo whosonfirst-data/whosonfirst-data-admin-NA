@@ -50,7 +50,13 @@
     "name:spa_x_preferred":[
         "Maltah\u00f6he"
     ],
+    "name:swa_x_preferred":[
+        "Maltah\u00f6he"
+    ],
     "name:swe_x_preferred":[
+        "Maltah\u00f6he"
+    ],
+    "name:zul_x_preferred":[
         "Maltah\u00f6he"
     ],
     "ne:ADM0CAP":0.0,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421173613,
-    "wof:lastmodified":1566647648,
+    "wof:lastmodified":1690848283,
     "wof:name":"Maltahohe",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

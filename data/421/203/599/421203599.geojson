@@ -50,11 +50,17 @@
     "name:ita_x_preferred":[
         "Katutura Est"
     ],
+    "name:nan_x_preferred":[
+        "Tang Katutura So\u00e1n-k\u00ed-khu"
+    ],
     "name:nld_x_preferred":[
         "Katutura East Constituency"
     ],
     "name:spa_x_preferred":[
         "Katutura Este"
+    ],
+    "name:zul_x_preferred":[
+        "Katutura East"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421203599,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1690848282,
     "wof:name":"Katutura East",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Aranos"
     ],
+    "name:fin_x_preferred":[
+        "Aranos"
+    ],
     "name:ita_x_preferred":[
         "Aranos"
     ],
@@ -44,6 +47,12 @@
         "Aranos"
     ],
     "name:spa_x_preferred":[
+        "Aranos"
+    ],
+    "name:swa_x_preferred":[
+        "Aranos"
+    ],
+    "name:zul_x_preferred":[
         "Aranos"
     ],
     "qs:name":"Aranos",
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890452813,
-    "wof:lastmodified":1566647665,
+    "wof:lastmodified":1690848294,
     "wof:name":"Aranos",
     "wof:parent_id":85675199,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Otjimbingwe"
     ],
+    "name:fin_x_preferred":[
+        "Otjimbingwe"
+    ],
     "name:fra_x_preferred":[
         "Otjimbingwe"
     ],
@@ -38,8 +41,23 @@
     "name:rus_x_preferred":[
         "\u041e\u0447\u0438\u043c\u0431\u0438\u043d\u0433\u0432\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:swa_x_preferred":[
+        "Otjimbingwe"
+    ],
+    "name:swe_x_preferred":[
+        "Otjimbingwe"
+    ],
     "name:und_x_variant":[
         "Otjimbingue"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u94a6\u5bbe\u572d"
+    ],
+    "name:zul_x_preferred":[
+        "Otjimbingwe"
     ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":421179041,
-    "wof:lastmodified":1566647663,
+    "wof:lastmodified":1690848291,
     "wof:name":"Otjimbingwe",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

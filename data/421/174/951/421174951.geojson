@@ -44,6 +44,9 @@
     "name:rus_x_preferred":[
         "\u0417\u0435\u0445\u0430\u0439\u043c"
     ],
+    "name:zul_x_preferred":[
+        "Seeheim"
+    ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3353191,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421174951,
-    "wof:lastmodified":1566647648,
+    "wof:lastmodified":1690848283,
     "wof:name":"Seeheim",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

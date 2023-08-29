@@ -125,11 +125,20 @@
     "name:mar_x_preferred":[
         "\u091c\u093e\u0902\u092c\u0947\u091d\u093f \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0435\u0437\u0438"
+    ],
     "name:msa_x_preferred":[
         "Caprivi"
     ],
+    "name:nan_x_preferred":[
+        "Zambezi Chiu"
+    ],
     "name:nld_x_preferred":[
         "Caprivi"
+    ],
+    "name:nld_x_variant":[
+        "Zambezi"
     ],
     "name:nob_x_preferred":[
         "Caprivi"
@@ -188,8 +197,14 @@
     "name:vie_x_preferred":[
         "Zambezi"
     ],
+    "name:wuu_x_preferred":[
+        "\u8d5e\u6bd4\u897f\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u666e\u91cc\u7ef4\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Zambezi Region"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -237,7 +252,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1636502199,
+    "wof:lastmodified":1690848278,
     "wof:name":"Zambezi",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

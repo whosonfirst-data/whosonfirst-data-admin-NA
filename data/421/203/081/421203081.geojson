@@ -50,6 +50,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0441"
     ],
+    "name:zul_x_preferred":[
+        "Aus"
+    ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3358522,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421203081,
-    "wof:lastmodified":1566647647,
+    "wof:lastmodified":1690848283,
     "wof:name":"Aus",
     "wof:parent_id":85675195,
     "wof:placetype":"locality",

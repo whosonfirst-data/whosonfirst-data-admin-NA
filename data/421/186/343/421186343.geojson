@@ -41,6 +41,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0648\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Opuwo"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09aa\u0989\u09ad\u09c1"
     ],
@@ -60,6 +66,9 @@
         "\u039f\u03c0\u03bf\u03cd\u03b3\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Opuwo"
+    ],
+    "name:est_x_preferred":[
         "Opuwo"
     ],
     "name:fao_x_preferred":[
@@ -173,8 +182,14 @@
     "name:vie_x_preferred":[
         "Opuwo"
     ],
+    "name:wuu_x_preferred":[
+        "\u5965\u666e\u6c83"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u666e\u6c83"
+    ],
+    "name:zul_x_preferred":[
+        "Opuwo"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -229,7 +244,7 @@
         }
     ],
     "wof:id":421186343,
-    "wof:lastmodified":1636502203,
+    "wof:lastmodified":1690848287,
     "wof:name":"Opuwo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

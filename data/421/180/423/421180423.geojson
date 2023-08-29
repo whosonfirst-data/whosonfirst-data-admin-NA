@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Okakarara"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043a\u0430\u043a\u0430\u0440\u0430\u0440\u0430"
     ],
@@ -27,6 +30,9 @@
         "Okakarara"
     ],
     "name:eng_x_preferred":[
+        "Okakarara"
+    ],
+    "name:fin_x_preferred":[
         "Okakarara"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +53,14 @@
     "name:spa_x_preferred":[
         "Okakarara"
     ],
+    "name:swa_x_preferred":[
+        "Okakarara"
+    ],
     "name:zho_x_preferred":[
         "\u5967\u5361\u5361\u62c9\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Okakarara"
     ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421180423,
-    "wof:lastmodified":1566647648,
+    "wof:lastmodified":1690848283,
     "wof:name":"Okakarara",
     "wof:parent_id":85675217,
     "wof:placetype":"locality",

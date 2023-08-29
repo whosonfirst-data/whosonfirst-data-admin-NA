@@ -20,10 +20,16 @@
     "name:afr_x_preferred":[
         "Hentiesbaai"
     ],
+    "name:ast_x_preferred":[
+        "Henties Bay"
+    ],
     "name:deu_x_preferred":[
         "Henties Bay"
     ],
     "name:eng_x_preferred":[
+        "Henties Bay"
+    ],
+    "name:fin_x_preferred":[
         "Henties Bay"
     ],
     "name:fra_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:nld_x_preferred":[
         "Henties Bay"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06c1\u06cc\u0646\u0679\u06cc\u0632 \u0628\u06d2"
     ],
     "name:pol_x_preferred":[
         "Henties Bay"
@@ -47,8 +56,17 @@
     "name:spa_x_preferred":[
         "Henties Bay"
     ],
+    "name:swa_x_preferred":[
+        "Hentiesbaai"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06cc\u0646\u0679\u06cc\u0632 \u0628\u06d2"
+    ],
     "name:zho_x_preferred":[
         "\u4ea8\u8482\u65af\u7063"
+    ],
+    "name:zul_x_preferred":[
+        "Henties Bay"
     ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":421185747,
-    "wof:lastmodified":1566647665,
+    "wof:lastmodified":1690848293,
     "wof:name":"Henties Bay",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

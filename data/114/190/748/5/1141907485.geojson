@@ -27,6 +27,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0627\u0643\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0633\u0627\u0643\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Usakos"
+    ],
     "name:ben_x_preferred":[
         "\u0989\u09b8\u09be\u0995\u09cb\u09b8"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u0627\u06a9\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Usakos"
     ],
     "name:fra_x_preferred":[
         "Usakos"
@@ -90,6 +99,9 @@
     "name:spa_x_preferred":[
         "Usakos"
     ],
+    "name:swa_x_preferred":[
+        "Usakos"
+    ],
     "name:swe_x_preferred":[
         "Usakos"
     ],
@@ -110,6 +122,9 @@
     ],
     "name:zho_x_preferred":[
         "\u70cf\u85a9\u79d1\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Usakos"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Namibia",
@@ -242,7 +257,7 @@
         }
     ],
     "wof:id":1141907485,
-    "wof:lastmodified":1636502207,
+    "wof:lastmodified":1690848296,
     "wof:name":"Usakos",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",

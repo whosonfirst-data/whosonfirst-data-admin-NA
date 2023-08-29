@@ -47,6 +47,12 @@
     "name:und_x_variant":[
         "Groot Uis"
     ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u4f0a\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Uis"
+    ],
     "qs:gn_country":"NA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3352523,
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421196345,
-    "wof:lastmodified":1566647657,
+    "wof:lastmodified":1690848289,
     "wof:name":"Uis",
     "wof:parent_id":85675213,
     "wof:placetype":"locality",
