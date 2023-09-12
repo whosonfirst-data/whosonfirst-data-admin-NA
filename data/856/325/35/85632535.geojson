@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":72.255333,
-    "geom:area_square_m":826263721032.19519,
+    "geom:area_square_m":826263721032.203979,
     "geom:bbox":"11.734472,-28.970639,25.261752,-16.963485",
     "geom:latitude":-22.139622,
     "geom:longitude":17.222159,
@@ -13,6 +13,9 @@
     "iso:country":"NA",
     "itu:country_code":[
         "264"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NA"
@@ -1101,7 +1104,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"264",
     "statoids:ds":"NAM",
     "statoids:fifa":"NAM",
@@ -1160,7 +1164,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"1ebe730d9052dcc1ebc2df685e159e56",
+    "wof:geomhash":"3b3b1aeb3d60c76b439b05e5b41e0a01",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1176,12 +1180,12 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848276,
+    "wof:lastmodified":1694492094,
     "wof:name":"Namibia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":2303315,
-    "wof:population_rank":12,
+    "wof:population":2494530,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-na",
     "wof:shortcode":"NA",
     "wof:superseded_by":[],
