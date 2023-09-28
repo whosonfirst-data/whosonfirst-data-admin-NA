@@ -1143,6 +1143,7 @@
         "hasc:id":"NA",
         "icao:code":"V5",
         "ioc:id":"NAM",
+        "iso:code":"NA",
         "itu:id":"NMB",
         "loc:id":"n79039884",
         "m49:code":"516",
@@ -1157,6 +1158,7 @@
         "wk:page":"Namibia",
         "wmo:id":"NM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:country_alpha3":"NAM",
     "wof:geom_alt":[
@@ -1180,7 +1182,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1694639547,
+    "wof:lastmodified":1695881205,
     "wof:name":"Namibia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
