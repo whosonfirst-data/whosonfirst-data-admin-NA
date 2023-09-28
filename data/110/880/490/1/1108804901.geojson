@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.232346,
-    "geom:area_square_m":14503645133.135628,
+    "geom:area_square_m":14503643862.465202,
     "geom:bbox":"22.495056,-18.502285,25.261752,-17.469636",
     "geom:latitude":-17.861569,
     "geom:longitude":23.846684,
@@ -230,12 +230,14 @@
     "wof:concordances":{
         "fips:code":"WA28",
         "hasc:id":"NA.CA",
+        "iso:code":"NA-CA",
         "iso:id":"NA-CA",
         "wd:id":"Q473190"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:created":1485471367,
-    "wof:geomhash":"77d2f7e83b3c17a3433e50d82261110e",
+    "wof:geomhash":"ec48cd5158eacc27882d02ed9768c5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -252,7 +254,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848278,
+    "wof:lastmodified":1695884923,
     "wof:name":"Zambezi",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

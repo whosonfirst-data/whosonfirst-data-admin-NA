@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.055067,
-    "geom:area_square_m":104996843822.548889,
+    "geom:area_square_m":104996842675.9814,
     "geom:bbox":"15.575227,-22.378546,20.998761,-18.748265",
     "geom:latitude":-20.308292,
     "geom:longitude":18.174171,
@@ -303,17 +303,19 @@
         "gn:id":3371209,
         "gp:id":20069835,
         "hasc:id":"NA.OD",
+        "iso:code":"NA-OD",
         "iso:id":"NA-OD",
         "qs_pg:id":892647,
         "unlc:id":"NA-OD",
         "wd:id":"Q876506",
         "wk:page":"Otjozondjupa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70e3b3af8fc5fe0f9944e12dfd7a03ce",
+    "wof:geomhash":"1b340508e96b70ab443a959d35d580f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848274,
+    "wof:lastmodified":1695884922,
     "wof:name":"Otjozondjupa",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

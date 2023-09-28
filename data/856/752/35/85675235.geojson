@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.406657,
-    "geom:area_square_m":84969987657.086411,
+    "geom:area_square_m":84969988537.991623,
     "geom:bbox":"17.957242,-23.870628,20.998754,-20.240375",
     "geom:latitude":-21.890057,
     "geom:longitude":19.465429,
@@ -272,17 +272,19 @@
         "gn:id":3371205,
         "gp:id":20069836,
         "hasc:id":"NA.OH",
+        "iso:code":"NA-OH",
         "iso:id":"NA-OH",
         "qs_pg:id":1084968,
         "unlc:id":"NA-OH",
         "wd:id":"Q838775",
         "wk:page":"Omaheke Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7befeb23e7d26e93ae5394c75118da0",
+    "wof:geomhash":"8fcb187baf5edfeba990130939b64f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -299,7 +301,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848273,
+    "wof:lastmodified":1695884922,
     "wof:name":"Omaheke",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.665682,
-    "geom:area_square_m":161595284072.398834,
+    "geom:area_square_m":161595282488.597626,
     "geom:bbox":"14.798722,-28.970639,19.999345,-25.009443",
     "geom:latitude":-26.973659,
     "geom:longitude":17.615317,
@@ -317,17 +317,19 @@
         "gn:id":3371201,
         "gp:id":20069838,
         "hasc:id":"NA.KA",
+        "iso:code":"NA-KA",
         "iso:id":"NA-KA",
         "qs_pg:id":336933,
         "unlc:id":"NA-KA",
         "wd:id":"Q573467",
         "wk:page":"\u01c1Karas Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be45920411dac364d976f8bfa9b0c96b",
+    "wof:geomhash":"ad0a873bf21318314a87b97b62f09773",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -344,7 +346,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848277,
+    "wof:lastmodified":1695884923,
     "wof:name":"Karas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

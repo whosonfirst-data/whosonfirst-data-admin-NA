@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.307767,
-    "geom:area_square_m":38763875619.994148,
+    "geom:area_square_m":38763875644.345276,
     "geom:bbox":"15.841179,-19.532283,18.199862,-17.692886",
     "geom:latitude":-18.598763,
     "geom:longitude":17.004817,
@@ -293,6 +293,7 @@
         "gn:id":3371208,
         "gp:id":20069841,
         "hasc:id":"NA.OT",
+        "iso:code":"NA-OT",
         "iso:id":"NA-OT",
         "loc:id":"n95911332",
         "qs_pg:id":895820,
@@ -300,11 +301,12 @@
         "wd:id":"Q876512",
         "wk:page":"Oshikoto Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3f4bd7ce14737a7e3456db7ce898aa2",
+    "wof:geomhash":"d2a2c73d189eb2ab72a8b583f4fdbbf8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848274,
+    "wof:lastmodified":1695884922,
     "wof:name":"Oshikoto",
     "wof:parent_id":85632535,
     "wof:placetype":"region",
