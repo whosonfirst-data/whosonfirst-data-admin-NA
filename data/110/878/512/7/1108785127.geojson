@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020246,
-    "geom:area_square_m":238430762.413735,
+    "geom:area_square_m":238430726.782948,
     "geom:bbox":"15.807338,-17.86089,16.000902,-17.68129",
     "geom:latitude":-17.752445,
     "geom:longitude":15.931017,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835188,
-    "wof:geomhash":"d6965925fed50f6007a50b33562144ac",
+    "wof:geomhash":"ef8a5d8429ea0eb85e2e32948d3571c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785127,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886079,
     "wof:name":"Okaku",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

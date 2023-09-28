@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
-    "geom:area_square_m":20481688.169615,
+    "geom:area_square_m":20481672.955971,
     "geom:bbox":"16.985863,-22.537784,17.043903,-22.47826",
     "geom:latitude":-22.514785,
     "geom:longitude":17.01085,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KH.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835235,
-    "wof:geomhash":"f6735956a8598d4c7d4e81ced2cd9b42",
+    "wof:geomhash":"1c9700baf67867f3104044c9797ecf23",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108785207,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1695886084,
     "wof:name":"Wanaheda",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025339,
-    "geom:area_square_m":287760012.509347,
+    "geom:area_square_m":287760100.864198,
     "geom:bbox":"17.072392,-23.443568,17.216344,-23.167949",
     "geom:latitude":-23.304579,
     "geom:longitude":17.141795,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.HA.RE",
         "qs_pg:id":961486
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009357,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e676f58848ad5bd240bee6d0735cd0d0",
+    "wof:geomhash":"44879eaa75a03d2ea1a52b10a3318cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421183083,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886081,
     "wof:name":"Rehoboth East",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

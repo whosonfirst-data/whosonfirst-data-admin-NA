@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.557567,
-    "geom:area_square_m":6441812357.511428,
+    "geom:area_square_m":6441812455.242421,
     "geom:bbox":"18.522232,-21.379571,19.292173,-20.316224",
     "geom:latitude":-20.875021,
     "geom:longitude":18.982258,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OH.OJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835216,
-    "wof:geomhash":"843537716797dc342fcfec4f6dc5ec2f",
+    "wof:geomhash":"6fa2b292005def379643b77c849e7c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108785181,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Otjinene",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

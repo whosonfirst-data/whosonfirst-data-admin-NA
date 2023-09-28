@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017917,
-    "geom:area_square_m":210960743.043417,
+    "geom:area_square_m":210960714.689039,
     "geom:bbox":"15.734215,-17.867907,15.956503,-17.681452",
     "geom:latitude":-17.782674,
     "geom:longitude":15.82929,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835206,
-    "wof:geomhash":"e5e82f16acfb9d74dcbcd77baa2a67a9",
+    "wof:geomhash":"e49b563e7e551f704da143af278a899c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108785163,
-    "wof:lastmodified":1636502200,
+    "wof:lastmodified":1695886049,
     "wof:name":"Ongwediva",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

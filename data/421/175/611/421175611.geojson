@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.547786,
-    "geom:area_square_m":17821831452.817493,
+    "geom:area_square_m":17821831487.971073,
     "geom:bbox":"13.94035,-22.227092,15.708679,-20.490081",
     "geom:latitude":-21.375046,
     "geom:longitude":14.93772,
@@ -99,12 +99,13 @@
         "hasc:id":"NA.ER.DA",
         "qs_pg:id":383398
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"769f9db49dab74b89bc6fe39089501f9",
+    "wof:geomhash":"114cccc8c61004da89fe1d5aef3559f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":421175611,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1695886072,
     "wof:name":"Daures",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001718,
-    "geom:area_square_m":20217730.761281,
+    "geom:area_square_m":20217764.456016,
     "geom:bbox":"19.727783,-17.924809,19.799576,-17.875941",
     "geom:latitude":-17.906928,
     "geom:longitude":19.770353,
@@ -104,12 +104,13 @@
         "qs_pg:id":212588,
         "wd:id":"Q3942709"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459010076,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b25363bfb1b1ea61e3d0a90de85b910f",
+    "wof:geomhash":"cae81b0643dfd0f13f376d72769eb7f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":421201547,
-    "wof:lastmodified":1690848290,
+    "wof:lastmodified":1695886083,
     "wof:name":"Rundu Urban",
     "wof:parent_id":1108804903,
     "wof:placetype":"county",

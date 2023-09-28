@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002272,
-    "geom:area_square_m":25871462.879138,
+    "geom:area_square_m":25871337.030649,
     "geom:bbox":"14.477861,-22.984314,14.546215,-22.917004",
     "geom:latitude":-22.953532,
     "geom:longitude":14.513128,
@@ -105,12 +105,13 @@
         "wd:id":"Q4018062",
         "wk:page":"Walvis Bay Urban"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1469052402,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b812e903f0f6ab522672f1c479896b6f",
+    "wof:geomhash":"10cf85fff03e86c1f12a806db433d802",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890443131,
-    "wof:lastmodified":1690848294,
+    "wof:lastmodified":1695886801,
     "wof:name":"Walvisbay Urban",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

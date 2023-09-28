@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.117465,
-    "geom:area_square_m":12999033052.356361,
+    "geom:area_square_m":12999033451.611631,
     "geom:bbox":"16.699359,-20.392319,18.163501,-19.140426",
     "geom:latitude":-19.819559,
     "geom:longitude":17.363348,
@@ -153,12 +153,13 @@
         "hasc:id":"NA.OD.OV",
         "qs_pg:id":1090172
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19d8c9c95d5674937db1019620b8e26b",
+    "wof:geomhash":"d03cecae994cac5dfbb5f5df1fa65bfa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421186355,
-    "wof:lastmodified":1636502202,
+    "wof:lastmodified":1695886049,
     "wof:name":"Otavi",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.733618,
-    "geom:area_square_m":8450594551.782156,
+    "geom:area_square_m":8450594729.376764,
     "geom:bbox":"15.417669,-21.763038,16.553924,-20.672798",
     "geom:latitude":-21.317598,
     "geom:longitude":15.95859,
@@ -133,12 +133,13 @@
         "hasc:id":"NA.ER.OM",
         "qs_pg:id":1090167
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009475,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c136afdf3a5ba2448c1e64ea10e848fb",
+    "wof:geomhash":"0ada31de674ef2ade8c98f7aef2a0ff2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421186267,
-    "wof:lastmodified":1636502202,
+    "wof:lastmodified":1695886049,
     "wof:name":"Omaruru",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

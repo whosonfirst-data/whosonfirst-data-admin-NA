@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322462,
-    "geom:area_square_m":3790198678.397327,
+    "geom:area_square_m":3790197259.713969,
     "geom:bbox":"23.295031,-18.502285,24.095266,-17.763823",
     "geom:latitude":-18.090126,
     "geom:longitude":23.668876,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.CA.LY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835176,
-    "wof:geomhash":"94da9dea5913feae62e0afd073447cec",
+    "wof:geomhash":"2aeb6d309e7b42ae31ecbb9a2a4f406f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785103,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1695886078,
     "wof:name":"Linyandi",
     "wof:parent_id":85675247,
     "wof:placetype":"county",

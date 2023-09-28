@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.357939,
-    "geom:area_square_m":4196556918.093958,
+    "geom:area_square_m":4196556951.286581,
     "geom:bbox":"15.111334,-19.208395,15.597852,-17.843254",
     "geom:latitude":-18.525954,
     "geom:longitude":15.359196,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OS.OT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835214,
-    "wof:geomhash":"9875b14d94931bb3872362f119cc38ea",
+    "wof:geomhash":"4c9e1c54b04a707a5dc4483cdc3964d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785179,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Otamanzi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

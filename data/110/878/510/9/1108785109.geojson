@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.79603,
-    "geom:area_square_m":9327240737.924726,
+    "geom:area_square_m":9327241387.83456,
     "geom:bbox":"19.469117,-19.184094,20.420311,-17.861548",
     "geom:latitude":-18.627647,
     "geom:longitude":20.089058,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KE.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835179,
-    "wof:geomhash":"02a70f90b15a32305ff02659382b037c",
+    "wof:geomhash":"4b95ad7448e1a5a6997e1d2b6fd1b479",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108785109,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886078,
     "wof:name":"Mashare",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

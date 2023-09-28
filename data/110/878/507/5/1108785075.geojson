@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027844,
-    "geom:area_square_m":328136971.661966,
+    "geom:area_square_m":328136896.226667,
     "geom:bbox":"15.659958,-17.687314,15.954391,-17.557541",
     "geom:latitude":-17.625806,
     "geom:longitude":15.820994,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.ED"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835150,
-    "wof:geomhash":"07108960f46f82861b419e00bbe421ee",
+    "wof:geomhash":"8140488c4905e2060f8d6f563e3dc60e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785075,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886075,
     "wof:name":"Endola",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

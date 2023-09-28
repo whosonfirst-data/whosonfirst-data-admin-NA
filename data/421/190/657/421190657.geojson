@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392809,
-    "geom:area_square_m":4286157693.115278,
+    "geom:area_square_m":4286158200.173295,
     "geom:bbox":"16.177916,-28.63213,17.452433,-27.549925",
     "geom:latitude":-28.060517,
     "geom:longitude":16.864521,
@@ -162,12 +162,13 @@
         "hasc:id":"NA.KA.OR",
         "qs_pg:id":1119977
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009664,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"daa2317c1a916fc69142db57698aa0d2",
+    "wof:geomhash":"4e515a8974a5b8a7809e3302ae258beb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421190657,
-    "wof:lastmodified":1636502204,
+    "wof:lastmodified":1695886051,
     "wof:name":"Oranjemund",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

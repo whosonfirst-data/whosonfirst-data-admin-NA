@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094876,
-    "geom:area_square_m":1117809722.11903,
+    "geom:area_square_m":1117809722.118943,
     "geom:bbox":"16.1516845858,-17.9189968244,16.5802336347,-17.4466805853",
     "geom:latitude":-17.670626,
     "geom:longitude":16.352648,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.EH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835148,
-    "wof:geomhash":"288e72a3050bdac5c67c926bb829e505",
+    "wof:geomhash":"83605746d4a15589ce58b9da82cb33a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108785067,
-    "wof:lastmodified":1566647636,
+    "wof:lastmodified":1695886416,
     "wof:name":"Eenhana",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

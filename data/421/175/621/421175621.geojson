@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.873439,
-    "geom:area_square_m":31822525614.62524,
+    "geom:area_square_m":31822524548.480381,
     "geom:bbox":"16.403416,-27.985395,18.680711,-25.436331",
     "geom:latitude":-26.403339,
     "geom:longitude":17.43135,
@@ -101,12 +101,13 @@
         "qs_pg:id":383402,
         "wd:id":"Q2713629"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b18365e913947714af7552bd14501579",
+    "wof:geomhash":"cbdcdf2198a454733aae07e4555a5191",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421175621,
-    "wof:lastmodified":1690848288,
+    "wof:lastmodified":1695886800,
     "wof:name":"Berseba",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

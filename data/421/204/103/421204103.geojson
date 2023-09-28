@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.431695,
-    "geom:area_square_m":37943293212.630356,
+    "geom:area_square_m":37943294187.890656,
     "geom:bbox":"17.596937,-27.661383,19.999345,-25.482986",
     "geom:latitude":-26.591841,
     "geom:longitude":18.963024,
@@ -116,12 +116,13 @@
         "qs_pg:id":238043,
         "wd:id":"Q477439"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459010174,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"866e3a5d1107362a52a9a80fe40ea9b9",
+    "wof:geomhash":"a75496e724f4f79133bea96413c450fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421204103,
-    "wof:lastmodified":1690848282,
+    "wof:lastmodified":1695886799,
     "wof:name":"Keetmanshoop Rural",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

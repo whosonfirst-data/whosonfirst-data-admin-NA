@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014663,
-    "geom:area_square_m":172897194.238748,
+    "geom:area_square_m":172897045.819382,
     "geom:bbox":"15.761525,-17.560475,15.997182,-17.457949",
     "geom:latitude":-17.521018,
     "geom:longitude":15.883359,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.OW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835184,
-    "wof:geomhash":"1ebb082a7d5ee555db2245b475de3790",
+    "wof:geomhash":"10223c2c6df2b25ff7d0072036996dda",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785119,
-    "wof:lastmodified":1636502200,
+    "wof:lastmodified":1695886049,
     "wof:name":"Ohangwena",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

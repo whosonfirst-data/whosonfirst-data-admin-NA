@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.402365,
-    "geom:area_square_m":27962293203.785084,
+    "geom:area_square_m":27962292534.812965,
     "geom:bbox":"18.67264,-20.453051,20.998761,-18.796983",
     "geom:latitude":-19.724312,
     "geom:longitude":19.950408,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OD.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835230,
-    "wof:geomhash":"58cf1d38a90c68a5d6baa2f7581cc002",
+    "wof:geomhash":"9793caca31f927e3799a683b0ea95856",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108785203,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1695886083,
     "wof:name":"Tsumkwe",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

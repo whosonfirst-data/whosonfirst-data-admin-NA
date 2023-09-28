@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021966,
-    "geom:area_square_m":259098904.084055,
+    "geom:area_square_m":259098760.021546,
     "geom:bbox":"15.886593,-17.575988,16.086255,-17.390422",
     "geom:latitude":-17.45713,
     "geom:longitude":15.988535,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.OS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835212,
-    "wof:geomhash":"ff3db3d31620c2ed88125f8e16db2ae5",
+    "wof:geomhash":"317abec2de134072c30c79514303c335",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108785173,
-    "wof:lastmodified":1636502200,
+    "wof:lastmodified":1695886049,
     "wof:name":"Oshikango",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

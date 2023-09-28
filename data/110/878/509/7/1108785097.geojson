@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.514961,
-    "geom:area_square_m":38341300393.813843,
+    "geom:area_square_m":38341300325.792381,
     "geom:bbox":"17.170711,-28.970639,19.999271,-27.137693",
     "geom:latitude":-28.093661,
     "geom:longitude":18.71277,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KA.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835169,
-    "wof:geomhash":"a6a62d18427acab6eb6e0a38a68270dc",
+    "wof:geomhash":"b26578e5ae9d9ea99e8ba4021fa6a87a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108785097,
-    "wof:lastmodified":1636502200,
+    "wof:lastmodified":1695886049,
     "wof:name":"Karas",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

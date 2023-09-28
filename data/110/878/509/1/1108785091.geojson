@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.753137,
-    "geom:area_square_m":8842402794.259901,
+    "geom:area_square_m":8842402430.552572,
     "geom:bbox":"18.463973,-18.806278,19.27441,-17.660646",
     "geom:latitude":-18.28411,
     "geom:longitude":18.86162,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OK.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835165,
-    "wof:geomhash":"73711cafc207b16c137072306c26331a",
+    "wof:geomhash":"daa56e4ae1ac1423d0db02d6c635e1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108785091,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886076,
     "wof:name":"Kahenge",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

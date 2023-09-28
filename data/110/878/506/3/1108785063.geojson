@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.14677,
-    "geom:area_square_m":13011868745.141815,
+    "geom:area_square_m":13011868636.102514,
     "geom:bbox":"18.340356,-23.870628,19.999111,-22.998057",
     "geom:latitude":-23.418518,
     "geom:longitude":19.296405,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OH.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835145,
-    "wof:geomhash":"89ed06033304c6cde5b4763be39aaeb1",
+    "wof:geomhash":"c578232929cb00fa2df2106da05d343b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785063,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1695886074,
     "wof:name":"Aminius",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

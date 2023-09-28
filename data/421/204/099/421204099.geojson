@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.733106,
-    "geom:area_square_m":20201647198.089714,
+    "geom:area_square_m":20201646261.594128,
     "geom:bbox":"12.484555,-20.003447,14.75746,-18.998803",
     "geom:latitude":-19.492673,
     "geom:longitude":13.642684,
@@ -110,12 +110,13 @@
         "qs_pg:id":238041,
         "wd:id":"Q545466"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459010173,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eabd9c44fbf506a61ac546b3f19fc11b",
+    "wof:geomhash":"3155fc599ac68db0539ceef8a5f62e99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421204099,
-    "wof:lastmodified":1690848282,
+    "wof:lastmodified":1695886799,
     "wof:name":"Sesfontein",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

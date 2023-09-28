@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.874558,
-    "geom:area_square_m":10231345789.695444,
+    "geom:area_square_m":10231345678.58667,
     "geom:bbox":"17.027066,-19.532283,18.199862,-18.386498",
     "geom:latitude":-18.893097,
     "geom:longitude":17.593723,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.OT.GN",
         "qs_pg:id":986717
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009396,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e16df334af891f1e5e08495a9b8a458",
+    "wof:geomhash":"96229b1da9aebf4b99e7bf60a7180388",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421183951,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886075,
     "wof:name":"Guinas",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

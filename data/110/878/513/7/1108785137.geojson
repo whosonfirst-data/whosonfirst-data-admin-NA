@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398861,
-    "geom:area_square_m":4701873562.565791,
+    "geom:area_square_m":4701873221.580832,
     "geom:bbox":"16.873975,-17.768725,18.002351,-17.389528",
     "geom:latitude":-17.571105,
     "geom:longitude":17.455832,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.OO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835193,
-    "wof:geomhash":"c9129459110c6cc21a4763f48065082d",
+    "wof:geomhash":"fbcbd7d0b449765debb71e0f490627cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785137,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886080,
     "wof:name":"Okongo",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

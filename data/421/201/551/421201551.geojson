@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.515338,
-    "geom:area_square_m":5914962876.624782,
+    "geom:area_square_m":5914962515.803857,
     "geom:bbox":"16.332519,-22.378546,17.025215,-21.178878",
     "geom:latitude":-21.836316,
     "geom:longitude":16.669448,
@@ -236,12 +236,13 @@
         "qs_pg:id":212590,
         "wd:id":"Q597491"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459010076,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c7560769120efbea312ff8c92655180",
+    "wof:geomhash":"31ac6c84e3a2fabc48b08bb704a7dc16",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":421201551,
-    "wof:lastmodified":1690848290,
+    "wof:lastmodified":1695886051,
     "wof:name":"Okahandja",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

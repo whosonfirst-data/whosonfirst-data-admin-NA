@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002308,
-    "geom:area_square_m":26360823.544221,
+    "geom:area_square_m":26360790.206389,
     "geom:bbox":"16.981472,-22.565225,17.071601,-22.521353",
     "geom:latitude":-22.546575,
     "geom:longitude":17.023244,
@@ -107,12 +107,13 @@
         "qs_pg:id":1247385,
         "wd:id":"Q15237923"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459008891,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44e32eb21e55908ba9ba7b065fc05c7a",
+    "wof:geomhash":"eeb5125749ca691a5ac6f6dbab89085c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421171383,
-    "wof:lastmodified":1690848293,
+    "wof:lastmodified":1695886076,
     "wof:name":"Khomasdal North",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

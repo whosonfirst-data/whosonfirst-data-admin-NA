@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.968186,
-    "geom:area_square_m":11298311402.342165,
+    "geom:area_square_m":11298310945.704063,
     "geom:bbox":"17.835028,-20.040511,19.028655,-18.748265",
     "geom:latitude":-19.307659,
     "geom:longitude":18.43566,
@@ -168,12 +168,13 @@
         "hasc:id":"NA.OD.GR",
         "qs_pg:id":1090161
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e96fa77fa5c5ce29e62b151c63204f20",
+    "wof:geomhash":"783da443cff9b3ce66721d20301a2ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421186171,
-    "wof:lastmodified":1636502203,
+    "wof:lastmodified":1695886050,
     "wof:name":"Grootfontein",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

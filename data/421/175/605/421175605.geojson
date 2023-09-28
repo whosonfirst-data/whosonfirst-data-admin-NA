@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018263,
-    "geom:area_square_m":208457267.161093,
+    "geom:area_square_m":208457558.691275,
     "geom:bbox":"14.502833,-22.689954,14.719028,-22.56695",
     "geom:latitude":-22.619703,
     "geom:longitude":14.599047,
@@ -198,12 +198,13 @@
         "hasc:id":"NA.ER.SW",
         "qs_pg:id":383386
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1bb199fb3bc2a912dfeb8e27108e652",
+    "wof:geomhash":"db52842fa06ab8fd4f1d85714064bcf6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -213,7 +214,7 @@
         }
     ],
     "wof:id":421175605,
-    "wof:lastmodified":1636502203,
+    "wof:lastmodified":1695886050,
     "wof:name":"Swakopmund",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.958964,
-    "geom:area_square_m":11074882582.799871,
+    "geom:area_square_m":11074882719.722021,
     "geom:bbox":"19.288214,-21.690494,20.020994,-20.240375",
     "geom:latitude":-20.933208,
     "geom:longitude":19.649233,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OH.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835159,
-    "wof:geomhash":"c286237e1e86986f10ee2c4331088b07",
+    "wof:geomhash":"6d0c2d59fe1e84a95075dcbcfc04cc2b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785083,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886076,
     "wof:name":"Epukiro",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

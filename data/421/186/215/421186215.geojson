@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.215018,
-    "geom:area_square_m":36614208018.844994,
+    "geom:area_square_m":36614209148.79541,
     "geom:bbox":"15.728849,-24.077511,18.498395,-21.708806",
     "geom:latitude":-22.920669,
     "geom:longitude":17.154163,
@@ -113,12 +113,13 @@
         "qs_pg:id":1090163,
         "wd:id":"Q904970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009474,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1212f1f0f339cebc780127f7c10e5ee",
+    "wof:geomhash":"69169d4295a60e4199842d138edbf837",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421186215,
-    "wof:lastmodified":1690848286,
+    "wof:lastmodified":1695886084,
     "wof:name":"Windhoek Rural",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

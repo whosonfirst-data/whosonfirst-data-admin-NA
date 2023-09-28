@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020638,
-    "geom:area_square_m":242654329.424358,
+    "geom:area_square_m":242654312.25088,
     "geom:bbox":"15.998634,-18.160402,16.137046,-17.924379",
     "geom:latitude":-18.038786,
     "geom:longitude":16.068616,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OT.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835194,
-    "wof:geomhash":"4d352ef28d64df905912c6e20fa21e7c",
+    "wof:geomhash":"c446aae0b84836d0bc8cc50af5d86e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785139,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886080,
     "wof:name":"Olukonda",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

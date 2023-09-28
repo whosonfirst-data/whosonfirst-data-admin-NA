@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050957,
-    "geom:area_square_m":600417931.706488,
+    "geom:area_square_m":600417894.71138,
     "geom:bbox":"15.921493,-17.795468,16.259591,-17.519579",
     "geom:latitude":-17.654084,
     "geom:longitude":16.09394,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835197,
-    "wof:geomhash":"59dc891643a450331490b1ae12efa011",
+    "wof:geomhash":"351c5d2223dc3c3265d379515e639c69",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785145,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886081,
     "wof:name":"Omulonga",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

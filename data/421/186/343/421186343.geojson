@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.197872,
-    "geom:area_square_m":25775945731.399246,
+    "geom:area_square_m":25775944859.184544,
     "geom:bbox":"11.816222,-19.017947,14.392226,-17.997757",
     "geom:latitude":-18.476303,
     "geom:longitude":13.208568,
@@ -229,12 +229,13 @@
         "qs_pg:id":1090171,
         "wd:id":"Q1024089"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2c5dd6227dc7b656624563f49af47c7",
+    "wof:geomhash":"e00a70e7411244fa8fa2231de290b9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -244,7 +245,7 @@
         }
     ],
     "wof:id":421186343,
-    "wof:lastmodified":1690848287,
+    "wof:lastmodified":1695886050,
     "wof:name":"Opuwo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

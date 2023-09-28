@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019042,
-    "geom:area_square_m":217356413.996648,
+    "geom:area_square_m":217356433.376258,
     "geom:bbox":"16.872763,-22.689271,17.088574,-22.535427",
     "geom:latitude":-22.613829,
     "geom:longitude":16.99736,
@@ -101,12 +101,13 @@
         "qs_pg:id":1090170,
         "wd:id":"Q527453"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c5c9e93d4a5a2938a218759872c0e9b",
+    "wof:geomhash":"546f9e2185a3c8cc4968c6deecfdc326",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421186345,
-    "wof:lastmodified":1627522463,
+    "wof:lastmodified":1695886084,
     "wof:name":"Windhoek West",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

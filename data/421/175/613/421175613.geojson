@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.644459,
-    "geom:area_square_m":7496481756.836885,
+    "geom:area_square_m":7496481452.567667,
     "geom:bbox":"15.895038,-20.43419,16.722063,-19.32887",
     "geom:latitude":-19.825193,
     "geom:longitude":16.273927,
@@ -159,12 +159,13 @@
         "hasc:id":"NA.KU.OU",
         "qs_pg:id":383399
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2910fa979f599adad8addd148cec123",
+    "wof:geomhash":"750ee7ea9b42fc2af64ce1a549d0f281",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421175613,
-    "wof:lastmodified":1636502204,
+    "wof:lastmodified":1695886051,
     "wof:name":"Outjo",
     "wof:parent_id":85675209,
     "wof:placetype":"county",

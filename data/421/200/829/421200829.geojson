@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.403677,
-    "geom:area_square_m":48658761387.742142,
+    "geom:area_square_m":48658759818.607544,
     "geom:bbox":"14.798722,-28.397514,17.01145,-25.009443",
     "geom:latitude":-26.657439,
     "geom:longitude":15.870281,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.KA.LU",
         "qs_pg:id":897418
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459010043,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da883d12bdd1d8dcffd22532ff082bd9",
+    "wof:geomhash":"093f8a220772bbb8d42deba6803360fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421200829,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1695886077,
     "wof:name":"Luderitz",
     "wof:parent_id":85675195,
     "wof:placetype":"county",

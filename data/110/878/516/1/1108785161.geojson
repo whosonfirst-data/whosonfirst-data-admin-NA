@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027155,
-    "geom:area_square_m":320328806.75683,
+    "geom:area_square_m":320328748.338419,
     "geom:bbox":"15.550685,-17.555622,15.843619,-17.390621",
     "geom:latitude":-17.4476,
     "geom:longitude":15.667896,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.OG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835205,
-    "wof:geomhash":"8cf009570811f58ff1b8c04fe4679a61",
+    "wof:geomhash":"802d076faa063f2cfa3d5fbe45208d32",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785161,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Ongenga",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

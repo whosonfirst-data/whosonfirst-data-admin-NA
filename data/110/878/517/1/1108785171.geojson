@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020278,
-    "geom:area_square_m":238654318.020458,
+    "geom:area_square_m":238654406.148719,
     "geom:bbox":"15.536751,-17.934849,15.72651,-17.748215",
     "geom:latitude":-17.858233,
     "geom:longitude":15.624094,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835211,
-    "wof:geomhash":"15bc29f9d1f699e6a8636624cfd3aba0",
+    "wof:geomhash":"eda7e04145ae7aec73a21c7f11891ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785171,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Oshakati West",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

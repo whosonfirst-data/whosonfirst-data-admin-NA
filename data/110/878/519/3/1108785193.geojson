@@ -180,9 +180,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KH.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835226,
-    "wof:geomhash":"72bc72923151b047b3057594f7c9d1d8",
+    "wof:geomhash":"cb16138e1b40268c542112d577ccc5d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1108785193,
-    "wof:lastmodified":1566647631,
+    "wof:lastmodified":1695886415,
     "wof:name":"Soweto",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

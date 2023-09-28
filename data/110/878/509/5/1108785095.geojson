@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.528143,
-    "geom:area_square_m":6190839274.059194,
+    "geom:area_square_m":6190838934.583982,
     "geom:bbox":"19.199361,-19.184124,19.740542,-17.821895",
     "geom:latitude":-18.559348,
     "geom:longitude":19.435452,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KW.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835168,
-    "wof:geomhash":"19d4b6325fe0b7f71ee3ef1f7ebd5475",
+    "wof:geomhash":"072d0edc9d7b37e5a4e4c8eb793aa9bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785095,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1695886077,
     "wof:name":"Kapako",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

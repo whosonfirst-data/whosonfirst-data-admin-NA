@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.265914,
-    "geom:area_square_m":14672466648.215755,
+    "geom:area_square_m":14672466935.763336,
     "geom:bbox":"17.34868,-21.081014,19.003105,-19.523244",
     "geom:latitude":-20.387492,
     "geom:longitude":18.335943,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OD.OR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835187,
-    "wof:geomhash":"e81951cd281e608e1031adb8a1399c22",
+    "wof:geomhash":"f868ec7befc6c92eff9d0ee8bb66bf15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108785125,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886079,
     "wof:name":"Okakarara",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

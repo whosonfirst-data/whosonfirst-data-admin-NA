@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052712,
-    "geom:area_square_m":621798092.758445,
+    "geom:area_square_m":621798313.001841,
     "geom:bbox":"16.311158,-17.58005,16.877942,-17.389919",
     "geom:latitude":-17.449528,
     "geom:longitude":16.579277,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.ON"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835198,
-    "wof:geomhash":"fe7bf15b577086b64c06cd57516f4d17",
+    "wof:geomhash":"9ad9c63f8e5548eaf13dc0c90a99da60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785147,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886081,
     "wof:name":"Omundaungilo",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

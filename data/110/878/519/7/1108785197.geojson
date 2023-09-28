@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.527086,
-    "geom:area_square_m":17533746929.71006,
+    "geom:area_square_m":17533746929.709991,
     "geom:bbox":"17.9572419162,-22.4827421685,20.0099734992,-20.9909318417",
     "geom:latitude":-21.786228,
     "geom:longitude":18.810407,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OH.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835227,
-    "wof:geomhash":"e227a955ff2251decba9a0df0726ed42",
+    "wof:geomhash":"ac7b32221d8ae1a1e65c7addd8770666",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108785197,
-    "wof:lastmodified":1566647630,
+    "wof:lastmodified":1695886415,
     "wof:name":"Steinhausen",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.643452,
-    "geom:area_square_m":18949515832.008312,
+    "geom:area_square_m":18949515401.930492,
     "geom:bbox":"19.997622,-22.000342,20.998754,-20.281781",
     "geom:latitude":-21.169813,
     "geom:longitude":20.499917,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OH.OB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835217,
-    "wof:geomhash":"f21e7fdf3f80f40b87516f99e07e76b7",
+    "wof:geomhash":"68fdc44284479888f6c3c4e5aa9db525",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785183,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Otjombinde",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

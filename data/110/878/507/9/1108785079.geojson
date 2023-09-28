@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.666962,
-    "geom:area_square_m":7834801532.262156,
+    "geom:area_square_m":7834801011.815366,
     "geom:bbox":"16.520352,-18.539284,18.001079,-17.902828",
     "geom:latitude":-18.193345,
     "geom:longitude":17.332165,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OT.EG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835152,
-    "wof:geomhash":"5bd1f2c993c26d1acdee1ea46797e5b9",
+    "wof:geomhash":"44d012292ad12ad571153d5925222208",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785079,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886076,
     "wof:name":"Engodi",
     "wof:parent_id":85675243,
     "wof:placetype":"county",
