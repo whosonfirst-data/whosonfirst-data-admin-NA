@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.969074,
-    "geom:area_square_m":10963872761.949915,
+    "geom:area_square_m":10963872214.034164,
     "geom:bbox":"16.305473,-24.355654,17.743992,-23.220708",
     "geom:latitude":-23.797397,
     "geom:longitude":16.9483,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"NA.HA.RR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835220,
-    "wof:geomhash":"27b201becfeb7ea3ecf41763ccb6df81",
+    "wof:geomhash":"1e4f5cc8656b8564fa9399a3abd46bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108785187,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1695886083,
     "wof:name":"Rehoboth Rural",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

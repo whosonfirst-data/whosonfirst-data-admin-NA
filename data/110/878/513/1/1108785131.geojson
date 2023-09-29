@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302827,
-    "geom:area_square_m":3563695058.098314,
+    "geom:area_square_m":3563695694.641543,
     "geom:bbox":"16.408715,-18.139146,18.001514,-17.749569",
     "geom:latitude":-17.878214,
     "geom:longitude":17.179743,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OT.OO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835190,
-    "wof:geomhash":"224651a25609da2e2ba045422a654ddd",
+    "wof:geomhash":"91bf9e39b0d13ccf61e29587dd09a15b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785131,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886079,
     "wof:name":"Okankolo",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025496,
-    "geom:area_square_m":299839308.299387,
+    "geom:area_square_m":299839350.553502,
     "geom:bbox":"15.763042,-18.067899,16.001003,-17.93292",
     "geom:latitude":-17.9962,
     "geom:longitude":15.884172,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.ON.UK",
         "qs_pg:id":961487
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009357,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d9e139f66e09762508ee11ed174cc75",
+    "wof:geomhash":"2ae7b034cb4307eae07653983a76acc1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421183085,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1695886083,
     "wof:name":"Uukwiyu",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

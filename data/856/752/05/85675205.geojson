@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.259119,
-    "geom:area_square_m":37117685519.53788,
+    "geom:area_square_m":37117686686.158966,
     "geom:bbox":"15.728849,-24.077511,18.498395,-21.708806",
     "geom:latitude":-22.916219,
     "geom:longitude":17.152859,
@@ -304,17 +304,19 @@
         "gn:id":3352137,
         "gp:id":20069845,
         "hasc:id":"NA.KH",
+        "iso:code":"NA-KH",
         "iso:id":"NA-KH",
         "qs_pg:id":890195,
         "unlc:id":"NA-KH",
         "wd:id":"Q834508",
         "wk:page":"Khomas Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d270ebc0644e716396db1ef28f672b1",
+    "wof:geomhash":"c4639861a549a3279dba763f591f066d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848273,
+    "wof:lastmodified":1695884922,
     "wof:name":"Khomas",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

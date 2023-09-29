@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.888861,
-    "geom:area_square_m":115502043053.875229,
+    "geom:area_square_m":115502042177.840012,
     "geom:bbox":"11.734472,-21.188457,16.722063,-16.963485",
     "geom:latitude":-19.134633,
     "geom:longitude":13.92924,
@@ -302,17 +302,19 @@
         "gn:id":3371202,
         "gp:id":20069839,
         "hasc:id":"NA.KU",
+        "iso:code":"NA-KU",
         "iso:id":"NA-KU",
         "qs_pg:id":236574,
         "unlc:id":"NA-KU",
         "wd:id":"Q834513",
         "wk:page":"Kunene Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c2c20320e2487e437f3903b7adb8175",
+    "wof:geomhash":"8a233f483ab06bb6cf8280eb5edfe96f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848274,
+    "wof:lastmodified":1695884922,
     "wof:name":"Kunene",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

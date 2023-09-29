@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.072905,
-    "geom:area_square_m":12256332869.712692,
+    "geom:area_square_m":12256332854.513306,
     "geom:bbox":"18.801906,-23.109533,20.00292,-21.947907",
     "geom:latitude":-22.503344,
     "geom:longitude":19.483245,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.OH.KA",
         "qs_pg:id":383387
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"54159f9d18dc41ba8807470bb9e8a19c",
+    "wof:geomhash":"6f4e25e92cacb9bdc13c77c882dd2839",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421175607,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886075,
     "wof:name":"Kalahari",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

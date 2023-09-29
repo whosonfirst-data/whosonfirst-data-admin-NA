@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.528939,
-    "geom:area_square_m":5951191293.341379,
+    "geom:area_square_m":5951190491.230233,
     "geom:bbox":"17.118228,-24.956876,18.005165,-24.038966",
     "geom:latitude":-24.506376,
     "geom:longitude":17.552482,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"NA.HA.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835178,
-    "wof:geomhash":"8ede9f965459b9d07765857f13e1fa45",
+    "wof:geomhash":"34a749b6b7d6663832de80db8181b51c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108785107,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1695886078,
     "wof:name":"Mariental Urban",
     "wof:parent_id":85675199,
     "wof:placetype":"county",

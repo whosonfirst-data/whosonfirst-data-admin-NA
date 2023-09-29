@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.696067,
-    "geom:area_square_m":8183339690.968024,
+    "geom:area_square_m":8183340339.285253,
     "geom:bbox":"17.997673,-18.763217,18.656826,-17.389509",
     "geom:latitude":-18.047713,
     "geom:longitude":18.258845,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KW.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835181,
-    "wof:geomhash":"2c3034bd8ed809c28fbb58375653d5ba",
+    "wof:geomhash":"757ba29c224111c3ec8eacb2d2514ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785113,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886078,
     "wof:name":"Mpungu",
     "wof:parent_id":85675237,
     "wof:placetype":"county",

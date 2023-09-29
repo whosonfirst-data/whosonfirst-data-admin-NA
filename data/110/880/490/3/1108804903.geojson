@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.979066,
-    "geom:area_square_m":23236799490.046352,
+    "geom:area_square_m":23236799490.046444,
     "geom:bbox":"17.9976726857,-19.1841241125,19.7995758376,-17.389509",
     "geom:latitude":-18.27409,
     "geom:longitude":18.80354,
@@ -173,11 +173,13 @@
         "gn:id":3371204,
         "gp:id":20069820,
         "hasc:id":"NA.KW",
+        "iso:code":"NA-KW",
         "iso:id":"NA-KW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:created":1485471369,
-    "wof:geomhash":"1becdf0137ff9e7e1d154756fe02f7ef",
+    "wof:geomhash":"8a2ca201a118a2b84d23000c8fa1bb67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +196,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1566647626,
+    "wof:lastmodified":1695884327,
     "wof:name":"Kavango West",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

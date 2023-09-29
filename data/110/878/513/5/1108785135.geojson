@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047805,
-    "geom:area_square_m":561695301.337783,
+    "geom:area_square_m":561695071.144646,
     "geom:bbox":"15.759889,-18.388485,16.039896,-18.020476",
     "geom:latitude":-18.154271,
     "geom:longitude":15.924923,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835192,
-    "wof:geomhash":"19ef8609b9d0a723af6b713157621104",
+    "wof:geomhash":"fdf16c8ab3b170db937d6a4043e7120c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785135,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886080,
     "wof:name":"Okatyali",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

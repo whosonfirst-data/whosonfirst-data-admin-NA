@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023618,
-    "geom:area_square_m":278226307.169387,
+    "geom:area_square_m":278226366.509563,
     "geom:bbox":"15.282282,-17.785946,15.503838,-17.613475",
     "geom:latitude":-17.690719,
     "geom:longitude":15.392467,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OS.OS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835213,
-    "wof:geomhash":"a7d7ca5bb33f93bc2305054dc9d955f9",
+    "wof:geomhash":"c476818cb4b2a444b23113b1948154a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108785175,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Oshikuku",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

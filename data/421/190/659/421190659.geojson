@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.808556,
-    "geom:area_square_m":9182001166.122431,
+    "geom:area_square_m":9182002414.799484,
     "geom:bbox":"14.402805,-23.809994,15.847985,-22.645237",
     "geom:latitude":-23.307169,
     "geom:longitude":15.042577,
@@ -113,12 +113,13 @@
         "qs_pg:id":1119980,
         "wd:id":"Q1800633"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009664,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22a69cbea66b8817ce460cb629619e32",
+    "wof:geomhash":"6cf1cb75036a4fae2df61e229de43d30",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421190659,
-    "wof:lastmodified":1690848289,
+    "wof:lastmodified":1695886800,
     "wof:name":"Walvisbay Rural",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

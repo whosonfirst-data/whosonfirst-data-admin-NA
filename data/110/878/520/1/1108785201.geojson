@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201702,
-    "geom:area_square_m":2373519850.181324,
+    "geom:area_square_m":2373520313.030918,
     "geom:bbox":"14.549065,-18.204421,15.072221,-17.636342",
     "geom:latitude":-17.887027,
     "geom:longitude":14.785939,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OS.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835229,
-    "wof:geomhash":"456e2ea63d34e319c0f27e33facc9a05",
+    "wof:geomhash":"568c97cffd135aca9bac2a27fde1d6b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785201,
-    "wof:lastmodified":1627522462,
+    "wof:lastmodified":1695886083,
     "wof:name":"Tsandi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

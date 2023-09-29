@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.570442,
-    "geom:area_square_m":63833537614.37056,
+    "geom:area_square_m":63833539665.759933,
     "geom:bbox":"13.631185,-23.809994,16.553924,-20.490081",
     "geom:latitude":-22.054409,
     "geom:longitude":15.227561,
@@ -308,17 +308,19 @@
         "gn:id":3371199,
         "gp:id":20069837,
         "hasc:id":"NA.ER",
+        "iso:code":"NA-ER",
         "iso:id":"NA-ER",
         "qs_pg:id":292253,
         "unlc:id":"NA-ER",
         "wd:id":"Q648753",
         "wk:page":"Erongo Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"289cc34366b3261c8d2ce0746ee51f4c",
+    "wof:geomhash":"32c8afcf5f44dfbfb89195aafca7ddbf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -335,7 +337,7 @@
         "afr",
         "eng"
     ],
-    "wof:lastmodified":1690848276,
+    "wof:lastmodified":1695884923,
     "wof:name":"Erongo",
     "wof:parent_id":85632535,
     "wof:placetype":"region",

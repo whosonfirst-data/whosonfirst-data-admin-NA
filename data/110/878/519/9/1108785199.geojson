@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001751,
-    "geom:area_square_m":20003371.419801,
+    "geom:area_square_m":20003371.419804,
     "geom:bbox":"17.0413480967,-22.5151496179,17.0918512943,-22.4685590123",
     "geom:latitude":-22.491409,
     "geom:longitude":17.066776,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KH.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835228,
-    "wof:geomhash":"930c6757b4a7dbb26c2dbeedcc0dd946",
+    "wof:geomhash":"463f548a4681852d08e1b180b21573b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785199,
-    "wof:lastmodified":1566647630,
+    "wof:lastmodified":1695886415,
     "wof:name":"Tobias Hainyeko",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

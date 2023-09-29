@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.499914,
-    "geom:area_square_m":5701828281.467148,
+    "geom:area_square_m":5701828464.683895,
     "geom:bbox":"18.108542,-23.180263,19.07189,-22.349861",
     "geom:latitude":-22.720167,
     "geom:longitude":18.601283,
@@ -159,12 +159,13 @@
         "hasc:id":"NA.OH.GO",
         "qs_pg:id":212589
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459010076,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f0fe0217f9f69490ec85c2cc5407f7f",
+    "wof:geomhash":"dc18b3fa27afe8d88e53b7a446b7e349",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421201549,
-    "wof:lastmodified":1636502204,
+    "wof:lastmodified":1695886051,
     "wof:name":"Gobabis",
     "wof:parent_id":85675235,
     "wof:placetype":"county",

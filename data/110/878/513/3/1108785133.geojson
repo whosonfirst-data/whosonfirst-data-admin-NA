@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036241,
-    "geom:area_square_m":426627739.442598,
+    "geom:area_square_m":426627713.638074,
     "geom:bbox":"15.389298,-18.007517,15.799706,-17.670628",
     "geom:latitude":-17.821303,
     "geom:longitude":15.573728,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835191,
-    "wof:geomhash":"70856ada1f182ad322a47219a1d5938d",
+    "wof:geomhash":"4c556c9e6d3e0aa20ddd1e3cde5fb26d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785133,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886080,
     "wof:name":"Okatana",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

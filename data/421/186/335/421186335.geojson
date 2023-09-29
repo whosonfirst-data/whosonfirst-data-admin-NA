@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.147391,
-    "geom:area_square_m":13422694255.915821,
+    "geom:area_square_m":13422693691.853992,
     "geom:bbox":"15.841179,-19.487205,17.161779,-18.157482",
     "geom:latitude":-18.898974,
     "geom:longitude":16.510297,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.OT.OG",
         "qs_pg:id":1090169
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009477,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e4ebbbed92b2dd1ab4bfbf5107289c3",
+    "wof:geomhash":"146c45293c253c7d510672e147280634",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421186335,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886080,
     "wof:name":"Omuthiyagwipundi",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

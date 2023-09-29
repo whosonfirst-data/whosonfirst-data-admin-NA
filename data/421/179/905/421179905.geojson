@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023937,
-    "geom:area_square_m":279466650.259218,
+    "geom:area_square_m":279466636.537196,
     "geom:bbox":"17.606979,-19.304061,17.835707,-19.173187",
     "geom:latitude":-19.233254,
     "geom:longitude":17.718434,
@@ -200,12 +200,13 @@
         "qs_pg:id":476082,
         "wd:id":"Q639467"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009237,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d004070918d9fbad2d2cbec96bbb56a0",
+    "wof:geomhash":"b63528900b6c97efd2726d5f9db6efe4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":421179905,
-    "wof:lastmodified":1690848291,
+    "wof:lastmodified":1695886051,
     "wof:name":"Tsumeb",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

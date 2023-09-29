@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.513012,
-    "geom:area_square_m":5941567289.114032,
+    "geom:area_square_m":5941567502.169897,
     "geom:bbox":"15.575227,-21.013652,16.90681,-19.971519",
     "geom:latitude":-20.504065,
     "geom:longitude":16.25362,
@@ -162,12 +162,13 @@
         "hasc:id":"NA.OD.OW",
         "qs_pg:id":1090160
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81fae40bad7b15fa47235f6358940051",
+    "wof:geomhash":"f35722740c66097fe49ca2870953de4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421186163,
-    "wof:lastmodified":1636502203,
+    "wof:lastmodified":1695886050,
     "wof:name":"Otjiwarongo",
     "wof:parent_id":85675217,
     "wof:placetype":"county",

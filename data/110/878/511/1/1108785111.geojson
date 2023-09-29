@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003194,
-    "geom:area_square_m":36496260.692959,
+    "geom:area_square_m":36496221.638356,
     "geom:bbox":"17.004075,-22.511848,17.088102,-22.433227",
     "geom:latitude":-22.468536,
     "geom:longitude":17.045084,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KH.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835180,
-    "wof:geomhash":"28ffca26b53d9f7e2cb789dece3ccd60",
+    "wof:geomhash":"c60825dd05c764b12050a468e24d44b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108785111,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886078,
     "wof:name":"Moses Garoeb",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

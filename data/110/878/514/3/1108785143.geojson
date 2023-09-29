@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039835,
-    "geom:area_square_m":468423387.538512,
+    "geom:area_square_m":468423566.686762,
     "geom:bbox":"15.49967,-18.161723,15.796059,-17.933404",
     "geom:latitude":-18.011551,
     "geom:longitude":15.659466,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835196,
-    "wof:geomhash":"29913dad15ab67d2c40437cb22a71969",
+    "wof:geomhash":"90798ada8cf468b91ba5e07442974edd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785143,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886080,
     "wof:name":"Ompundja",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

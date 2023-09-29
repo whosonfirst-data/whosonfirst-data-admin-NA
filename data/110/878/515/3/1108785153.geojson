@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835202,
-    "wof:geomhash":"b44e4b777e0b5158e8da2cc82fdad56a",
+    "wof:geomhash":"b2b507cedad3ea0e98a8d74e0681b921",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108785153,
-    "wof:lastmodified":1566647643,
+    "wof:lastmodified":1695886417,
     "wof:name":"Ondangwa",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

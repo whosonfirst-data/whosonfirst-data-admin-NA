@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037616,
-    "geom:area_square_m":442487667.488648,
+    "geom:area_square_m":442487672.593531,
     "geom:bbox":"16.110851,-18.142408,16.351553,-17.787206",
     "geom:latitude":-17.949527,
     "geom:longitude":16.208652,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OT.ON"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835201,
-    "wof:geomhash":"187ff559438873a7ec6774dcbdeca23c",
+    "wof:geomhash":"d35316bb52e2e48863950219e9a4df9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108785151,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886081,
     "wof:name":"Onayena",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

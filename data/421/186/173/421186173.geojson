@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.274528,
-    "geom:area_square_m":14580311164.701918,
+    "geom:area_square_m":14580311696.298752,
     "geom:bbox":"14.911143,-23.259177,16.465238,-21.573017",
     "geom:latitude":-22.304922,
     "geom:longitude":15.786858,
@@ -176,12 +176,13 @@
         "qs_pg:id":1090162,
         "wd:id":"Q1348181"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa28f5bd276757cb184c251e39dad9ec",
+    "wof:geomhash":"f8eb5b8ac84b872f90c32d76da699bde",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421186173,
-    "wof:lastmodified":1690848286,
+    "wof:lastmodified":1695886050,
     "wof:name":"Karibib",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

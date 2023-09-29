@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.185418,
-    "geom:area_square_m":13564470548.904703,
+    "geom:area_square_m":13564470441.591085,
     "geom:bbox":"13.631185,-23.330091,15.811557,-21.012075",
     "geom:latitude":-22.263169,
     "geom:longitude":14.689479,
@@ -91,12 +91,13 @@
         "hasc:id":"NA.ER.AR",
         "qs_pg:id":383400
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4d84d4b9620d34a04643bc07c767225",
+    "wof:geomhash":"d332168e9a230a4076f870d6e406d266",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421175615,
-    "wof:lastmodified":1627522456,
+    "wof:lastmodified":1695886073,
     "wof:name":"Arandis",
     "wof:parent_id":85675213,
     "wof:placetype":"county",

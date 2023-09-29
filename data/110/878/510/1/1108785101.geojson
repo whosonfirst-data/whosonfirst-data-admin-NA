@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1906702.953122,
+    "geom:area_square_m":1906665.157438,
     "geom:bbox":"17.045875,-22.532869,17.059342,-22.513543",
     "geom:latitude":-22.523984,
     "geom:longitude":17.052808,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.KH.KC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835172,
-    "wof:geomhash":"6936e848a6b1826a9f5a74c8ce3b2c3f",
+    "wof:geomhash":"11be32a4e1091d073a98b59d20328d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785101,
-    "wof:lastmodified":1627522458,
+    "wof:lastmodified":1695886077,
     "wof:name":"Katutura Central",
     "wof:parent_id":85675205,
     "wof:placetype":"county",

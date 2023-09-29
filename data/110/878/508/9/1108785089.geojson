@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177268,
-    "geom:area_square_m":2088546213.637526,
+    "geom:area_square_m":2088546213.637648,
     "geom:bbox":"24.3462777681,-17.8855295869,25.261752,-17.469636",
     "geom:latitude":-17.668662,
     "geom:longitude":24.795405,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"NA.CA.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835164,
-    "wof:geomhash":"7bf57e2ed7b5dff870de7125b7c92191",
+    "wof:geomhash":"38d2bd275eae9c01cc5dc2db7f40065b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108785089,
-    "wof:lastmodified":1566647635,
+    "wof:lastmodified":1695886416,
     "wof:name":"Kabe",
     "wof:parent_id":85675247,
     "wof:placetype":"county",

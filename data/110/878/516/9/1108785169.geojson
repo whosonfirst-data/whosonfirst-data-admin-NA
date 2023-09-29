@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016065,
-    "geom:area_square_m":189074792.059142,
+    "geom:area_square_m":189074767.005144,
     "geom:bbox":"15.680465,-17.937022,15.80255,-17.74937",
     "geom:latitude":-17.862176,
     "geom:longitude":15.735896,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NA.ON.OE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835210,
-    "wof:geomhash":"30412b9fe09302faa89dac88552beacb",
+    "wof:geomhash":"8bc9bf687192c66d2463f71005eb582c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108785169,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Oshakati East",
     "wof:parent_id":85675227,
     "wof:placetype":"county",

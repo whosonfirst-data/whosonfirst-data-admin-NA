@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031739,
-    "geom:area_square_m":373573923.315777,
+    "geom:area_square_m":373573919.215351,
     "geom:bbox":"15.998257,-17.990063,16.150614,-17.692886",
     "geom:latitude":-17.845348,
     "geom:longitude":16.070011,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OT.OP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835207,
-    "wof:geomhash":"54a25db2ed9e4e600f90f4bb25d2c850",
+    "wof:geomhash":"bdd91627d50afa9bdbd677ee1cd4af64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108785165,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886082,
     "wof:name":"Oniipa",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

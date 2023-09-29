@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.847924,
-    "geom:area_square_m":9931394463.512077,
+    "geom:area_square_m":9931394463.511864,
     "geom:bbox":"14.352499129,-19.4203785339,15.2691229104,-17.8487376897",
     "geom:latitude":-18.694283,
     "geom:longitude":14.876286,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OS.OK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835186,
-    "wof:geomhash":"cb2b045338b1c8571adc278cb9ac99f0",
+    "wof:geomhash":"21a6c9de411a3aff579f8d2d779f4369",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108785121,
-    "wof:lastmodified":1566647641,
+    "wof:lastmodified":1695886416,
     "wof:name":"Okahao",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051692,
-    "geom:area_square_m":609334563.586111,
+    "geom:area_square_m":609334596.464873,
     "geom:bbox":"14.540613,-17.74694,14.784419,-17.391424",
     "geom:latitude":-17.577561,
     "geom:longitude":14.627403,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OS.ON"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835204,
-    "wof:geomhash":"80672b0aadad26d53e90e8bd14234e7f",
+    "wof:geomhash":"0d85d2d4a939b3c35b22fdf35e0e9565",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785157,
-    "wof:lastmodified":1627522461,
+    "wof:lastmodified":1695886081,
     "wof:name":"Onesi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

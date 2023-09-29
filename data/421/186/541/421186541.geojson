@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470475,
-    "geom:area_square_m":5529836026.023568,
+    "geom:area_square_m":5529835871.955321,
     "geom:bbox":"20.996724,-18.317336,22.508587,-17.821976",
     "geom:latitude":-18.093695,
     "geom:longitude":21.71938,
@@ -87,12 +87,13 @@
         "hasc:id":"NA.KE.MU",
         "qs_pg:id":1073327
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009484,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be1a9b8d6cd249dd676341189be61b1d",
+    "wof:geomhash":"8873e4554903e66dba4504df8bc032ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421186541,
-    "wof:lastmodified":1627522459,
+    "wof:lastmodified":1695886078,
     "wof:name":"Mukwe",
     "wof:parent_id":1108804899,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424787,
-    "geom:area_square_m":5001053443.199582,
+    "geom:area_square_m":5001053725.070045,
     "geom:bbox":"22.495056,-18.116006,24.218228,-17.487784",
     "geom:latitude":-17.802164,
     "geom:longitude":23.262902,
@@ -107,12 +107,13 @@
         "qs_pg:id":383388,
         "wd:id":"Q1781540"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1459009073,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"59890e150c0d356ce6b769a318b3318b",
+    "wof:geomhash":"91cfc0d682f9fd4764ad36349e80e99f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421175609,
-    "wof:lastmodified":1690848288,
+    "wof:lastmodified":1695886800,
     "wof:name":"Kongola",
     "wof:parent_id":1108804901,
     "wof:placetype":"county",

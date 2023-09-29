@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153973,
-    "geom:area_square_m":1807427837.333303,
+    "geom:area_square_m":1807428424.508094,
     "geom:bbox":"15.937641,-18.502887,16.412964,-18.051319",
     "geom:latitude":-18.317922,
     "geom:longitude":16.18043,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OT.OT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835199,
-    "wof:geomhash":"b547c9c267787e4ebe6c5950249ecb9b",
+    "wof:geomhash":"935880197192f94fa1faaac0a9c22f40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785149,
-    "wof:lastmodified":1627522460,
+    "wof:lastmodified":1695886081,
     "wof:name":"Omuntele",
     "wof:parent_id":85675243,
     "wof:placetype":"county",

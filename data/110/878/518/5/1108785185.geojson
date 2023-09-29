@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083757,
-    "geom:area_square_m":987637853.504158,
+    "geom:area_square_m":987637853.504172,
     "geom:bbox":"14.6436777856,-17.6703874018,15.0410540716,-17.391352",
     "geom:latitude":-17.517809,
     "geom:longitude":14.846569,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OS.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835218,
-    "wof:geomhash":"6e692f61448505ffa199c62cdd9eeb08",
+    "wof:geomhash":"737db07c28a700baf851d6eafc5ce3d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108785185,
-    "wof:lastmodified":1566647632,
+    "wof:lastmodified":1695886415,
     "wof:name":"Outapi",
     "wof:parent_id":85675223,
     "wof:placetype":"county",

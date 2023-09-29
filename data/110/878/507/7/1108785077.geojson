@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025226,
-    "geom:area_square_m":297463345.673942,
+    "geom:area_square_m":297463524.712747,
     "geom:bbox":"15.618077,-17.671784,15.894907,-17.390762",
     "geom:latitude":-17.517615,
     "geom:longitude":15.749336,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.EG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835151,
-    "wof:geomhash":"2ec9daeb767044514539e378b8a3a9c6",
+    "wof:geomhash":"1d4f228328a7c2d17d4b1c19cfd82564",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108785077,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886075,
     "wof:name":"Engela",
     "wof:parent_id":85675231,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154257,
-    "geom:area_square_m":1817449607.379322,
+    "geom:area_square_m":1817449629.503613,
     "geom:bbox":"16.351443,-17.928992,16.993743,-17.441612",
     "geom:latitude":-17.667864,
     "geom:longitude":16.685815,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"NA.OW.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NA",
     "wof:created":1481835158,
-    "wof:geomhash":"fe45460ffe278daf1dc9a5d856b47c12",
+    "wof:geomhash":"1e231113fe128a900aa2ebe761fa7eea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108785081,
-    "wof:lastmodified":1627522457,
+    "wof:lastmodified":1695886076,
     "wof:name":"Epembe",
     "wof:parent_id":85675231,
     "wof:placetype":"county",
